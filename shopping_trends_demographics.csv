@@ -1,0 +1,3901 @@
+Customer ID,Age,Gender,Location,Season,Subscription Status,Frequency of Purchases
+1,55,Male,Kentucky,Winter,Yes,Fortnightly
+2,19,Male,Maine,Winter,Yes,Fortnightly
+3,50,Male,Massachusetts,Spring,Yes,Weekly
+4,21,Male,Rhode Island,Spring,Yes,Weekly
+5,45,Male,Oregon,Spring,Yes,Annually
+6,46,Male,Wyoming,Summer,Yes,Weekly
+7,63,Male,Montana,Fall,Yes,Quarterly
+8,27,Male,Louisiana,Winter,Yes,Weekly
+9,26,Male,West Virginia,Summer,Yes,Annually
+10,57,Male,Missouri,Spring,Yes,Quarterly
+11,53,Male,Arkansas,Fall,Yes,Bi-Weekly
+12,30,Male,Hawaii,Winter,Yes,Fortnightly
+13,61,Male,Delaware,Winter,Yes,Fortnightly
+14,65,Male,New Hampshire,Spring,Yes,Weekly
+15,64,Male,New York,Winter,Yes,Weekly
+16,64,Male,Rhode Island,Winter,Yes,Monthly
+17,25,Male,Alabama,Spring,Yes,Bi-Weekly
+18,53,Male,Mississippi,Winter,Yes,Quarterly
+19,52,Male,Montana,Summer,Yes,Weekly
+20,66,Male,Rhode Island,Summer,Yes,Bi-Weekly
+21,21,Male,Louisiana,Winter,Yes,Every 3 Months
+22,31,Male,North Carolina,Winter,Yes,Quarterly
+23,56,Male,California,Summer,Yes,Annually
+24,31,Male,Oklahoma,Winter,Yes,Weekly
+25,18,Male,Florida,Fall,Yes,Weekly
+26,18,Male,Texas,Summer,Yes,Annually
+27,38,Male,Nevada,Spring,Yes,Annually
+28,56,Male,Kentucky,Summer,Yes,Every 3 Months
+29,54,Male,North Carolina,Fall,Yes,Every 3 Months
+30,31,Male,Wyoming,Fall,Yes,Weekly
+31,57,Male,North Carolina,Winter,Yes,Monthly
+32,33,Male,West Virginia,Winter,Yes,Monthly
+33,36,Male,Kansas,Summer,Yes,Annually
+34,54,Male,Colorado,Summer,Yes,Quarterly
+35,36,Male,North Dakota,Spring,Yes,Quarterly
+36,54,Male,Massachusetts,Summer,Yes,Bi-Weekly
+37,35,Male,Illinois,Winter,Yes,Fortnightly
+38,35,Male,Indiana,Summer,Yes,Weekly
+39,29,Male,Florida,Winter,Yes,Every 3 Months
+40,70,Male,Arizona,Summer,Yes,Monthly
+41,69,Male,Louisiana,Winter,Yes,Quarterly
+42,67,Male,Alaska,Spring,Yes,Annually
+43,20,Male,Tennessee,Spring,Yes,Annually
+44,25,Male,Ohio,Fall,Yes,Fortnightly
+45,39,Male,Kentucky,Summer,Yes,Weekly
+46,50,Male,Tennessee,Fall,Yes,Annually
+47,57,Male,California,Summer,Yes,Quarterly
+48,55,Male,Montana,Winter,Yes,Weekly
+49,42,Male,Nevada,Summer,Yes,Monthly
+50,68,Male,New Jersey,Spring,Yes,Bi-Weekly
+51,49,Male,Maryland,Spring,Yes,Bi-Weekly
+52,59,Male,Vermont,Winter,Yes,Quarterly
+53,42,Male,Alaska,Summer,Yes,Weekly
+54,29,Male,Mississippi,Winter,Yes,Weekly
+55,47,Male,New Mexico,Summer,Yes,Bi-Weekly
+56,40,Male,South Carolina,Winter,Yes,Annually
+57,41,Male,Mississippi,Summer,Yes,Weekly
+58,21,Male,West Virginia,Summer,Yes,Fortnightly
+59,69,Male,Missouri,Summer,Yes,Monthly
+60,63,Male,Louisiana,Spring,Yes,Weekly
+61,50,Male,Idaho,Summer,Yes,Weekly
+62,55,Male,Texas,Winter,Yes,Every 3 Months
+63,30,Male,Mississippi,Spring,Yes,Fortnightly
+64,33,Male,Arizona,Winter,Yes,Weekly
+65,65,Male,Alabama,Fall,Yes,Fortnightly
+66,65,Male,New Jersey,Spring,Yes,Every 3 Months
+67,31,Male,Pennsylvania,Winter,Yes,Every 3 Months
+68,45,Male,Connecticut,Winter,Yes,Monthly
+69,57,Male,Utah,Summer,Yes,Every 3 Months
+70,48,Male,Tennessee,Summer,Yes,Weekly
+71,22,Male,Alabama,Fall,Yes,Every 3 Months
+72,36,Male,Virginia,Summer,Yes,Annually
+73,18,Male,Georgia,Winter,Yes,Every 3 Months
+74,48,Male,Hawaii,Spring,Yes,Bi-Weekly
+75,49,Male,Indiana,Spring,Yes,Monthly
+76,64,Male,Utah,Summer,Yes,Annually
+77,50,Male,Delaware,Summer,Yes,Monthly
+78,22,Male,Delaware,Summer,Yes,Fortnightly
+79,50,Male,Nebraska,Spring,Yes,Fortnightly
+80,38,Male,Iowa,Winter,Yes,Every 3 Months
+81,19,Male,New York,Summer,Yes,Every 3 Months
+82,67,Male,Virginia,Summer,Yes,Every 3 Months
+83,19,Male,Georgia,Spring,Yes,Every 3 Months
+84,36,Male,Texas,Summer,Yes,Weekly
+85,52,Male,Arizona,Spring,Yes,Every 3 Months
+86,53,Male,New Mexico,Winter,Yes,Bi-Weekly
+87,24,Male,Nevada,Spring,Yes,Bi-Weekly
+88,52,Male,Ohio,Fall,Yes,Fortnightly
+89,33,Male,Wyoming,Fall,Yes,Monthly
+90,47,Male,California,Fall,Yes,Quarterly
+91,25,Male,South Carolina,Summer,Yes,Monthly
+92,44,Male,South Carolina,Winter,Yes,Every 3 Months
+93,61,Male,Texas,Winter,Yes,Every 3 Months
+94,37,Male,Florida,Fall,Yes,Weekly
+95,58,Male,Nevada,Spring,Yes,Weekly
+96,37,Male,Missouri,Fall,Yes,Monthly
+97,32,Male,Delaware,Spring,Yes,Every 3 Months
+98,21,Male,Virginia,Winter,Yes,Annually
+99,20,Male,New York,Spring,Yes,Annually
+100,26,Male,Missouri,Summer,Yes,Quarterly
+101,62,Male,South Dakota,Fall,Yes,Fortnightly
+102,27,Male,North Dakota,Spring,Yes,Bi-Weekly
+103,51,Male,Oklahoma,Winter,Yes,Quarterly
+104,54,Male,West Virginia,Winter,Yes,Bi-Weekly
+105,55,Male,New Hampshire,Spring,Yes,Monthly
+106,69,Male,New York,Fall,Yes,Annually
+107,64,Male,Minnesota,Summer,Yes,Monthly
+108,28,Male,Maryland,Winter,Yes,Fortnightly
+109,70,Male,Montana,Spring,Yes,Bi-Weekly
+110,58,Male,Alabama,Spring,Yes,Fortnightly
+111,56,Male,New York,Summer,Yes,Fortnightly
+112,26,Male,Massachusetts,Summer,Yes,Annually
+113,37,Male,Florida,Spring,Yes,Bi-Weekly
+114,44,Male,New Jersey,Winter,Yes,Quarterly
+115,70,Male,Massachusetts,Summer,Yes,Weekly
+116,53,Male,Wyoming,Spring,Yes,Every 3 Months
+117,55,Male,Virginia,Spring,Yes,Annually
+118,50,Male,South Dakota,Summer,Yes,Fortnightly
+119,50,Male,Kentucky,Fall,Yes,Bi-Weekly
+120,38,Male,Wyoming,Fall,Yes,Annually
+121,64,Male,West Virginia,Summer,Yes,Annually
+122,19,Male,Virginia,Winter,Yes,Fortnightly
+123,40,Male,Washington,Spring,Yes,Fortnightly
+124,57,Male,Louisiana,Fall,Yes,Weekly
+125,44,Male,Nevada,Spring,Yes,Annually
+126,49,Male,California,Winter,Yes,Every 3 Months
+127,43,Male,Mississippi,Spring,Yes,Every 3 Months
+128,24,Male,Mississippi,Winter,Yes,Weekly
+129,20,Male,California,Spring,Yes,Fortnightly
+130,24,Male,Pennsylvania,Summer,Yes,Bi-Weekly
+131,44,Male,Kentucky,Fall,Yes,Fortnightly
+132,28,Male,Maine,Summer,Yes,Weekly
+133,30,Male,New Mexico,Fall,Yes,Weekly
+134,52,Male,Montana,Winter,Yes,Annually
+135,43,Male,Texas,Fall,Yes,Monthly
+136,43,Male,Kansas,Fall,Yes,Quarterly
+137,39,Male,South Carolina,Winter,Yes,Quarterly
+138,68,Male,Colorado,Spring,Yes,Weekly
+139,68,Male,Georgia,Winter,Yes,Weekly
+140,49,Male,Florida,Fall,Yes,Annually
+141,63,Male,North Carolina,Fall,Yes,Weekly
+142,56,Male,Virginia,Fall,Yes,Weekly
+143,37,Male,Nebraska,Fall,Yes,Fortnightly
+144,30,Male,Missouri,Fall,Yes,Quarterly
+145,19,Male,New Jersey,Fall,Yes,Monthly
+146,24,Male,Missouri,Fall,Yes,Quarterly
+147,52,Male,Colorado,Fall,Yes,Fortnightly
+148,63,Male,Idaho,Summer,Yes,Fortnightly
+149,37,Male,Wyoming,Fall,Yes,Annually
+150,38,Male,Delaware,Summer,Yes,Monthly
+151,35,Male,California,Fall,Yes,Every 3 Months
+152,28,Male,North Dakota,Fall,Yes,Annually
+153,30,Male,South Carolina,Summer,Yes,Annually
+154,69,Male,North Carolina,Winter,Yes,Annually
+155,41,Male,Oklahoma,Fall,Yes,Quarterly
+156,63,Male,Maine,Spring,Yes,Quarterly
+157,35,Male,Missouri,Fall,Yes,Annually
+158,36,Male,Vermont,Fall,Yes,Fortnightly
+159,25,Male,Connecticut,Fall,Yes,Monthly
+160,58,Male,New Hampshire,Fall,Yes,Every 3 Months
+161,27,Male,Texas,Summer,Yes,Monthly
+162,65,Male,North Dakota,Fall,Yes,Fortnightly
+163,54,Male,California,Summer,Yes,Bi-Weekly
+164,54,Male,Virginia,Summer,Yes,Weekly
+165,59,Male,Delaware,Spring,Yes,Fortnightly
+166,42,Male,Kentucky,Winter,Yes,Monthly
+167,46,Male,Delaware,Fall,Yes,Monthly
+168,33,Male,Arkansas,Fall,Yes,Every 3 Months
+169,34,Male,Louisiana,Summer,Yes,Fortnightly
+170,27,Male,Nevada,Summer,Yes,Every 3 Months
+171,52,Male,Wyoming,Fall,Yes,Bi-Weekly
+172,29,Male,Virginia,Summer,Yes,Weekly
+173,54,Male,Nebraska,Summer,Yes,Bi-Weekly
+174,25,Male,Hawaii,Fall,Yes,Annually
+175,41,Male,Vermont,Winter,Yes,Annually
+176,53,Male,Oklahoma,Fall,Yes,Annually
+177,53,Male,New Hampshire,Spring,Yes,Quarterly
+178,21,Male,Kansas,Fall,Yes,Monthly
+179,61,Male,Idaho,Fall,Yes,Quarterly
+180,64,Male,Illinois,Fall,Yes,Fortnightly
+181,51,Male,South Dakota,Fall,Yes,Fortnightly
+182,32,Male,Massachusetts,Summer,Yes,Weekly
+183,38,Male,Alabama,Summer,Yes,Annually
+184,58,Male,Ohio,Spring,Yes,Weekly
+185,32,Male,Hawaii,Spring,Yes,Fortnightly
+186,46,Male,Wisconsin,Summer,Yes,Fortnightly
+187,39,Male,Minnesota,Summer,Yes,Annually
+188,19,Male,Georgia,Spring,Yes,Bi-Weekly
+189,50,Male,Arkansas,Spring,Yes,Bi-Weekly
+190,36,Male,West Virginia,Fall,Yes,Weekly
+191,65,Male,Indiana,Fall,Yes,Quarterly
+192,64,Male,Utah,Fall,Yes,Every 3 Months
+193,46,Male,Nebraska,Summer,Yes,Bi-Weekly
+194,36,Male,North Dakota,Fall,Yes,Annually
+195,51,Male,Missouri,Spring,Yes,Quarterly
+196,51,Male,New York,Fall,Yes,Monthly
+197,38,Male,Washington,Summer,Yes,Fortnightly
+198,59,Male,South Carolina,Fall,Yes,Monthly
+199,57,Male,Utah,Winter,Yes,Fortnightly
+200,54,Male,Idaho,Summer,Yes,Weekly
+201,25,Male,Pennsylvania,Summer,Yes,Monthly
+202,69,Male,Missouri,Fall,Yes,Annually
+203,57,Male,Nebraska,Spring,Yes,Annually
+204,70,Male,Indiana,Fall,Yes,Weekly
+205,24,Male,Arizona,Fall,Yes,Bi-Weekly
+206,67,Male,Hawaii,Winter,Yes,Weekly
+207,24,Male,Wisconsin,Summer,Yes,Fortnightly
+208,62,Male,Rhode Island,Summer,Yes,Bi-Weekly
+209,57,Male,Wisconsin,Spring,Yes,Monthly
+210,55,Male,Minnesota,Winter,Yes,Every 3 Months
+211,45,Male,Vermont,Fall,Yes,Fortnightly
+212,69,Male,South Dakota,Fall,Yes,Fortnightly
+213,67,Male,Virginia,Fall,Yes,Annually
+214,30,Male,Nevada,Fall,Yes,Every 3 Months
+215,24,Male,Hawaii,Summer,Yes,Every 3 Months
+216,62,Male,New Jersey,Spring,Yes,Bi-Weekly
+217,43,Male,Massachusetts,Spring,Yes,Weekly
+218,35,Male,Oklahoma,Winter,Yes,Annually
+219,28,Male,California,Spring,Yes,Quarterly
+220,32,Male,Nevada,Spring,Yes,Fortnightly
+221,39,Male,Arizona,Spring,Yes,Fortnightly
+222,28,Male,North Carolina,Summer,Yes,Quarterly
+223,47,Male,New York,Spring,Yes,Fortnightly
+224,20,Male,Wyoming,Spring,Yes,Annually
+225,63,Male,South Dakota,Summer,Yes,Every 3 Months
+226,25,Male,Arkansas,Spring,Yes,Annually
+227,29,Male,Texas,Spring,Yes,Monthly
+228,50,Male,Rhode Island,Winter,Yes,Fortnightly
+229,18,Male,New Hampshire,Spring,Yes,Annually
+230,70,Male,Ohio,Spring,Yes,Every 3 Months
+231,66,Male,Utah,Fall,Yes,Annually
+232,28,Male,Tennessee,Spring,Yes,Every 3 Months
+233,54,Male,Hawaii,Winter,Yes,Bi-Weekly
+234,19,Male,Arizona,Fall,Yes,Every 3 Months
+235,20,Male,South Dakota,Summer,Yes,Weekly
+236,43,Male,New Jersey,Winter,Yes,Quarterly
+237,38,Male,North Dakota,Winter,Yes,Fortnightly
+238,50,Male,Iowa,Summer,Yes,Fortnightly
+239,64,Male,Ohio,Fall,Yes,Annually
+240,49,Male,Vermont,Summer,Yes,Bi-Weekly
+241,47,Male,Montana,Winter,Yes,Fortnightly
+242,36,Male,Delaware,Winter,Yes,Bi-Weekly
+243,55,Male,New York,Summer,Yes,Every 3 Months
+244,25,Male,Kentucky,Winter,Yes,Monthly
+245,53,Male,Oregon,Spring,Yes,Weekly
+246,49,Male,Rhode Island,Summer,Yes,Fortnightly
+247,35,Male,Nevada,Spring,Yes,Bi-Weekly
+248,29,Male,Montana,Spring,Yes,Weekly
+249,47,Male,Pennsylvania,Winter,Yes,Weekly
+250,53,Male,Alaska,Fall,Yes,Annually
+251,33,Male,Mississippi,Fall,Yes,Weekly
+252,21,Male,Wyoming,Winter,Yes,Annually
+253,32,Male,Delaware,Summer,Yes,Fortnightly
+254,52,Male,Oklahoma,Winter,Yes,Bi-Weekly
+255,67,Male,Indiana,Winter,Yes,Bi-Weekly
+256,43,Male,Maryland,Spring,Yes,Annually
+257,58,Male,South Dakota,Spring,Yes,Every 3 Months
+258,20,Male,West Virginia,Summer,Yes,Quarterly
+259,61,Male,Alabama,Spring,Yes,Quarterly
+260,32,Male,Louisiana,Fall,Yes,Annually
+261,38,Male,Montana,Winter,Yes,Every 3 Months
+262,21,Male,California,Winter,Yes,Annually
+263,37,Male,Hawaii,Summer,Yes,Annually
+264,27,Male,Iowa,Summer,Yes,Monthly
+265,36,Male,Colorado,Fall,Yes,Annually
+266,32,Male,Michigan,Spring,Yes,Bi-Weekly
+267,51,Male,Louisiana,Summer,Yes,Weekly
+268,64,Male,Maryland,Spring,Yes,Annually
+269,68,Male,Georgia,Spring,Yes,Monthly
+270,68,Male,Georgia,Winter,Yes,Bi-Weekly
+271,33,Male,North Dakota,Fall,Yes,Annually
+272,65,Male,Maryland,Summer,Yes,Fortnightly
+273,48,Male,Oregon,Summer,Yes,Bi-Weekly
+274,69,Male,North Dakota,Spring,Yes,Quarterly
+275,59,Male,Maryland,Spring,Yes,Bi-Weekly
+276,48,Male,Virginia,Winter,Yes,Weekly
+277,25,Male,South Dakota,Fall,Yes,Fortnightly
+278,29,Male,Georgia,Winter,Yes,Bi-Weekly
+279,57,Male,Hawaii,Spring,Yes,Annually
+280,23,Male,Arkansas,Summer,Yes,Monthly
+281,45,Male,Montana,Fall,Yes,Bi-Weekly
+282,38,Male,Oklahoma,Spring,Yes,Bi-Weekly
+283,21,Male,Minnesota,Summer,Yes,Monthly
+284,32,Male,Montana,Fall,Yes,Annually
+285,63,Male,Ohio,Summer,Yes,Quarterly
+286,29,Male,Kentucky,Summer,Yes,Bi-Weekly
+287,27,Male,Nebraska,Summer,Yes,Annually
+288,56,Male,Delaware,Spring,Yes,Fortnightly
+289,30,Male,North Carolina,Winter,Yes,Bi-Weekly
+290,49,Male,New York,Fall,Yes,Monthly
+291,58,Male,Colorado,Winter,Yes,Weekly
+292,57,Male,Delaware,Fall,Yes,Monthly
+293,60,Male,Utah,Spring,Yes,Quarterly
+294,69,Male,Connecticut,Spring,Yes,Annually
+295,70,Male,New Jersey,Spring,Yes,Every 3 Months
+296,53,Male,West Virginia,Winter,Yes,Quarterly
+297,25,Male,Indiana,Spring,Yes,Weekly
+298,48,Male,Delaware,Summer,Yes,Bi-Weekly
+299,69,Male,Maryland,Winter,Yes,Every 3 Months
+300,25,Male,Pennsylvania,Summer,Yes,Fortnightly
+301,29,Male,Iowa,Spring,Yes,Weekly
+302,46,Male,Pennsylvania,Spring,Yes,Every 3 Months
+303,37,Male,Delaware,Summer,Yes,Every 3 Months
+304,20,Male,Oregon,Summer,Yes,Weekly
+305,40,Male,Oregon,Winter,Yes,Bi-Weekly
+306,60,Male,Utah,Fall,Yes,Annually
+307,26,Male,North Dakota,Summer,Yes,Annually
+308,29,Male,Florida,Winter,Yes,Every 3 Months
+309,66,Male,Maryland,Fall,Yes,Bi-Weekly
+310,66,Male,Minnesota,Spring,Yes,Fortnightly
+311,56,Male,Montana,Winter,Yes,Fortnightly
+312,69,Male,Rhode Island,Winter,Yes,Monthly
+313,38,Male,Massachusetts,Spring,Yes,Annually
+314,42,Male,Vermont,Spring,Yes,Every 3 Months
+315,30,Male,New Jersey,Summer,Yes,Every 3 Months
+316,66,Male,Wisconsin,Spring,Yes,Annually
+317,36,Male,California,Fall,Yes,Monthly
+318,58,Male,West Virginia,Fall,Yes,Every 3 Months
+319,45,Male,South Dakota,Winter,Yes,Annually
+320,47,Male,Maine,Spring,Yes,Every 3 Months
+321,66,Male,Kansas,Summer,Yes,Quarterly
+322,41,Male,Vermont,Summer,Yes,Quarterly
+323,41,Male,Tennessee,Winter,Yes,Monthly
+324,66,Male,Tennessee,Winter,Yes,Bi-Weekly
+325,37,Male,Wyoming,Summer,Yes,Quarterly
+326,70,Male,Vermont,Winter,Yes,Annually
+327,62,Male,New Jersey,Fall,Yes,Weekly
+328,61,Male,Iowa,Summer,Yes,Weekly
+329,48,Male,Florida,Fall,Yes,Weekly
+330,70,Male,Nevada,Summer,Yes,Monthly
+331,46,Male,North Dakota,Winter,Yes,Bi-Weekly
+332,31,Male,Florida,Fall,Yes,Quarterly
+333,19,Male,New York,Winter,Yes,Monthly
+334,39,Male,Alaska,Winter,Yes,Bi-Weekly
+335,41,Male,Kansas,Fall,Yes,Annually
+336,20,Male,Oregon,Spring,Yes,Every 3 Months
+337,36,Male,Rhode Island,Fall,Yes,Annually
+338,32,Male,New Mexico,Winter,Yes,Annually
+339,69,Male,Massachusetts,Winter,Yes,Weekly
+340,40,Male,Pennsylvania,Spring,Yes,Every 3 Months
+341,40,Male,New Jersey,Summer,Yes,Every 3 Months
+342,20,Male,Utah,Summer,Yes,Bi-Weekly
+343,64,Male,Kentucky,Spring,Yes,Every 3 Months
+344,27,Male,Nebraska,Summer,Yes,Monthly
+345,24,Male,Virginia,Winter,Yes,Monthly
+346,48,Male,Wyoming,Winter,Yes,Annually
+347,49,Male,New Mexico,Spring,Yes,Weekly
+348,36,Male,Oregon,Fall,Yes,Fortnightly
+349,56,Male,South Carolina,Fall,Yes,Fortnightly
+350,37,Male,Arizona,Winter,Yes,Bi-Weekly
+351,42,Male,Kentucky,Spring,Yes,Fortnightly
+352,28,Male,New York,Winter,Yes,Bi-Weekly
+353,27,Male,Texas,Fall,Yes,Every 3 Months
+354,63,Male,Missouri,Fall,Yes,Monthly
+355,58,Male,Pennsylvania,Fall,Yes,Weekly
+356,37,Male,Oregon,Fall,Yes,Every 3 Months
+357,56,Male,Nevada,Spring,Yes,Weekly
+358,18,Male,Arkansas,Spring,Yes,Bi-Weekly
+359,48,Male,Minnesota,Summer,Yes,Every 3 Months
+360,31,Male,Georgia,Winter,Yes,Every 3 Months
+361,51,Male,Rhode Island,Summer,Yes,Fortnightly
+362,65,Male,Nevada,Spring,Yes,Annually
+363,53,Male,Texas,Fall,Yes,Fortnightly
+364,55,Male,Florida,Winter,Yes,Fortnightly
+365,62,Male,North Dakota,Summer,Yes,Every 3 Months
+366,55,Male,West Virginia,Summer,Yes,Quarterly
+367,64,Male,Nebraska,Spring,Yes,Fortnightly
+368,52,Male,Tennessee,Spring,Yes,Monthly
+369,24,Male,Oklahoma,Spring,Yes,Monthly
+370,38,Male,Wisconsin,Summer,Yes,Quarterly
+371,59,Male,Oregon,Winter,Yes,Weekly
+372,27,Male,North Carolina,Winter,Yes,Monthly
+373,24,Male,Pennsylvania,Summer,Yes,Weekly
+374,23,Male,North Dakota,Summer,Yes,Bi-Weekly
+375,69,Male,Ohio,Spring,Yes,Monthly
+376,59,Male,Oklahoma,Summer,Yes,Quarterly
+377,51,Male,South Carolina,Fall,Yes,Bi-Weekly
+378,63,Male,Maine,Spring,Yes,Every 3 Months
+379,54,Male,Nevada,Winter,Yes,Monthly
+380,32,Male,Montana,Fall,Yes,Bi-Weekly
+381,39,Male,New Hampshire,Fall,Yes,Weekly
+382,66,Male,Maine,Winter,Yes,Every 3 Months
+383,28,Male,California,Winter,Yes,Quarterly
+384,50,Male,West Virginia,Fall,Yes,Quarterly
+385,70,Male,California,Fall,Yes,Annually
+386,67,Male,West Virginia,Fall,Yes,Bi-Weekly
+387,64,Male,Louisiana,Spring,Yes,Quarterly
+388,45,Male,Georgia,Summer,Yes,Fortnightly
+389,22,Male,Washington,Summer,Yes,Quarterly
+390,27,Male,Virginia,Spring,Yes,Monthly
+391,25,Male,Indiana,Winter,Yes,Annually
+392,37,Male,Minnesota,Spring,Yes,Fortnightly
+393,26,Male,Idaho,Spring,Yes,Annually
+394,33,Male,Vermont,Fall,Yes,Fortnightly
+395,43,Male,North Dakota,Spring,Yes,Bi-Weekly
+396,37,Male,Rhode Island,Winter,Yes,Annually
+397,46,Male,South Carolina,Fall,Yes,Annually
+398,22,Male,Mississippi,Fall,Yes,Annually
+399,20,Male,Montana,Winter,Yes,Every 3 Months
+400,60,Male,Idaho,Fall,Yes,Monthly
+401,39,Male,Utah,Winter,Yes,Fortnightly
+402,43,Male,Oklahoma,Fall,Yes,Quarterly
+403,31,Male,California,Fall,Yes,Monthly
+404,19,Male,Nevada,Winter,Yes,Annually
+405,35,Male,Delaware,Spring,Yes,Monthly
+406,41,Male,South Carolina,Summer,Yes,Annually
+407,52,Male,Maryland,Spring,Yes,Monthly
+408,45,Male,North Carolina,Spring,Yes,Bi-Weekly
+409,34,Male,Alabama,Spring,Yes,Fortnightly
+410,35,Male,Minnesota,Winter,Yes,Monthly
+411,29,Male,Virginia,Spring,Yes,Quarterly
+412,59,Male,Michigan,Summer,Yes,Annually
+413,24,Male,Maine,Summer,Yes,Weekly
+414,70,Male,Nevada,Summer,Yes,Monthly
+415,29,Male,Wyoming,Winter,Yes,Weekly
+416,67,Male,Connecticut,Winter,Yes,Monthly
+417,36,Male,Oregon,Spring,Yes,Fortnightly
+418,23,Male,Mississippi,Fall,Yes,Quarterly
+419,18,Male,Illinois,Spring,Yes,Bi-Weekly
+420,53,Male,Utah,Winter,Yes,Every 3 Months
+421,32,Male,North Carolina,Spring,Yes,Bi-Weekly
+422,38,Male,Kentucky,Winter,Yes,Bi-Weekly
+423,47,Male,Minnesota,Fall,Yes,Annually
+424,46,Male,New York,Spring,Yes,Bi-Weekly
+425,66,Male,Illinois,Winter,Yes,Fortnightly
+426,40,Male,North Dakota,Winter,Yes,Quarterly
+427,43,Male,Louisiana,Winter,Yes,Quarterly
+428,58,Male,Illinois,Winter,Yes,Quarterly
+429,21,Male,Wyoming,Winter,Yes,Fortnightly
+430,42,Male,Washington,Winter,Yes,Fortnightly
+431,24,Male,Texas,Summer,Yes,Annually
+432,43,Male,New Hampshire,Winter,Yes,Fortnightly
+433,47,Male,Indiana,Fall,Yes,Weekly
+434,49,Male,Alabama,Fall,Yes,Fortnightly
+435,50,Male,Oklahoma,Spring,Yes,Every 3 Months
+436,51,Male,Montana,Winter,Yes,Monthly
+437,40,Male,Tennessee,Summer,Yes,Weekly
+438,45,Male,New Mexico,Summer,Yes,Annually
+439,52,Male,Iowa,Winter,Yes,Fortnightly
+440,62,Male,Idaho,Summer,Yes,Monthly
+441,20,Male,Oklahoma,Winter,Yes,Fortnightly
+442,43,Male,Florida,Winter,Yes,Annually
+443,29,Male,Michigan,Fall,Yes,Quarterly
+444,22,Male,Hawaii,Summer,Yes,Annually
+445,48,Male,California,Summer,Yes,Annually
+446,42,Male,Iowa,Fall,Yes,Annually
+447,19,Male,West Virginia,Summer,Yes,Monthly
+448,60,Male,Washington,Spring,Yes,Every 3 Months
+449,32,Male,Missouri,Summer,Yes,Fortnightly
+450,26,Male,New York,Summer,Yes,Monthly
+451,25,Male,Connecticut,Summer,Yes,Monthly
+452,66,Male,Virginia,Summer,Yes,Fortnightly
+453,45,Male,Missouri,Summer,Yes,Fortnightly
+454,54,Male,Nebraska,Winter,Yes,Weekly
+455,37,Male,New Jersey,Summer,Yes,Bi-Weekly
+456,54,Male,Utah,Fall,Yes,Fortnightly
+457,50,Male,North Carolina,Fall,Yes,Quarterly
+458,25,Male,Rhode Island,Spring,Yes,Every 3 Months
+459,47,Male,Arkansas,Winter,Yes,Monthly
+460,63,Male,Maryland,Winter,Yes,Fortnightly
+461,64,Male,South Carolina,Summer,Yes,Weekly
+462,18,Male,Ohio,Winter,Yes,Weekly
+463,59,Male,Illinois,Fall,Yes,Every 3 Months
+464,37,Male,Georgia,Summer,Yes,Weekly
+465,23,Male,Alabama,Winter,Yes,Monthly
+466,54,Male,Oklahoma,Summer,Yes,Quarterly
+467,38,Male,Vermont,Winter,Yes,Weekly
+468,19,Male,Nebraska,Spring,Yes,Every 3 Months
+469,34,Male,Georgia,Fall,Yes,Quarterly
+470,21,Male,Alabama,Fall,Yes,Bi-Weekly
+471,50,Male,Minnesota,Summer,Yes,Every 3 Months
+472,55,Male,Missouri,Winter,Yes,Quarterly
+473,20,Male,Georgia,Winter,Yes,Quarterly
+474,34,Male,West Virginia,Spring,Yes,Every 3 Months
+475,62,Male,Arkansas,Summer,Yes,Quarterly
+476,21,Male,Ohio,Summer,Yes,Annually
+477,21,Male,Connecticut,Spring,Yes,Fortnightly
+478,42,Male,North Dakota,Summer,Yes,Weekly
+479,35,Male,Kansas,Winter,Yes,Annually
+480,39,Male,Iowa,Winter,Yes,Monthly
+481,68,Male,Vermont,Summer,Yes,Bi-Weekly
+482,46,Male,Wisconsin,Fall,Yes,Fortnightly
+483,41,Male,Connecticut,Winter,Yes,Annually
+484,23,Male,Oklahoma,Fall,Yes,Weekly
+485,68,Male,Missouri,Summer,Yes,Quarterly
+486,48,Male,Tennessee,Spring,Yes,Fortnightly
+487,38,Male,New Mexico,Fall,Yes,Every 3 Months
+488,41,Male,Iowa,Winter,Yes,Quarterly
+489,58,Male,Maine,Spring,Yes,Weekly
+490,49,Male,South Dakota,Summer,Yes,Annually
+491,57,Male,Colorado,Winter,Yes,Monthly
+492,49,Male,Vermont,Summer,Yes,Bi-Weekly
+493,50,Male,Michigan,Fall,Yes,Weekly
+494,28,Male,Nevada,Summer,Yes,Bi-Weekly
+495,38,Male,Indiana,Winter,Yes,Weekly
+496,33,Male,Michigan,Fall,Yes,Fortnightly
+497,30,Male,California,Fall,Yes,Fortnightly
+498,43,Male,Oklahoma,Winter,Yes,Weekly
+499,43,Male,Iowa,Spring,Yes,Monthly
+500,36,Male,Rhode Island,Winter,Yes,Monthly
+501,36,Male,Washington,Fall,Yes,Every 3 Months
+502,64,Male,Florida,Spring,Yes,Annually
+503,59,Male,South Carolina,Fall,Yes,Fortnightly
+504,55,Male,West Virginia,Summer,Yes,Quarterly
+505,42,Male,Missouri,Winter,Yes,Annually
+506,61,Male,Maine,Spring,Yes,Bi-Weekly
+507,28,Male,Georgia,Fall,Yes,Annually
+508,65,Male,Maine,Spring,Yes,Fortnightly
+509,27,Male,Illinois,Winter,Yes,Quarterly
+510,41,Male,Delaware,Summer,Yes,Weekly
+511,21,Male,West Virginia,Fall,Yes,Annually
+512,61,Male,Hawaii,Fall,Yes,Annually
+513,19,Male,New York,Winter,Yes,Monthly
+514,22,Male,New Mexico,Fall,Yes,Annually
+515,64,Male,Indiana,Winter,Yes,Quarterly
+516,28,Male,Kentucky,Spring,Yes,Monthly
+517,34,Male,West Virginia,Fall,Yes,Bi-Weekly
+518,61,Male,North Dakota,Fall,Yes,Every 3 Months
+519,24,Male,Oregon,Fall,Yes,Every 3 Months
+520,19,Male,Minnesota,Summer,Yes,Quarterly
+521,51,Male,South Carolina,Spring,Yes,Quarterly
+522,36,Male,Vermont,Winter,Yes,Annually
+523,65,Male,Minnesota,Spring,Yes,Quarterly
+524,46,Male,Delaware,Spring,Yes,Quarterly
+525,59,Male,Pennsylvania,Summer,Yes,Annually
+526,51,Male,Iowa,Spring,Yes,Monthly
+527,51,Male,New Jersey,Winter,Yes,Monthly
+528,21,Male,South Carolina,Winter,Yes,Every 3 Months
+529,34,Male,Maryland,Winter,Yes,Annually
+530,32,Male,California,Fall,Yes,Monthly
+531,48,Male,Montana,Winter,Yes,Bi-Weekly
+532,50,Male,Vermont,Fall,Yes,Weekly
+533,26,Male,Texas,Winter,Yes,Every 3 Months
+534,57,Male,North Carolina,Spring,Yes,Weekly
+535,65,Male,Florida,Fall,Yes,Quarterly
+536,56,Male,West Virginia,Spring,Yes,Weekly
+537,44,Male,Illinois,Fall,Yes,Every 3 Months
+538,50,Male,Virginia,Summer,Yes,Annually
+539,27,Male,Virginia,Spring,Yes,Weekly
+540,49,Male,Wyoming,Winter,Yes,Weekly
+541,49,Male,South Carolina,Spring,Yes,Every 3 Months
+542,52,Male,Connecticut,Fall,Yes,Bi-Weekly
+543,27,Male,Illinois,Spring,Yes,Bi-Weekly
+544,53,Male,Alabama,Spring,Yes,Monthly
+545,34,Male,Washington,Summer,Yes,Every 3 Months
+546,33,Male,Alabama,Summer,Yes,Annually
+547,62,Male,New Mexico,Winter,Yes,Bi-Weekly
+548,38,Male,Nevada,Winter,Yes,Weekly
+549,36,Male,Nebraska,Winter,Yes,Every 3 Months
+550,31,Male,Arizona,Fall,Yes,Bi-Weekly
+551,62,Male,Georgia,Summer,Yes,Weekly
+552,29,Male,Idaho,Fall,Yes,Bi-Weekly
+553,24,Male,Missouri,Fall,Yes,Weekly
+554,63,Male,Florida,Winter,Yes,Quarterly
+555,56,Male,Minnesota,Summer,Yes,Weekly
+556,63,Male,Maine,Fall,Yes,Annually
+557,40,Male,Montana,Winter,Yes,Fortnightly
+558,18,Male,Alaska,Spring,Yes,Weekly
+559,50,Male,Iowa,Fall,Yes,Every 3 Months
+560,66,Male,Arizona,Fall,Yes,Monthly
+561,25,Male,Louisiana,Fall,Yes,Annually
+562,65,Male,Alabama,Fall,Yes,Fortnightly
+563,53,Male,Missouri,Summer,Yes,Annually
+564,61,Male,Idaho,Fall,Yes,Quarterly
+565,67,Male,Florida,Winter,Yes,Weekly
+566,59,Male,Idaho,Fall,Yes,Weekly
+567,55,Male,Alabama,Spring,Yes,Fortnightly
+568,21,Male,New Hampshire,Winter,Yes,Fortnightly
+569,44,Male,Utah,Summer,Yes,Monthly
+570,65,Male,Alabama,Fall,Yes,Every 3 Months
+571,65,Male,Iowa,Fall,Yes,Annually
+572,54,Male,Kentucky,Spring,Yes,Weekly
+573,56,Male,South Carolina,Summer,Yes,Annually
+574,58,Male,California,Summer,Yes,Bi-Weekly
+575,54,Male,Maine,Fall,Yes,Bi-Weekly
+576,58,Male,Nebraska,Fall,Yes,Monthly
+577,48,Male,Washington,Winter,Yes,Every 3 Months
+578,19,Male,Alabama,Fall,Yes,Annually
+579,69,Male,Maine,Fall,Yes,Fortnightly
+580,58,Male,California,Winter,Yes,Annually
+581,49,Male,Iowa,Spring,Yes,Weekly
+582,32,Male,Iowa,Winter,Yes,Every 3 Months
+583,40,Male,Colorado,Spring,Yes,Quarterly
+584,25,Male,California,Spring,Yes,Monthly
+585,70,Male,Indiana,Spring,Yes,Monthly
+586,69,Male,South Carolina,Fall,Yes,Every 3 Months
+587,45,Male,Wisconsin,Winter,Yes,Annually
+588,29,Male,Washington,Fall,Yes,Every 3 Months
+589,47,Male,South Dakota,Fall,Yes,Quarterly
+590,28,Male,Minnesota,Fall,Yes,Annually
+591,64,Male,Alaska,Fall,Yes,Fortnightly
+592,47,Male,Kentucky,Fall,Yes,Bi-Weekly
+593,60,Male,North Dakota,Fall,Yes,Every 3 Months
+594,67,Male,Alaska,Winter,Yes,Every 3 Months
+595,35,Male,Oklahoma,Winter,Yes,Monthly
+596,30,Male,Delaware,Summer,Yes,Quarterly
+597,23,Male,Montana,Summer,Yes,Annually
+598,70,Male,Alaska,Summer,Yes,Fortnightly
+599,21,Male,California,Winter,Yes,Every 3 Months
+600,51,Male,Massachusetts,Spring,Yes,Every 3 Months
+601,22,Male,South Carolina,Spring,Yes,Monthly
+602,32,Male,West Virginia,Summer,Yes,Fortnightly
+603,37,Male,Oregon,Summer,Yes,Every 3 Months
+604,31,Male,Massachusetts,Winter,Yes,Every 3 Months
+605,44,Male,West Virginia,Fall,Yes,Every 3 Months
+606,40,Male,California,Winter,Yes,Weekly
+607,27,Male,Colorado,Spring,Yes,Monthly
+608,47,Male,Indiana,Fall,Yes,Monthly
+609,41,Male,Delaware,Fall,Yes,Every 3 Months
+610,51,Male,Ohio,Fall,Yes,Fortnightly
+611,53,Male,Oklahoma,Summer,Yes,Every 3 Months
+612,43,Male,California,Winter,Yes,Monthly
+613,67,Male,New Hampshire,Fall,Yes,Quarterly
+614,61,Male,Pennsylvania,Fall,Yes,Bi-Weekly
+615,68,Male,Idaho,Winter,Yes,Bi-Weekly
+616,67,Male,Maryland,Summer,Yes,Annually
+617,29,Male,Pennsylvania,Spring,Yes,Every 3 Months
+618,50,Male,Colorado,Fall,Yes,Quarterly
+619,61,Male,Indiana,Spring,Yes,Bi-Weekly
+620,19,Male,Nebraska,Summer,Yes,Every 3 Months
+621,33,Male,Rhode Island,Fall,Yes,Every 3 Months
+622,51,Male,Kansas,Fall,Yes,Weekly
+623,69,Male,Georgia,Spring,Yes,Fortnightly
+624,19,Male,Nevada,Fall,Yes,Bi-Weekly
+625,55,Male,South Carolina,Fall,Yes,Annually
+626,49,Male,Delaware,Fall,Yes,Weekly
+627,31,Male,New Hampshire,Spring,Yes,Annually
+628,42,Male,Oregon,Winter,Yes,Monthly
+629,69,Male,Massachusetts,Fall,Yes,Monthly
+630,26,Male,Vermont,Spring,Yes,Annually
+631,41,Male,Mississippi,Fall,Yes,Annually
+632,55,Male,Washington,Summer,Yes,Fortnightly
+633,35,Male,Wyoming,Winter,Yes,Fortnightly
+634,66,Male,Minnesota,Spring,Yes,Quarterly
+635,36,Male,Ohio,Summer,Yes,Weekly
+636,27,Male,South Carolina,Fall,Yes,Quarterly
+637,41,Male,Wisconsin,Summer,Yes,Every 3 Months
+638,21,Male,Tennessee,Winter,Yes,Fortnightly
+639,53,Male,Maryland,Summer,Yes,Monthly
+640,54,Male,Mississippi,Spring,Yes,Annually
+641,53,Male,Minnesota,Summer,Yes,Fortnightly
+642,47,Male,Alaska,Winter,Yes,Every 3 Months
+643,64,Male,Arkansas,Spring,Yes,Bi-Weekly
+644,18,Male,Oregon,Winter,Yes,Every 3 Months
+645,68,Male,Louisiana,Summer,Yes,Weekly
+646,62,Male,Oklahoma,Summer,Yes,Bi-Weekly
+647,51,Male,Indiana,Spring,Yes,Bi-Weekly
+648,54,Male,Mississippi,Summer,Yes,Fortnightly
+649,22,Male,Michigan,Winter,Yes,Weekly
+650,53,Male,Delaware,Spring,Yes,Every 3 Months
+651,34,Male,Florida,Spring,Yes,Annually
+652,32,Male,Arkansas,Summer,Yes,Fortnightly
+653,64,Male,Minnesota,Winter,Yes,Weekly
+654,20,Male,North Dakota,Winter,Yes,Fortnightly
+655,24,Male,California,Summer,Yes,Annually
+656,20,Male,Mississippi,Fall,Yes,Monthly
+657,42,Male,Pennsylvania,Summer,Yes,Quarterly
+658,48,Male,Arizona,Winter,Yes,Quarterly
+659,62,Male,Louisiana,Fall,Yes,Weekly
+660,62,Male,Virginia,Spring,Yes,Weekly
+661,50,Male,Montana,Fall,Yes,Quarterly
+662,57,Male,Iowa,Fall,Yes,Quarterly
+663,24,Male,Illinois,Fall,Yes,Bi-Weekly
+664,59,Male,Alaska,Fall,Yes,Monthly
+665,63,Male,Colorado,Winter,Yes,Bi-Weekly
+666,41,Male,New Mexico,Spring,Yes,Annually
+667,35,Male,Colorado,Winter,Yes,Quarterly
+668,34,Male,Arizona,Winter,Yes,Quarterly
+669,49,Male,Hawaii,Fall,Yes,Monthly
+670,43,Male,Illinois,Spring,Yes,Bi-Weekly
+671,63,Male,Louisiana,Spring,Yes,Bi-Weekly
+672,38,Male,Iowa,Winter,Yes,Weekly
+673,59,Male,Washington,Winter,Yes,Quarterly
+674,35,Male,Oklahoma,Spring,Yes,Bi-Weekly
+675,48,Male,Washington,Winter,Yes,Annually
+676,64,Male,Arkansas,Spring,Yes,Annually
+677,28,Male,Connecticut,Winter,Yes,Bi-Weekly
+678,60,Male,Washington,Summer,Yes,Annually
+679,27,Male,Maine,Fall,Yes,Every 3 Months
+680,56,Male,Michigan,Fall,Yes,Fortnightly
+681,58,Male,Tennessee,Spring,Yes,Annually
+682,30,Male,Louisiana,Winter,Yes,Every 3 Months
+683,23,Male,Missouri,Summer,Yes,Bi-Weekly
+684,33,Male,Michigan,Winter,Yes,Monthly
+685,63,Male,Alabama,Summer,Yes,Monthly
+686,70,Male,Massachusetts,Winter,Yes,Fortnightly
+687,70,Male,Indiana,Fall,Yes,Fortnightly
+688,19,Male,West Virginia,Winter,Yes,Quarterly
+689,25,Male,Michigan,Summer,Yes,Monthly
+690,19,Male,Pennsylvania,Summer,Yes,Every 3 Months
+691,25,Male,Alaska,Spring,Yes,Weekly
+692,60,Male,Massachusetts,Summer,Yes,Bi-Weekly
+693,35,Male,North Dakota,Spring,Yes,Every 3 Months
+694,46,Male,Vermont,Spring,Yes,Every 3 Months
+695,41,Male,Kentucky,Fall,Yes,Every 3 Months
+696,30,Male,Nevada,Summer,Yes,Every 3 Months
+697,44,Male,Utah,Fall,Yes,Monthly
+698,61,Male,North Dakota,Summer,Yes,Quarterly
+699,55,Male,Iowa,Winter,Yes,Weekly
+700,50,Male,Connecticut,Fall,Yes,Weekly
+701,57,Male,Wisconsin,Winter,Yes,Monthly
+702,51,Male,Idaho,Fall,Yes,Every 3 Months
+703,18,Male,Montana,Winter,Yes,Weekly
+704,63,Male,Connecticut,Summer,Yes,Weekly
+705,34,Male,Idaho,Spring,Yes,Annually
+706,25,Male,Arkansas,Summer,Yes,Quarterly
+707,46,Male,Iowa,Summer,Yes,Weekly
+708,59,Male,Louisiana,Spring,Yes,Annually
+709,37,Male,Kentucky,Summer,Yes,Fortnightly
+710,49,Male,Massachusetts,Summer,Yes,Monthly
+711,22,Male,Virginia,Spring,Yes,Fortnightly
+712,64,Male,New Hampshire,Spring,Yes,Bi-Weekly
+713,42,Male,New Hampshire,Summer,Yes,Quarterly
+714,37,Male,Oregon,Summer,Yes,Bi-Weekly
+715,26,Male,South Dakota,Fall,Yes,Fortnightly
+716,33,Male,Delaware,Spring,Yes,Quarterly
+717,30,Male,Missouri,Spring,Yes,Bi-Weekly
+718,21,Male,Alaska,Spring,Yes,Every 3 Months
+719,22,Male,Florida,Summer,Yes,Annually
+720,63,Male,Mississippi,Summer,Yes,Bi-Weekly
+721,33,Male,New Mexico,Fall,Yes,Weekly
+722,43,Male,California,Summer,Yes,Every 3 Months
+723,27,Male,Wyoming,Summer,Yes,Bi-Weekly
+724,35,Male,Missouri,Fall,Yes,Monthly
+725,37,Male,New Hampshire,Fall,Yes,Every 3 Months
+726,61,Male,Texas,Winter,Yes,Fortnightly
+727,32,Male,North Dakota,Summer,Yes,Every 3 Months
+728,62,Male,Arkansas,Winter,Yes,Every 3 Months
+729,29,Male,Nebraska,Winter,Yes,Every 3 Months
+730,41,Male,Minnesota,Summer,Yes,Every 3 Months
+731,48,Male,Massachusetts,Summer,Yes,Fortnightly
+732,43,Male,Arkansas,Spring,Yes,Fortnightly
+733,34,Male,New Hampshire,Spring,Yes,Bi-Weekly
+734,45,Male,Rhode Island,Fall,Yes,Bi-Weekly
+735,65,Male,New Jersey,Winter,Yes,Every 3 Months
+736,61,Male,Montana,Fall,Yes,Bi-Weekly
+737,18,Male,Colorado,Spring,Yes,Every 3 Months
+738,47,Male,Nebraska,Spring,Yes,Annually
+739,56,Male,Minnesota,Winter,Yes,Quarterly
+740,64,Male,Minnesota,Summer,Yes,Bi-Weekly
+741,26,Male,South Dakota,Summer,Yes,Fortnightly
+742,22,Male,West Virginia,Summer,Yes,Every 3 Months
+743,64,Male,Nevada,Summer,Yes,Quarterly
+744,21,Male,North Carolina,Fall,Yes,Weekly
+745,67,Male,Illinois,Spring,Yes,Bi-Weekly
+746,46,Male,Michigan,Fall,Yes,Monthly
+747,40,Male,Michigan,Winter,Yes,Annually
+748,51,Male,Oklahoma,Spring,Yes,Weekly
+749,35,Male,South Dakota,Fall,Yes,Quarterly
+750,56,Male,Oklahoma,Winter,Yes,Quarterly
+751,25,Male,Maryland,Fall,Yes,Annually
+752,65,Male,Ohio,Fall,Yes,Monthly
+753,39,Male,Ohio,Fall,Yes,Every 3 Months
+754,47,Male,Massachusetts,Fall,Yes,Quarterly
+755,36,Male,North Carolina,Spring,Yes,Quarterly
+756,66,Male,Florida,Spring,Yes,Weekly
+757,62,Male,Montana,Summer,Yes,Fortnightly
+758,41,Male,Minnesota,Fall,Yes,Quarterly
+759,66,Male,Massachusetts,Summer,Yes,Every 3 Months
+760,51,Male,Rhode Island,Winter,Yes,Fortnightly
+761,33,Male,Minnesota,Fall,Yes,Annually
+762,57,Male,Nevada,Fall,Yes,Weekly
+763,45,Male,New Mexico,Fall,Yes,Fortnightly
+764,61,Male,North Carolina,Spring,Yes,Monthly
+765,55,Male,Virginia,Fall,Yes,Quarterly
+766,54,Male,Alaska,Summer,Yes,Quarterly
+767,57,Male,Nevada,Winter,Yes,Monthly
+768,27,Male,Pennsylvania,Fall,Yes,Annually
+769,64,Male,Illinois,Spring,Yes,Weekly
+770,52,Male,Delaware,Spring,Yes,Monthly
+771,19,Male,Vermont,Spring,Yes,Annually
+772,22,Male,Hawaii,Fall,Yes,Fortnightly
+773,18,Male,Illinois,Fall,Yes,Bi-Weekly
+774,29,Male,California,Winter,Yes,Bi-Weekly
+775,42,Male,Nevada,Summer,Yes,Quarterly
+776,49,Male,Kentucky,Winter,Yes,Monthly
+777,49,Male,Alabama,Spring,Yes,Every 3 Months
+778,55,Male,Wyoming,Spring,Yes,Weekly
+779,29,Male,Massachusetts,Summer,Yes,Annually
+780,60,Male,Utah,Spring,Yes,Annually
+781,34,Male,New York,Spring,Yes,Quarterly
+782,30,Male,Vermont,Winter,Yes,Fortnightly
+783,28,Male,Hawaii,Summer,Yes,Weekly
+784,63,Male,Louisiana,Winter,Yes,Fortnightly
+785,31,Male,Alabama,Winter,Yes,Every 3 Months
+786,46,Male,Louisiana,Spring,Yes,Fortnightly
+787,70,Male,Indiana,Winter,Yes,Every 3 Months
+788,53,Male,Michigan,Spring,Yes,Weekly
+789,50,Male,Rhode Island,Summer,Yes,Quarterly
+790,33,Male,Idaho,Fall,Yes,Bi-Weekly
+791,22,Male,Louisiana,Summer,Yes,Quarterly
+792,50,Male,North Carolina,Summer,Yes,Fortnightly
+793,34,Male,New Jersey,Spring,Yes,Weekly
+794,24,Male,Alabama,Summer,Yes,Monthly
+795,69,Male,Kentucky,Winter,Yes,Fortnightly
+796,39,Male,New York,Summer,Yes,Annually
+797,42,Male,Arizona,Fall,Yes,Annually
+798,42,Male,Maryland,Fall,Yes,Weekly
+799,29,Male,Alaska,Spring,Yes,Every 3 Months
+800,55,Male,Nevada,Summer,Yes,Annually
+801,32,Male,Utah,Summer,Yes,Every 3 Months
+802,25,Male,New Mexico,Fall,Yes,Fortnightly
+803,38,Male,Delaware,Winter,Yes,Weekly
+804,32,Male,Connecticut,Winter,Yes,Every 3 Months
+805,43,Male,Mississippi,Summer,Yes,Quarterly
+806,41,Male,Connecticut,Summer,Yes,Monthly
+807,56,Male,Florida,Summer,Yes,Quarterly
+808,27,Male,New York,Winter,Yes,Weekly
+809,46,Male,Wisconsin,Fall,Yes,Every 3 Months
+810,48,Male,South Carolina,Fall,Yes,Bi-Weekly
+811,52,Male,South Dakota,Fall,Yes,Bi-Weekly
+812,18,Male,Illinois,Winter,Yes,Quarterly
+813,64,Male,Alaska,Summer,Yes,Weekly
+814,54,Male,Montana,Summer,Yes,Annually
+815,31,Male,Minnesota,Winter,Yes,Monthly
+816,30,Male,West Virginia,Spring,Yes,Bi-Weekly
+817,26,Male,Illinois,Summer,Yes,Monthly
+818,25,Male,Nevada,Spring,Yes,Fortnightly
+819,59,Male,Idaho,Winter,Yes,Monthly
+820,55,Male,Colorado,Winter,Yes,Quarterly
+821,56,Male,Louisiana,Spring,Yes,Monthly
+822,62,Male,Vermont,Spring,Yes,Bi-Weekly
+823,35,Male,Mississippi,Winter,Yes,Annually
+824,51,Male,Georgia,Winter,Yes,Quarterly
+825,61,Male,Georgia,Spring,Yes,Quarterly
+826,27,Male,Nebraska,Fall,Yes,Monthly
+827,54,Male,Massachusetts,Winter,Yes,Weekly
+828,31,Male,Colorado,Fall,Yes,Fortnightly
+829,24,Male,Nevada,Fall,Yes,Bi-Weekly
+830,42,Male,Idaho,Spring,Yes,Fortnightly
+831,41,Male,Wyoming,Fall,Yes,Annually
+832,66,Male,Washington,Summer,Yes,Every 3 Months
+833,58,Male,California,Fall,Yes,Bi-Weekly
+834,43,Male,Oklahoma,Fall,Yes,Annually
+835,52,Male,Nevada,Summer,Yes,Weekly
+836,35,Male,Maryland,Summer,Yes,Weekly
+837,23,Male,West Virginia,Winter,Yes,Bi-Weekly
+838,25,Male,Illinois,Spring,Yes,Every 3 Months
+839,33,Male,Kentucky,Spring,Yes,Annually
+840,48,Male,Illinois,Spring,Yes,Every 3 Months
+841,42,Male,Alabama,Summer,Yes,Weekly
+842,55,Male,Texas,Summer,Yes,Fortnightly
+843,59,Male,Missouri,Spring,Yes,Weekly
+844,65,Male,Pennsylvania,Summer,Yes,Weekly
+845,59,Male,Missouri,Winter,Yes,Bi-Weekly
+846,31,Male,Michigan,Winter,Yes,Monthly
+847,49,Male,Kentucky,Spring,Yes,Quarterly
+848,53,Male,New Jersey,Fall,Yes,Monthly
+849,48,Male,Delaware,Fall,Yes,Bi-Weekly
+850,23,Male,Missouri,Spring,Yes,Quarterly
+851,68,Male,Connecticut,Winter,Yes,Monthly
+852,35,Male,Massachusetts,Summer,Yes,Monthly
+853,34,Male,Florida,Spring,Yes,Every 3 Months
+854,62,Male,Delaware,Winter,Yes,Monthly
+855,21,Male,California,Spring,Yes,Monthly
+856,70,Male,Oregon,Spring,Yes,Quarterly
+857,55,Male,Alaska,Summer,Yes,Fortnightly
+858,43,Male,Missouri,Fall,Yes,Every 3 Months
+859,19,Male,Oklahoma,Fall,Yes,Weekly
+860,47,Male,Wisconsin,Winter,Yes,Monthly
+861,26,Male,South Carolina,Spring,Yes,Monthly
+862,46,Male,Virginia,Spring,Yes,Every 3 Months
+863,19,Male,Arkansas,Winter,Yes,Fortnightly
+864,49,Male,Vermont,Summer,Yes,Fortnightly
+865,51,Male,Kentucky,Winter,Yes,Annually
+866,64,Male,Colorado,Winter,Yes,Annually
+867,67,Male,New Mexico,Summer,Yes,Bi-Weekly
+868,37,Male,Colorado,Spring,Yes,Fortnightly
+869,40,Male,North Carolina,Summer,Yes,Every 3 Months
+870,38,Male,New Hampshire,Spring,Yes,Weekly
+871,66,Male,West Virginia,Fall,Yes,Bi-Weekly
+872,47,Male,Hawaii,Spring,Yes,Quarterly
+873,56,Male,North Dakota,Spring,Yes,Quarterly
+874,51,Male,Mississippi,Summer,Yes,Quarterly
+875,25,Male,Maine,Fall,Yes,Every 3 Months
+876,37,Male,North Dakota,Summer,Yes,Every 3 Months
+877,41,Male,Nebraska,Summer,Yes,Weekly
+878,64,Male,Nebraska,Winter,Yes,Every 3 Months
+879,23,Male,Tennessee,Summer,Yes,Weekly
+880,62,Male,Wyoming,Spring,Yes,Quarterly
+881,39,Male,Nevada,Spring,Yes,Monthly
+882,52,Male,South Carolina,Summer,Yes,Annually
+883,50,Male,Virginia,Fall,Yes,Every 3 Months
+884,28,Male,Pennsylvania,Fall,Yes,Monthly
+885,67,Male,Hawaii,Winter,Yes,Weekly
+886,41,Male,Ohio,Fall,Yes,Every 3 Months
+887,19,Male,Utah,Summer,Yes,Monthly
+888,70,Male,Minnesota,Winter,Yes,Fortnightly
+889,49,Male,New Hampshire,Spring,Yes,Annually
+890,59,Male,Arizona,Fall,Yes,Weekly
+891,52,Male,New York,Spring,Yes,Monthly
+892,20,Male,Pennsylvania,Summer,Yes,Every 3 Months
+893,31,Male,New Mexico,Summer,Yes,Monthly
+894,33,Male,Nebraska,Spring,Yes,Monthly
+895,44,Male,Wyoming,Spring,Yes,Quarterly
+896,40,Male,Mississippi,Spring,Yes,Quarterly
+897,69,Male,Arkansas,Spring,Yes,Fortnightly
+898,29,Male,Illinois,Spring,Yes,Weekly
+899,54,Male,Nevada,Spring,Yes,Every 3 Months
+900,65,Male,Rhode Island,Summer,Yes,Annually
+901,54,Male,West Virginia,Fall,Yes,Quarterly
+902,60,Male,Missouri,Summer,Yes,Monthly
+903,43,Male,Kentucky,Summer,Yes,Monthly
+904,44,Male,Washington,Winter,Yes,Quarterly
+905,69,Male,Alaska,Spring,Yes,Every 3 Months
+906,46,Male,Mississippi,Spring,Yes,Annually
+907,41,Male,South Carolina,Spring,Yes,Bi-Weekly
+908,32,Male,Missouri,Winter,Yes,Bi-Weekly
+909,26,Male,New Jersey,Winter,Yes,Every 3 Months
+910,61,Male,Louisiana,Fall,Yes,Weekly
+911,49,Male,South Carolina,Spring,Yes,Monthly
+912,53,Male,Vermont,Winter,Yes,Quarterly
+913,24,Male,Arkansas,Winter,Yes,Monthly
+914,37,Male,Utah,Fall,Yes,Every 3 Months
+915,43,Male,Washington,Summer,Yes,Every 3 Months
+916,31,Male,Rhode Island,Winter,Yes,Fortnightly
+917,49,Male,Illinois,Spring,Yes,Monthly
+918,69,Male,Missouri,Spring,Yes,Quarterly
+919,65,Male,North Carolina,Spring,Yes,Fortnightly
+920,41,Male,Massachusetts,Winter,Yes,Bi-Weekly
+921,37,Male,Arkansas,Summer,Yes,Weekly
+922,70,Male,South Dakota,Summer,Yes,Weekly
+923,63,Male,Georgia,Fall,Yes,Monthly
+924,55,Male,Arkansas,Spring,Yes,Weekly
+925,52,Male,Kansas,Winter,Yes,Quarterly
+926,22,Male,Arizona,Winter,Yes,Monthly
+927,54,Male,Massachusetts,Spring,Yes,Bi-Weekly
+928,28,Male,New Mexico,Summer,Yes,Bi-Weekly
+929,67,Male,Arkansas,Winter,Yes,Every 3 Months
+930,59,Male,Nebraska,Fall,Yes,Fortnightly
+931,26,Male,Hawaii,Fall,Yes,Bi-Weekly
+932,24,Male,Nebraska,Winter,Yes,Fortnightly
+933,62,Male,Indiana,Winter,Yes,Bi-Weekly
+934,70,Male,Colorado,Spring,Yes,Monthly
+935,45,Male,Oregon,Spring,Yes,Monthly
+936,58,Male,Ohio,Fall,Yes,Fortnightly
+937,31,Male,Maine,Summer,Yes,Weekly
+938,32,Male,Iowa,Summer,Yes,Quarterly
+939,36,Male,Wisconsin,Fall,Yes,Fortnightly
+940,25,Male,New York,Winter,Yes,Monthly
+941,48,Male,Colorado,Spring,Yes,Every 3 Months
+942,39,Male,Illinois,Winter,Yes,Every 3 Months
+943,26,Male,Arizona,Winter,Yes,Bi-Weekly
+944,32,Male,Oklahoma,Winter,Yes,Fortnightly
+945,54,Male,Indiana,Spring,Yes,Bi-Weekly
+946,38,Male,Minnesota,Summer,Yes,Every 3 Months
+947,46,Male,Pennsylvania,Spring,Yes,Quarterly
+948,57,Male,Indiana,Winter,Yes,Every 3 Months
+949,49,Male,Alabama,Summer,Yes,Every 3 Months
+950,33,Male,Montana,Summer,Yes,Monthly
+951,54,Male,New Mexico,Winter,Yes,Quarterly
+952,47,Male,Alaska,Summer,Yes,Monthly
+953,36,Male,Idaho,Fall,Yes,Monthly
+954,68,Male,Utah,Spring,Yes,Quarterly
+955,60,Male,Louisiana,Fall,Yes,Every 3 Months
+956,55,Male,Mississippi,Summer,Yes,Monthly
+957,29,Male,Mississippi,Spring,Yes,Quarterly
+958,38,Male,Indiana,Spring,Yes,Quarterly
+959,70,Male,Washington,Winter,Yes,Bi-Weekly
+960,36,Male,Nevada,Spring,Yes,Fortnightly
+961,18,Male,Louisiana,Spring,Yes,Quarterly
+962,62,Male,Pennsylvania,Fall,Yes,Quarterly
+963,29,Male,Michigan,Spring,Yes,Fortnightly
+964,21,Male,South Carolina,Spring,Yes,Weekly
+965,42,Male,Arizona,Spring,Yes,Bi-Weekly
+966,43,Male,Delaware,Spring,Yes,Annually
+967,58,Male,Kentucky,Spring,Yes,Annually
+968,27,Male,Georgia,Summer,Yes,Weekly
+969,57,Male,North Carolina,Summer,Yes,Quarterly
+970,40,Male,California,Fall,Yes,Monthly
+971,45,Male,California,Winter,Yes,Monthly
+972,47,Male,Indiana,Summer,Yes,Weekly
+973,61,Male,Colorado,Winter,Yes,Weekly
+974,60,Male,Colorado,Fall,Yes,Quarterly
+975,69,Male,North Carolina,Spring,Yes,Monthly
+976,58,Male,Washington,Summer,Yes,Weekly
+977,34,Male,Florida,Fall,Yes,Every 3 Months
+978,20,Male,Washington,Spring,Yes,Bi-Weekly
+979,56,Male,Colorado,Summer,Yes,Weekly
+980,64,Male,New Hampshire,Fall,Yes,Monthly
+981,56,Male,Maryland,Spring,Yes,Every 3 Months
+982,27,Male,Maryland,Spring,Yes,Quarterly
+983,35,Male,Texas,Summer,Yes,Monthly
+984,24,Male,New Mexico,Winter,Yes,Bi-Weekly
+985,26,Male,Utah,Summer,Yes,Bi-Weekly
+986,32,Male,West Virginia,Fall,Yes,Annually
+987,54,Male,Connecticut,Spring,Yes,Monthly
+988,62,Male,West Virginia,Summer,Yes,Weekly
+989,50,Male,Ohio,Winter,Yes,Fortnightly
+990,70,Male,Texas,Spring,Yes,Monthly
+991,48,Male,Washington,Spring,Yes,Weekly
+992,20,Male,Wisconsin,Spring,Yes,Bi-Weekly
+993,46,Male,Louisiana,Winter,Yes,Weekly
+994,51,Male,Iowa,Winter,Yes,Weekly
+995,53,Male,New York,Fall,Yes,Monthly
+996,44,Male,Idaho,Spring,Yes,Weekly
+997,29,Male,Delaware,Summer,Yes,Quarterly
+998,64,Male,Kentucky,Spring,Yes,Fortnightly
+999,51,Male,Connecticut,Spring,Yes,Bi-Weekly
+1000,50,Male,New Mexico,Spring,Yes,Monthly
+1001,43,Male,Georgia,Winter,Yes,Bi-Weekly
+1002,61,Male,Washington,Fall,Yes,Fortnightly
+1003,55,Male,North Dakota,Spring,Yes,Bi-Weekly
+1004,56,Male,Ohio,Fall,Yes,Bi-Weekly
+1005,33,Male,Tennessee,Summer,Yes,Annually
+1006,43,Male,New York,Winter,Yes,Bi-Weekly
+1007,21,Male,Michigan,Summer,Yes,Quarterly
+1008,58,Male,Georgia,Spring,Yes,Annually
+1009,41,Male,New Mexico,Spring,Yes,Annually
+1010,39,Male,Louisiana,Summer,Yes,Annually
+1011,54,Male,South Dakota,Spring,Yes,Fortnightly
+1012,43,Male,Montana,Spring,Yes,Fortnightly
+1013,28,Male,New Mexico,Summer,Yes,Annually
+1014,59,Male,South Carolina,Summer,Yes,Bi-Weekly
+1015,28,Male,Ohio,Summer,Yes,Fortnightly
+1016,68,Male,North Carolina,Summer,Yes,Weekly
+1017,20,Male,Idaho,Summer,Yes,Every 3 Months
+1018,21,Male,Oklahoma,Fall,Yes,Annually
+1019,50,Male,Georgia,Spring,Yes,Weekly
+1020,32,Male,Kentucky,Winter,Yes,Bi-Weekly
+1021,24,Male,Delaware,Fall,Yes,Annually
+1022,55,Male,Massachusetts,Winter,Yes,Weekly
+1023,61,Male,Nebraska,Winter,Yes,Annually
+1024,61,Male,Maine,Winter,Yes,Every 3 Months
+1025,28,Male,Pennsylvania,Summer,Yes,Quarterly
+1026,60,Male,Nebraska,Winter,Yes,Annually
+1027,49,Male,Virginia,Winter,Yes,Bi-Weekly
+1028,33,Male,Ohio,Summer,Yes,Monthly
+1029,45,Male,Nebraska,Summer,Yes,Fortnightly
+1030,29,Male,Ohio,Spring,Yes,Bi-Weekly
+1031,58,Male,Kentucky,Winter,Yes,Quarterly
+1032,22,Male,Tennessee,Spring,Yes,Quarterly
+1033,55,Male,Maine,Fall,Yes,Quarterly
+1034,19,Male,Montana,Spring,Yes,Quarterly
+1035,68,Male,Maryland,Fall,Yes,Weekly
+1036,61,Male,Georgia,Fall,Yes,Annually
+1037,68,Male,Hawaii,Fall,Yes,Monthly
+1038,52,Male,Rhode Island,Spring,Yes,Quarterly
+1039,41,Male,Nebraska,Fall,Yes,Weekly
+1040,29,Male,Michigan,Fall,Yes,Monthly
+1041,68,Male,North Carolina,Fall,Yes,Fortnightly
+1042,36,Male,Minnesota,Summer,Yes,Fortnightly
+1043,55,Male,Maryland,Spring,Yes,Weekly
+1044,28,Male,Hawaii,Spring,Yes,Fortnightly
+1045,39,Male,Oregon,Summer,Yes,Every 3 Months
+1046,54,Male,New Mexico,Fall,Yes,Bi-Weekly
+1047,40,Male,Illinois,Winter,Yes,Annually
+1048,31,Male,Utah,Fall,Yes,Fortnightly
+1049,30,Male,Maine,Fall,Yes,Fortnightly
+1050,45,Male,Virginia,Fall,Yes,Quarterly
+1051,48,Male,Florida,Winter,Yes,Monthly
+1052,45,Male,Ohio,Fall,Yes,Annually
+1053,60,Male,Virginia,Fall,Yes,Fortnightly
+1054,59,Male,Kansas,Spring,No,Bi-Weekly
+1055,18,Male,Arkansas,Winter,No,Quarterly
+1056,70,Male,Massachusetts,Spring,No,Annually
+1057,20,Male,Idaho,Winter,No,Fortnightly
+1058,65,Male,Wisconsin,Spring,No,Weekly
+1059,29,Male,New Mexico,Summer,No,Every 3 Months
+1060,22,Male,North Carolina,Winter,No,Monthly
+1061,27,Male,Iowa,Summer,No,Every 3 Months
+1062,36,Male,Idaho,Summer,No,Every 3 Months
+1063,59,Male,Ohio,Fall,No,Every 3 Months
+1064,62,Male,Alabama,Summer,No,Monthly
+1065,34,Male,Wyoming,Spring,No,Every 3 Months
+1066,59,Male,Alabama,Spring,No,Every 3 Months
+1067,49,Male,Mississippi,Winter,No,Bi-Weekly
+1068,18,Male,Pennsylvania,Summer,No,Quarterly
+1069,55,Male,Wyoming,Fall,No,Weekly
+1070,38,Male,Maryland,Fall,No,Every 3 Months
+1071,50,Male,North Carolina,Summer,No,Weekly
+1072,61,Male,Pennsylvania,Summer,No,Monthly
+1073,48,Male,Idaho,Fall,No,Fortnightly
+1074,22,Male,California,Spring,No,Monthly
+1075,48,Male,Tennessee,Fall,No,Fortnightly
+1076,57,Male,Missouri,Summer,No,Bi-Weekly
+1077,33,Male,North Dakota,Spring,No,Bi-Weekly
+1078,58,Male,West Virginia,Winter,No,Quarterly
+1079,37,Male,Arizona,Fall,No,Fortnightly
+1080,18,Male,Oklahoma,Summer,No,Monthly
+1081,65,Male,Pennsylvania,Fall,No,Every 3 Months
+1082,62,Male,Idaho,Spring,No,Annually
+1083,54,Male,South Carolina,Winter,No,Quarterly
+1084,35,Male,Washington,Summer,No,Weekly
+1085,34,Male,Arkansas,Fall,No,Quarterly
+1086,25,Male,Utah,Winter,No,Fortnightly
+1087,53,Male,Alaska,Winter,No,Bi-Weekly
+1088,45,Male,West Virginia,Winter,No,Monthly
+1089,49,Male,Louisiana,Winter,No,Weekly
+1090,40,Male,Arizona,Spring,No,Bi-Weekly
+1091,38,Male,Connecticut,Spring,No,Fortnightly
+1092,44,Male,North Carolina,Spring,No,Fortnightly
+1093,68,Male,South Dakota,Spring,No,Quarterly
+1094,60,Male,Delaware,Winter,No,Every 3 Months
+1095,25,Male,Connecticut,Winter,No,Quarterly
+1096,19,Male,Tennessee,Summer,No,Quarterly
+1097,57,Male,New Hampshire,Fall,No,Annually
+1098,58,Male,Vermont,Summer,No,Weekly
+1099,49,Male,Idaho,Spring,No,Weekly
+1100,19,Male,North Carolina,Fall,No,Fortnightly
+1101,50,Male,Nevada,Spring,No,Weekly
+1102,30,Male,Delaware,Fall,No,Fortnightly
+1103,52,Male,Texas,Fall,No,Fortnightly
+1104,35,Male,Tennessee,Spring,No,Bi-Weekly
+1105,35,Male,Delaware,Fall,No,Quarterly
+1106,33,Male,Massachusetts,Spring,No,Every 3 Months
+1107,52,Male,Minnesota,Winter,No,Fortnightly
+1108,69,Male,Texas,Fall,No,Weekly
+1109,27,Male,Nebraska,Fall,No,Fortnightly
+1110,66,Male,Oklahoma,Winter,No,Weekly
+1111,28,Male,Texas,Fall,No,Bi-Weekly
+1112,22,Male,New York,Summer,No,Bi-Weekly
+1113,69,Male,Washington,Spring,No,Quarterly
+1114,28,Male,Maryland,Summer,No,Bi-Weekly
+1115,55,Male,New Hampshire,Fall,No,Every 3 Months
+1116,30,Male,New York,Fall,No,Weekly
+1117,67,Male,Hawaii,Winter,No,Fortnightly
+1118,25,Male,California,Spring,No,Monthly
+1119,49,Male,Indiana,Summer,No,Every 3 Months
+1120,34,Male,Louisiana,Spring,No,Weekly
+1121,22,Male,Pennsylvania,Winter,No,Monthly
+1122,63,Male,Florida,Fall,No,Quarterly
+1123,70,Male,North Carolina,Spring,No,Annually
+1124,36,Male,Massachusetts,Fall,No,Monthly
+1125,42,Male,Iowa,Spring,No,Quarterly
+1126,27,Male,North Dakota,Summer,No,Weekly
+1127,23,Male,Iowa,Winter,No,Fortnightly
+1128,50,Male,Delaware,Spring,No,Monthly
+1129,56,Male,New York,Winter,No,Monthly
+1130,37,Male,New Hampshire,Winter,No,Fortnightly
+1131,67,Male,Kentucky,Summer,No,Bi-Weekly
+1132,67,Male,Illinois,Spring,No,Monthly
+1133,50,Male,North Carolina,Spring,No,Fortnightly
+1134,36,Male,Connecticut,Winter,No,Weekly
+1135,62,Male,Wisconsin,Summer,No,Every 3 Months
+1136,65,Male,Massachusetts,Winter,No,Quarterly
+1137,23,Male,Illinois,Summer,No,Monthly
+1138,46,Male,New Mexico,Winter,No,Every 3 Months
+1139,18,Male,Iowa,Summer,No,Fortnightly
+1140,58,Male,Alabama,Spring,No,Bi-Weekly
+1141,31,Male,Maryland,Winter,No,Every 3 Months
+1142,39,Male,Ohio,Winter,No,Fortnightly
+1143,69,Male,Ohio,Spring,No,Bi-Weekly
+1144,68,Male,Nevada,Winter,No,Quarterly
+1145,41,Male,South Carolina,Fall,No,Fortnightly
+1146,31,Male,Nevada,Summer,No,Every 3 Months
+1147,48,Male,Wisconsin,Summer,No,Every 3 Months
+1148,59,Male,Tennessee,Winter,No,Annually
+1149,34,Male,Florida,Spring,No,Fortnightly
+1150,21,Male,Georgia,Spring,No,Annually
+1151,29,Male,Kentucky,Winter,No,Bi-Weekly
+1152,41,Male,Ohio,Spring,No,Weekly
+1153,62,Male,Connecticut,Fall,No,Every 3 Months
+1154,27,Male,Idaho,Summer,No,Quarterly
+1155,49,Male,Georgia,Spring,No,Bi-Weekly
+1156,67,Male,Tennessee,Fall,No,Quarterly
+1157,20,Male,Hawaii,Summer,No,Every 3 Months
+1158,37,Male,Maryland,Fall,No,Quarterly
+1159,69,Male,Nevada,Summer,No,Annually
+1160,66,Male,New Hampshire,Fall,No,Every 3 Months
+1161,37,Male,North Dakota,Summer,No,Bi-Weekly
+1162,63,Male,Oklahoma,Fall,No,Monthly
+1163,47,Male,North Carolina,Winter,No,Weekly
+1164,26,Male,Tennessee,Summer,No,Monthly
+1165,68,Male,Montana,Winter,No,Quarterly
+1166,51,Male,Wisconsin,Winter,No,Every 3 Months
+1167,48,Male,Connecticut,Winter,No,Fortnightly
+1168,60,Male,New Jersey,Summer,No,Quarterly
+1169,68,Male,Mississippi,Summer,No,Fortnightly
+1170,25,Male,Wyoming,Fall,No,Annually
+1171,57,Male,Illinois,Spring,No,Bi-Weekly
+1172,41,Male,Louisiana,Spring,No,Annually
+1173,59,Male,Oregon,Spring,No,Bi-Weekly
+1174,44,Male,South Dakota,Winter,No,Bi-Weekly
+1175,42,Male,Michigan,Winter,No,Bi-Weekly
+1176,35,Male,New Jersey,Spring,No,Quarterly
+1177,36,Male,Oregon,Winter,No,Quarterly
+1178,54,Male,Iowa,Spring,No,Monthly
+1179,37,Male,South Carolina,Spring,No,Annually
+1180,20,Male,Indiana,Summer,No,Annually
+1181,23,Male,Oregon,Spring,No,Monthly
+1182,61,Male,New York,Summer,No,Quarterly
+1183,37,Male,New Mexico,Spring,No,Quarterly
+1184,23,Male,Louisiana,Spring,No,Weekly
+1185,63,Male,South Carolina,Fall,No,Annually
+1186,47,Male,Maine,Spring,No,Monthly
+1187,63,Male,Indiana,Summer,No,Annually
+1188,56,Male,Iowa,Fall,No,Every 3 Months
+1189,68,Male,Mississippi,Summer,No,Weekly
+1190,64,Male,Arkansas,Summer,No,Annually
+1191,62,Male,South Carolina,Winter,No,Weekly
+1192,34,Male,Indiana,Winter,No,Quarterly
+1193,49,Male,Florida,Summer,No,Quarterly
+1194,40,Male,Alaska,Fall,No,Fortnightly
+1195,50,Male,New York,Winter,No,Fortnightly
+1196,25,Male,Texas,Winter,No,Monthly
+1197,30,Male,North Dakota,Winter,No,Bi-Weekly
+1198,54,Male,Vermont,Fall,No,Annually
+1199,40,Male,New Jersey,Summer,No,Annually
+1200,49,Male,Maryland,Fall,No,Weekly
+1201,27,Male,Connecticut,Winter,No,Weekly
+1202,27,Male,Illinois,Summer,No,Fortnightly
+1203,48,Male,Maryland,Spring,No,Every 3 Months
+1204,40,Male,Minnesota,Winter,No,Annually
+1205,67,Male,Florida,Spring,No,Every 3 Months
+1206,52,Male,California,Spring,No,Fortnightly
+1207,22,Male,Mississippi,Fall,No,Every 3 Months
+1208,62,Male,Washington,Summer,No,Every 3 Months
+1209,20,Male,Wisconsin,Winter,No,Annually
+1210,41,Male,Pennsylvania,Winter,No,Monthly
+1211,34,Male,Missouri,Fall,No,Quarterly
+1212,23,Male,Oklahoma,Spring,No,Every 3 Months
+1213,32,Male,Pennsylvania,Summer,No,Weekly
+1214,68,Male,Kentucky,Spring,No,Every 3 Months
+1215,30,Male,Vermont,Fall,No,Every 3 Months
+1216,66,Male,Oregon,Winter,No,Every 3 Months
+1217,62,Male,Utah,Summer,No,Every 3 Months
+1218,50,Male,Nebraska,Fall,No,Every 3 Months
+1219,55,Male,Pennsylvania,Spring,No,Every 3 Months
+1220,19,Male,Vermont,Winter,No,Bi-Weekly
+1221,67,Male,Kentucky,Winter,No,Quarterly
+1222,18,Male,Iowa,Winter,No,Quarterly
+1223,58,Male,Indiana,Fall,No,Annually
+1224,69,Male,Kansas,Winter,No,Weekly
+1225,62,Male,Illinois,Summer,No,Weekly
+1226,28,Male,North Carolina,Fall,No,Weekly
+1227,53,Male,Ohio,Fall,No,Bi-Weekly
+1228,27,Male,Illinois,Spring,No,Bi-Weekly
+1229,55,Male,Indiana,Winter,No,Annually
+1230,34,Male,Kansas,Winter,No,Annually
+1231,25,Male,Illinois,Spring,No,Monthly
+1232,66,Male,Pennsylvania,Spring,No,Fortnightly
+1233,57,Male,New York,Summer,No,Every 3 Months
+1234,46,Male,Utah,Winter,No,Every 3 Months
+1235,38,Male,New Jersey,Fall,No,Bi-Weekly
+1236,23,Male,Idaho,Spring,No,Every 3 Months
+1237,42,Male,New Mexico,Summer,No,Every 3 Months
+1238,25,Male,Michigan,Spring,No,Quarterly
+1239,55,Male,Wyoming,Winter,No,Fortnightly
+1240,62,Male,New Jersey,Spring,No,Every 3 Months
+1241,41,Male,New Jersey,Winter,No,Annually
+1242,58,Male,Hawaii,Winter,No,Weekly
+1243,56,Male,Nevada,Summer,No,Quarterly
+1244,25,Male,New Hampshire,Spring,No,Annually
+1245,70,Male,Indiana,Summer,No,Monthly
+1246,42,Male,New York,Fall,No,Weekly
+1247,27,Male,Louisiana,Winter,No,Monthly
+1248,65,Male,Virginia,Spring,No,Bi-Weekly
+1249,62,Male,Wisconsin,Winter,No,Annually
+1250,62,Male,Oregon,Winter,No,Fortnightly
+1251,52,Male,New Hampshire,Winter,No,Monthly
+1252,56,Male,Indiana,Spring,No,Monthly
+1253,28,Male,Massachusetts,Fall,No,Quarterly
+1254,39,Male,Montana,Winter,No,Annually
+1255,54,Male,California,Spring,No,Bi-Weekly
+1256,30,Male,Indiana,Fall,No,Fortnightly
+1257,45,Male,West Virginia,Winter,No,Fortnightly
+1258,68,Male,Minnesota,Spring,No,Every 3 Months
+1259,47,Male,Ohio,Spring,No,Every 3 Months
+1260,68,Male,Minnesota,Fall,No,Monthly
+1261,63,Male,Virginia,Spring,No,Quarterly
+1262,20,Male,Connecticut,Summer,No,Fortnightly
+1263,29,Male,Tennessee,Winter,No,Monthly
+1264,41,Male,Delaware,Winter,No,Bi-Weekly
+1265,52,Male,Vermont,Winter,No,Bi-Weekly
+1266,32,Male,Louisiana,Spring,No,Weekly
+1267,20,Male,North Dakota,Fall,No,Every 3 Months
+1268,47,Male,Oregon,Spring,No,Weekly
+1269,23,Male,Idaho,Winter,No,Bi-Weekly
+1270,43,Male,Vermont,Spring,No,Quarterly
+1271,67,Male,West Virginia,Fall,No,Annually
+1272,70,Male,Kentucky,Spring,No,Annually
+1273,35,Male,Wisconsin,Winter,No,Monthly
+1274,41,Male,Mississippi,Spring,No,Every 3 Months
+1275,54,Male,Missouri,Spring,No,Quarterly
+1276,55,Male,Arkansas,Fall,No,Monthly
+1277,51,Male,Wyoming,Spring,No,Weekly
+1278,19,Male,Rhode Island,Spring,No,Quarterly
+1279,28,Male,Utah,Fall,No,Fortnightly
+1280,63,Male,Maryland,Fall,No,Annually
+1281,30,Male,Georgia,Winter,No,Every 3 Months
+1282,29,Male,New Jersey,Spring,No,Bi-Weekly
+1283,24,Male,New Hampshire,Winter,No,Monthly
+1284,69,Male,Oregon,Winter,No,Every 3 Months
+1285,65,Male,Arkansas,Spring,No,Fortnightly
+1286,64,Male,North Carolina,Fall,No,Fortnightly
+1287,40,Male,West Virginia,Winter,No,Fortnightly
+1288,24,Male,Utah,Winter,No,Monthly
+1289,66,Male,South Dakota,Winter,No,Bi-Weekly
+1290,35,Male,New Hampshire,Fall,No,Weekly
+1291,67,Male,Maryland,Spring,No,Annually
+1292,69,Male,South Dakota,Spring,No,Fortnightly
+1293,26,Male,Kentucky,Summer,No,Annually
+1294,23,Male,Florida,Fall,No,Annually
+1295,27,Male,Texas,Summer,No,Every 3 Months
+1296,30,Male,New Mexico,Fall,No,Weekly
+1297,48,Male,South Dakota,Spring,No,Bi-Weekly
+1298,44,Male,New Jersey,Summer,No,Annually
+1299,29,Male,Indiana,Summer,No,Fortnightly
+1300,29,Male,Louisiana,Fall,No,Bi-Weekly
+1301,67,Male,West Virginia,Spring,No,Every 3 Months
+1302,42,Male,Maine,Fall,No,Weekly
+1303,23,Male,Idaho,Fall,No,Monthly
+1304,34,Male,New York,Summer,No,Annually
+1305,64,Male,Montana,Spring,No,Every 3 Months
+1306,31,Male,Mississippi,Spring,No,Every 3 Months
+1307,54,Male,Alaska,Winter,No,Annually
+1308,23,Male,Missouri,Summer,No,Annually
+1309,59,Male,Rhode Island,Summer,No,Every 3 Months
+1310,32,Male,Hawaii,Summer,No,Quarterly
+1311,43,Male,South Carolina,Winter,No,Every 3 Months
+1312,32,Male,Tennessee,Fall,No,Annually
+1313,66,Male,Missouri,Winter,No,Monthly
+1314,70,Male,Missouri,Summer,No,Bi-Weekly
+1315,42,Male,Missouri,Summer,No,Annually
+1316,56,Male,Mississippi,Spring,No,Quarterly
+1317,28,Male,Arkansas,Spring,No,Bi-Weekly
+1318,28,Male,Kentucky,Spring,No,Monthly
+1319,52,Male,Connecticut,Spring,No,Bi-Weekly
+1320,65,Male,Oklahoma,Spring,No,Weekly
+1321,56,Male,California,Fall,No,Annually
+1322,59,Male,Missouri,Winter,No,Every 3 Months
+1323,23,Male,Washington,Winter,No,Quarterly
+1324,58,Male,New York,Spring,No,Every 3 Months
+1325,39,Male,Indiana,Summer,No,Fortnightly
+1326,28,Male,Oregon,Summer,No,Monthly
+1327,40,Male,Texas,Spring,No,Monthly
+1328,52,Male,Florida,Winter,No,Weekly
+1329,37,Male,Rhode Island,Winter,No,Weekly
+1330,70,Male,Texas,Fall,No,Every 3 Months
+1331,30,Male,Vermont,Fall,No,Bi-Weekly
+1332,38,Male,Maryland,Spring,No,Bi-Weekly
+1333,66,Male,Alaska,Spring,No,Quarterly
+1334,29,Male,Idaho,Winter,No,Quarterly
+1335,46,Male,West Virginia,Spring,No,Monthly
+1336,56,Male,Nevada,Fall,No,Weekly
+1337,23,Male,Oregon,Spring,No,Fortnightly
+1338,37,Male,Tennessee,Spring,No,Bi-Weekly
+1339,56,Male,Alabama,Winter,No,Fortnightly
+1340,36,Male,Indiana,Winter,No,Every 3 Months
+1341,40,Male,Idaho,Fall,No,Every 3 Months
+1342,26,Male,Rhode Island,Fall,No,Quarterly
+1343,57,Male,Arizona,Summer,No,Monthly
+1344,68,Male,Florida,Spring,No,Monthly
+1345,56,Male,New York,Fall,No,Annually
+1346,40,Male,Nebraska,Fall,No,Weekly
+1347,44,Male,Mississippi,Winter,No,Bi-Weekly
+1348,44,Male,Vermont,Summer,No,Monthly
+1349,19,Male,Nebraska,Spring,No,Fortnightly
+1350,21,Male,South Carolina,Spring,No,Bi-Weekly
+1351,31,Male,Delaware,Fall,No,Every 3 Months
+1352,30,Male,Vermont,Summer,No,Quarterly
+1353,65,Male,Indiana,Spring,No,Bi-Weekly
+1354,39,Male,Oregon,Winter,No,Every 3 Months
+1355,64,Male,Maryland,Spring,No,Quarterly
+1356,59,Male,Florida,Summer,No,Bi-Weekly
+1357,49,Male,Indiana,Spring,No,Annually
+1358,24,Male,Texas,Summer,No,Quarterly
+1359,19,Male,Nebraska,Spring,No,Every 3 Months
+1360,27,Male,North Carolina,Winter,No,Fortnightly
+1361,56,Male,Alabama,Fall,No,Annually
+1362,49,Male,Alabama,Fall,No,Monthly
+1363,41,Male,Colorado,Fall,No,Weekly
+1364,36,Male,Wisconsin,Summer,No,Quarterly
+1365,68,Male,Delaware,Fall,No,Every 3 Months
+1366,28,Male,Indiana,Winter,No,Fortnightly
+1367,45,Male,Iowa,Fall,No,Fortnightly
+1368,60,Male,Iowa,Fall,No,Quarterly
+1369,21,Male,Wisconsin,Summer,No,Weekly
+1370,32,Male,Iowa,Winter,No,Fortnightly
+1371,27,Male,Montana,Summer,No,Every 3 Months
+1372,40,Male,Mississippi,Spring,No,Monthly
+1373,64,Male,Michigan,Fall,No,Bi-Weekly
+1374,18,Male,Virginia,Winter,No,Quarterly
+1375,22,Male,New York,Fall,No,Quarterly
+1376,42,Male,Maine,Spring,No,Annually
+1377,57,Male,New Jersey,Spring,No,Annually
+1378,33,Male,Maryland,Spring,No,Monthly
+1379,37,Male,Kentucky,Fall,No,Weekly
+1380,21,Male,Minnesota,Fall,No,Bi-Weekly
+1381,51,Male,Massachusetts,Winter,No,Fortnightly
+1382,30,Male,Illinois,Winter,No,Quarterly
+1383,68,Male,Michigan,Winter,No,Quarterly
+1384,36,Male,Wisconsin,Spring,No,Monthly
+1385,46,Male,Alaska,Fall,No,Weekly
+1386,41,Male,Mississippi,Fall,No,Bi-Weekly
+1387,68,Male,Oregon,Fall,No,Quarterly
+1388,21,Male,Maryland,Winter,No,Monthly
+1389,62,Male,Arkansas,Spring,No,Quarterly
+1390,59,Male,Illinois,Fall,No,Fortnightly
+1391,25,Male,Arkansas,Summer,No,Weekly
+1392,53,Male,Mississippi,Winter,No,Annually
+1393,31,Male,Arkansas,Spring,No,Every 3 Months
+1394,46,Male,Idaho,Spring,No,Fortnightly
+1395,26,Male,Iowa,Fall,No,Weekly
+1396,47,Male,West Virginia,Spring,No,Bi-Weekly
+1397,37,Male,Wisconsin,Winter,No,Monthly
+1398,55,Male,Massachusetts,Summer,No,Annually
+1399,30,Male,Texas,Summer,No,Weekly
+1400,19,Male,Nebraska,Winter,No,Annually
+1401,36,Male,Nevada,Fall,No,Every 3 Months
+1402,23,Male,Indiana,Fall,No,Weekly
+1403,62,Male,North Dakota,Summer,No,Monthly
+1404,26,Male,Georgia,Spring,No,Bi-Weekly
+1405,36,Male,New Mexico,Winter,No,Weekly
+1406,33,Male,New Hampshire,Winter,No,Monthly
+1407,32,Male,Washington,Spring,No,Monthly
+1408,56,Male,Nevada,Spring,No,Annually
+1409,58,Male,Maine,Winter,No,Weekly
+1410,34,Male,Idaho,Spring,No,Fortnightly
+1411,61,Male,Tennessee,Summer,No,Annually
+1412,48,Male,Louisiana,Summer,No,Quarterly
+1413,25,Male,Michigan,Summer,No,Annually
+1414,51,Male,New Hampshire,Fall,No,Quarterly
+1415,29,Male,Minnesota,Summer,No,Bi-Weekly
+1416,54,Male,Illinois,Winter,No,Every 3 Months
+1417,48,Male,Idaho,Summer,No,Quarterly
+1418,62,Male,Montana,Spring,No,Fortnightly
+1419,18,Male,Alabama,Summer,No,Every 3 Months
+1420,43,Male,Montana,Summer,No,Quarterly
+1421,22,Male,California,Summer,No,Every 3 Months
+1422,68,Male,Pennsylvania,Spring,No,Fortnightly
+1423,44,Male,Texas,Fall,No,Bi-Weekly
+1424,51,Male,Michigan,Fall,No,Every 3 Months
+1425,66,Male,Connecticut,Fall,No,Every 3 Months
+1426,59,Male,Wyoming,Winter,No,Annually
+1427,60,Male,Michigan,Summer,No,Every 3 Months
+1428,31,Male,South Dakota,Summer,No,Annually
+1429,20,Male,North Dakota,Summer,No,Quarterly
+1430,24,Male,Maryland,Fall,No,Every 3 Months
+1431,48,Male,Michigan,Summer,No,Fortnightly
+1432,39,Male,South Dakota,Fall,No,Quarterly
+1433,34,Male,Florida,Winter,No,Quarterly
+1434,70,Male,Minnesota,Winter,No,Weekly
+1435,59,Male,New York,Summer,No,Bi-Weekly
+1436,45,Male,Oregon,Fall,No,Weekly
+1437,35,Male,Minnesota,Winter,No,Fortnightly
+1438,69,Male,Montana,Winter,No,Annually
+1439,58,Male,Washington,Spring,No,Monthly
+1440,25,Male,New Mexico,Summer,No,Fortnightly
+1441,27,Male,Arizona,Spring,No,Monthly
+1442,34,Male,Nebraska,Summer,No,Every 3 Months
+1443,53,Male,Idaho,Spring,No,Annually
+1444,58,Male,Idaho,Fall,No,Monthly
+1445,32,Male,Vermont,Fall,No,Quarterly
+1446,64,Male,Arkansas,Fall,No,Annually
+1447,63,Male,Wyoming,Summer,No,Quarterly
+1448,23,Male,New Mexico,Summer,No,Monthly
+1449,64,Male,West Virginia,Summer,No,Every 3 Months
+1450,18,Male,New York,Winter,No,Every 3 Months
+1451,25,Male,Illinois,Winter,No,Quarterly
+1452,54,Male,Utah,Fall,No,Quarterly
+1453,60,Male,Colorado,Spring,No,Quarterly
+1454,36,Male,Virginia,Winter,No,Fortnightly
+1455,66,Male,Georgia,Winter,No,Annually
+1456,60,Male,Alabama,Fall,No,Every 3 Months
+1457,59,Male,Montana,Spring,No,Every 3 Months
+1458,58,Male,Pennsylvania,Spring,No,Fortnightly
+1459,35,Male,Missouri,Spring,No,Weekly
+1460,20,Male,Maine,Winter,No,Fortnightly
+1461,70,Male,Pennsylvania,Fall,No,Bi-Weekly
+1462,54,Male,Oregon,Summer,No,Quarterly
+1463,38,Male,Utah,Summer,No,Quarterly
+1464,54,Male,Oklahoma,Summer,No,Monthly
+1465,33,Male,Montana,Winter,No,Quarterly
+1466,46,Male,Nebraska,Winter,No,Bi-Weekly
+1467,58,Male,Alabama,Summer,No,Annually
+1468,30,Male,Ohio,Winter,No,Fortnightly
+1469,42,Male,Arkansas,Fall,No,Fortnightly
+1470,28,Male,Mississippi,Winter,No,Every 3 Months
+1471,43,Male,California,Spring,No,Every 3 Months
+1472,31,Male,Alaska,Spring,No,Every 3 Months
+1473,39,Male,Indiana,Spring,No,Weekly
+1474,69,Male,Wisconsin,Fall,No,Every 3 Months
+1475,31,Male,New Jersey,Fall,No,Monthly
+1476,44,Male,Rhode Island,Spring,No,Monthly
+1477,39,Male,Wyoming,Fall,No,Monthly
+1478,24,Male,Oregon,Summer,No,Every 3 Months
+1479,28,Male,Washington,Summer,No,Bi-Weekly
+1480,48,Male,Washington,Spring,No,Weekly
+1481,39,Male,New Hampshire,Fall,No,Quarterly
+1482,64,Male,Maryland,Spring,No,Quarterly
+1483,28,Male,Wisconsin,Spring,No,Weekly
+1484,39,Male,Massachusetts,Summer,No,Bi-Weekly
+1485,49,Male,Nebraska,Summer,No,Every 3 Months
+1486,22,Male,Nebraska,Spring,No,Fortnightly
+1487,25,Male,Idaho,Spring,No,Every 3 Months
+1488,40,Male,Arizona,Summer,No,Annually
+1489,23,Male,Hawaii,Winter,No,Weekly
+1490,24,Male,Missouri,Summer,No,Quarterly
+1491,66,Male,Louisiana,Spring,No,Bi-Weekly
+1492,27,Male,Arkansas,Summer,No,Quarterly
+1493,62,Male,North Carolina,Summer,No,Quarterly
+1494,70,Male,North Dakota,Fall,No,Quarterly
+1495,43,Male,Montana,Spring,No,Fortnightly
+1496,45,Male,Rhode Island,Winter,No,Weekly
+1497,63,Male,Idaho,Winter,No,Bi-Weekly
+1498,69,Male,Michigan,Spring,No,Every 3 Months
+1499,59,Male,Illinois,Summer,No,Fortnightly
+1500,19,Male,Georgia,Fall,No,Every 3 Months
+1501,63,Male,Alabama,Summer,No,Monthly
+1502,37,Male,Alaska,Spring,No,Every 3 Months
+1503,37,Male,Massachusetts,Summer,No,Fortnightly
+1504,50,Male,Michigan,Fall,No,Quarterly
+1505,60,Male,Alaska,Winter,No,Monthly
+1506,46,Male,North Dakota,Summer,No,Monthly
+1507,35,Male,South Carolina,Fall,No,Quarterly
+1508,66,Male,Pennsylvania,Winter,No,Annually
+1509,35,Male,Colorado,Spring,No,Every 3 Months
+1510,20,Male,New Hampshire,Summer,No,Annually
+1511,55,Male,Maryland,Fall,No,Annually
+1512,34,Male,Georgia,Winter,No,Weekly
+1513,60,Male,Wisconsin,Winter,No,Bi-Weekly
+1514,22,Male,Texas,Spring,No,Monthly
+1515,26,Male,Utah,Winter,No,Weekly
+1516,39,Male,Indiana,Fall,No,Weekly
+1517,20,Male,Nevada,Winter,No,Bi-Weekly
+1518,57,Male,New Hampshire,Spring,No,Quarterly
+1519,68,Male,New York,Winter,No,Fortnightly
+1520,50,Male,Texas,Fall,No,Weekly
+1521,21,Male,Iowa,Summer,No,Quarterly
+1522,29,Male,Washington,Summer,No,Weekly
+1523,38,Male,Tennessee,Spring,No,Monthly
+1524,54,Male,Georgia,Summer,No,Annually
+1525,22,Male,Massachusetts,Summer,No,Bi-Weekly
+1526,29,Male,Oregon,Winter,No,Fortnightly
+1527,41,Male,Oklahoma,Summer,No,Monthly
+1528,26,Male,Wisconsin,Fall,No,Fortnightly
+1529,69,Male,Oregon,Spring,No,Bi-Weekly
+1530,20,Male,Georgia,Winter,No,Bi-Weekly
+1531,59,Male,New Mexico,Spring,No,Quarterly
+1532,63,Male,Mississippi,Spring,No,Bi-Weekly
+1533,68,Male,Wisconsin,Winter,No,Every 3 Months
+1534,50,Male,New Hampshire,Summer,No,Quarterly
+1535,55,Male,Wyoming,Summer,No,Fortnightly
+1536,36,Male,West Virginia,Fall,No,Monthly
+1537,18,Male,Michigan,Summer,No,Quarterly
+1538,68,Male,Alaska,Spring,No,Annually
+1539,56,Male,Illinois,Fall,No,Bi-Weekly
+1540,32,Male,Hawaii,Spring,No,Every 3 Months
+1541,28,Male,Colorado,Winter,No,Monthly
+1542,24,Male,Illinois,Winter,No,Bi-Weekly
+1543,59,Male,Hawaii,Winter,No,Weekly
+1544,56,Male,Wisconsin,Fall,No,Annually
+1545,30,Male,Arkansas,Spring,No,Bi-Weekly
+1546,48,Male,Delaware,Winter,No,Annually
+1547,60,Male,Oregon,Summer,No,Annually
+1548,46,Male,South Carolina,Summer,No,Quarterly
+1549,69,Male,Maryland,Summer,No,Weekly
+1550,19,Male,Kansas,Spring,No,Every 3 Months
+1551,66,Male,Arkansas,Summer,No,Quarterly
+1552,64,Male,Minnesota,Summer,No,Monthly
+1553,54,Male,New Mexico,Spring,No,Monthly
+1554,27,Male,Delaware,Spring,No,Quarterly
+1555,64,Male,Utah,Winter,No,Bi-Weekly
+1556,43,Male,Ohio,Winter,No,Quarterly
+1557,43,Male,Alabama,Fall,No,Quarterly
+1558,27,Male,South Dakota,Fall,No,Quarterly
+1559,35,Male,New Mexico,Fall,No,Every 3 Months
+1560,43,Male,Oregon,Fall,No,Fortnightly
+1561,57,Male,Oregon,Winter,No,Weekly
+1562,50,Male,Mississippi,Summer,No,Quarterly
+1563,37,Male,Alabama,Winter,No,Bi-Weekly
+1564,68,Male,Kansas,Fall,No,Weekly
+1565,22,Male,California,Summer,No,Every 3 Months
+1566,58,Male,Idaho,Fall,No,Annually
+1567,48,Male,Wyoming,Winter,No,Bi-Weekly
+1568,30,Male,Minnesota,Spring,No,Monthly
+1569,51,Male,Washington,Spring,No,Monthly
+1570,20,Male,Hawaii,Summer,No,Weekly
+1571,30,Male,Missouri,Winter,No,Every 3 Months
+1572,28,Male,Colorado,Winter,No,Fortnightly
+1573,37,Male,Washington,Summer,No,Monthly
+1574,36,Male,North Dakota,Summer,No,Weekly
+1575,18,Male,Minnesota,Spring,No,Bi-Weekly
+1576,52,Male,California,Spring,No,Fortnightly
+1577,56,Male,Michigan,Spring,No,Monthly
+1578,68,Male,Delaware,Spring,No,Fortnightly
+1579,62,Male,California,Winter,No,Quarterly
+1580,35,Male,Oklahoma,Summer,No,Monthly
+1581,65,Male,North Dakota,Summer,No,Annually
+1582,69,Male,Ohio,Fall,No,Quarterly
+1583,28,Male,Hawaii,Spring,No,Monthly
+1584,37,Male,Maryland,Summer,No,Annually
+1585,41,Male,Hawaii,Spring,No,Quarterly
+1586,37,Male,Alabama,Fall,No,Fortnightly
+1587,25,Male,Oklahoma,Fall,No,Weekly
+1588,41,Male,Alabama,Summer,No,Fortnightly
+1589,48,Male,Vermont,Winter,No,Monthly
+1590,42,Male,Ohio,Summer,No,Weekly
+1591,54,Male,Wisconsin,Winter,No,Annually
+1592,18,Male,South Dakota,Winter,No,Annually
+1593,56,Male,Iowa,Summer,No,Every 3 Months
+1594,61,Male,Maryland,Spring,No,Monthly
+1595,40,Male,Colorado,Summer,No,Fortnightly
+1596,34,Male,Wisconsin,Spring,No,Fortnightly
+1597,42,Male,Mississippi,Fall,No,Monthly
+1598,43,Male,Mississippi,Winter,No,Quarterly
+1599,47,Male,California,Fall,No,Bi-Weekly
+1600,48,Male,Delaware,Winter,No,Bi-Weekly
+1601,20,Male,Montana,Spring,No,Weekly
+1602,65,Male,Indiana,Spring,No,Monthly
+1603,54,Male,West Virginia,Winter,No,Fortnightly
+1604,23,Male,Iowa,Summer,No,Bi-Weekly
+1605,18,Male,Maine,Summer,No,Every 3 Months
+1606,70,Male,Connecticut,Winter,No,Bi-Weekly
+1607,55,Male,Kansas,Spring,No,Fortnightly
+1608,49,Male,Vermont,Fall,No,Quarterly
+1609,26,Male,Nebraska,Fall,No,Bi-Weekly
+1610,33,Male,Nevada,Fall,No,Monthly
+1611,20,Male,Tennessee,Spring,No,Annually
+1612,41,Male,Arkansas,Winter,No,Monthly
+1613,18,Male,Wisconsin,Summer,No,Monthly
+1614,26,Male,Illinois,Summer,No,Fortnightly
+1615,30,Male,Kansas,Summer,No,Bi-Weekly
+1616,64,Male,New York,Fall,No,Bi-Weekly
+1617,26,Male,Colorado,Spring,No,Quarterly
+1618,43,Male,Wisconsin,Winter,No,Fortnightly
+1619,63,Male,Michigan,Summer,No,Quarterly
+1620,57,Male,Hawaii,Winter,No,Bi-Weekly
+1621,25,Male,Virginia,Winter,No,Every 3 Months
+1622,68,Male,Ohio,Summer,No,Fortnightly
+1623,31,Male,Missouri,Winter,No,Every 3 Months
+1624,64,Male,Indiana,Summer,No,Annually
+1625,38,Male,Florida,Winter,No,Every 3 Months
+1626,34,Male,Minnesota,Winter,No,Bi-Weekly
+1627,32,Male,Nevada,Summer,No,Bi-Weekly
+1628,69,Male,Maine,Winter,No,Annually
+1629,45,Male,Massachusetts,Winter,No,Monthly
+1630,35,Male,North Dakota,Spring,No,Quarterly
+1631,63,Male,New Jersey,Summer,No,Every 3 Months
+1632,65,Male,Indiana,Summer,No,Fortnightly
+1633,35,Male,Oregon,Summer,No,Every 3 Months
+1634,54,Male,North Dakota,Spring,No,Bi-Weekly
+1635,28,Male,South Carolina,Summer,No,Every 3 Months
+1636,68,Male,North Carolina,Summer,No,Annually
+1637,58,Male,North Dakota,Fall,No,Fortnightly
+1638,35,Male,Massachusetts,Spring,No,Fortnightly
+1639,68,Male,Tennessee,Spring,No,Weekly
+1640,41,Male,Missouri,Summer,No,Annually
+1641,65,Male,Tennessee,Spring,No,Weekly
+1642,50,Male,Colorado,Summer,No,Every 3 Months
+1643,18,Male,Mississippi,Spring,No,Fortnightly
+1644,38,Male,Ohio,Summer,No,Monthly
+1645,68,Male,North Carolina,Summer,No,Monthly
+1646,53,Male,Ohio,Summer,No,Every 3 Months
+1647,58,Male,Nebraska,Summer,No,Every 3 Months
+1648,34,Male,Hawaii,Summer,No,Quarterly
+1649,36,Male,Oklahoma,Summer,No,Monthly
+1650,58,Male,Wisconsin,Summer,No,Quarterly
+1651,60,Male,Arkansas,Winter,No,Fortnightly
+1652,59,Male,Texas,Winter,No,Monthly
+1653,65,Male,New Mexico,Summer,No,Fortnightly
+1654,31,Male,Colorado,Winter,No,Bi-Weekly
+1655,43,Male,Indiana,Spring,No,Quarterly
+1656,37,Male,Arizona,Spring,No,Monthly
+1657,21,Male,Indiana,Spring,No,Every 3 Months
+1658,69,Male,Indiana,Spring,No,Bi-Weekly
+1659,32,Male,Alaska,Spring,No,Weekly
+1660,53,Male,Utah,Fall,No,Annually
+1661,59,Male,Louisiana,Winter,No,Monthly
+1662,64,Male,Iowa,Summer,No,Quarterly
+1663,63,Male,New Mexico,Winter,No,Fortnightly
+1664,43,Male,Maine,Summer,No,Bi-Weekly
+1665,19,Male,Minnesota,Spring,No,Weekly
+1666,40,Male,New Mexico,Fall,No,Monthly
+1667,51,Male,Arkansas,Summer,No,Annually
+1668,51,Male,Oklahoma,Winter,No,Every 3 Months
+1669,66,Male,Utah,Summer,No,Fortnightly
+1670,42,Male,Wisconsin,Winter,No,Quarterly
+1671,22,Male,Utah,Fall,No,Weekly
+1672,31,Male,Utah,Winter,No,Weekly
+1673,18,Male,South Carolina,Fall,No,Quarterly
+1674,21,Male,Hawaii,Fall,No,Bi-Weekly
+1675,35,Male,Alaska,Winter,No,Fortnightly
+1676,35,Male,Colorado,Spring,No,Annually
+1677,27,Male,West Virginia,Winter,No,Weekly
+1678,65,Male,Oregon,Summer,No,Weekly
+1679,41,Male,Ohio,Summer,No,Fortnightly
+1680,60,Male,Massachusetts,Fall,No,Bi-Weekly
+1681,61,Male,Louisiana,Summer,No,Annually
+1682,24,Male,Virginia,Winter,No,Bi-Weekly
+1683,65,Male,New York,Fall,No,Bi-Weekly
+1684,23,Male,Arkansas,Spring,No,Quarterly
+1685,30,Male,New Mexico,Spring,No,Weekly
+1686,33,Male,Minnesota,Winter,No,Bi-Weekly
+1687,22,Male,Illinois,Fall,No,Annually
+1688,67,Male,Georgia,Winter,No,Annually
+1689,28,Male,Mississippi,Winter,No,Fortnightly
+1690,32,Male,North Carolina,Winter,No,Monthly
+1691,40,Male,Nevada,Summer,No,Annually
+1692,64,Male,Connecticut,Summer,No,Annually
+1693,56,Male,Utah,Winter,No,Bi-Weekly
+1694,63,Male,Tennessee,Fall,No,Fortnightly
+1695,20,Male,Mississippi,Summer,No,Fortnightly
+1696,54,Male,Nebraska,Fall,No,Fortnightly
+1697,31,Male,West Virginia,Spring,No,Bi-Weekly
+1698,36,Male,South Carolina,Fall,No,Every 3 Months
+1699,25,Male,Iowa,Winter,No,Quarterly
+1700,20,Male,North Dakota,Spring,No,Annually
+1701,62,Male,West Virginia,Fall,No,Monthly
+1702,69,Male,Mississippi,Winter,No,Every 3 Months
+1703,54,Male,Alabama,Summer,No,Weekly
+1704,39,Male,California,Spring,No,Annually
+1705,56,Male,Idaho,Summer,No,Every 3 Months
+1706,39,Male,South Dakota,Summer,No,Bi-Weekly
+1707,37,Male,North Dakota,Spring,No,Fortnightly
+1708,25,Male,Nevada,Fall,No,Bi-Weekly
+1709,35,Male,Florida,Spring,No,Quarterly
+1710,45,Male,Indiana,Winter,No,Annually
+1711,19,Male,Arkansas,Fall,No,Quarterly
+1712,21,Male,North Carolina,Spring,No,Monthly
+1713,65,Male,Illinois,Fall,No,Fortnightly
+1714,49,Male,Missouri,Winter,No,Quarterly
+1715,30,Male,South Dakota,Summer,No,Monthly
+1716,23,Male,Idaho,Spring,No,Bi-Weekly
+1717,69,Male,Connecticut,Winter,No,Every 3 Months
+1718,29,Male,Hawaii,Summer,No,Bi-Weekly
+1719,54,Male,Maryland,Winter,No,Every 3 Months
+1720,45,Male,Maryland,Winter,No,Quarterly
+1721,25,Male,Massachusetts,Winter,No,Bi-Weekly
+1722,34,Male,Delaware,Spring,No,Monthly
+1723,46,Male,Massachusetts,Summer,No,Fortnightly
+1724,70,Male,New York,Spring,No,Annually
+1725,42,Male,Delaware,Winter,No,Weekly
+1726,45,Male,Massachusetts,Spring,No,Quarterly
+1727,57,Male,Indiana,Summer,No,Weekly
+1728,49,Male,Virginia,Spring,No,Monthly
+1729,23,Male,Wyoming,Fall,No,Every 3 Months
+1730,47,Male,Illinois,Winter,No,Fortnightly
+1731,23,Male,Alabama,Fall,No,Weekly
+1732,21,Male,Idaho,Fall,No,Monthly
+1733,45,Male,Rhode Island,Winter,No,Every 3 Months
+1734,67,Male,New York,Summer,No,Annually
+1735,31,Male,Missouri,Spring,No,Quarterly
+1736,58,Male,Texas,Winter,No,Annually
+1737,57,Male,Tennessee,Summer,No,Quarterly
+1738,42,Male,Ohio,Summer,No,Bi-Weekly
+1739,60,Male,Tennessee,Spring,No,Weekly
+1740,21,Male,Minnesota,Winter,No,Weekly
+1741,69,Male,Wisconsin,Fall,No,Every 3 Months
+1742,41,Male,Delaware,Winter,No,Monthly
+1743,51,Male,Kansas,Spring,No,Every 3 Months
+1744,23,Male,Missouri,Winter,No,Weekly
+1745,57,Male,Michigan,Winter,No,Weekly
+1746,40,Male,West Virginia,Winter,No,Weekly
+1747,65,Male,Alabama,Summer,No,Fortnightly
+1748,61,Male,New Hampshire,Winter,No,Quarterly
+1749,34,Male,Montana,Winter,No,Annually
+1750,43,Male,Wyoming,Fall,No,Every 3 Months
+1751,31,Male,Missouri,Fall,No,Every 3 Months
+1752,57,Male,Ohio,Winter,No,Annually
+1753,34,Male,South Dakota,Winter,No,Quarterly
+1754,25,Male,Colorado,Fall,No,Fortnightly
+1755,66,Male,Massachusetts,Fall,No,Fortnightly
+1756,56,Male,Delaware,Spring,No,Monthly
+1757,49,Male,New Hampshire,Fall,No,Weekly
+1758,19,Male,Michigan,Fall,No,Annually
+1759,27,Male,Pennsylvania,Winter,No,Bi-Weekly
+1760,68,Male,Louisiana,Spring,No,Weekly
+1761,20,Male,Minnesota,Spring,No,Weekly
+1762,21,Male,Hawaii,Fall,No,Weekly
+1763,36,Male,Idaho,Summer,No,Fortnightly
+1764,37,Male,Vermont,Winter,No,Annually
+1765,61,Male,Delaware,Summer,No,Quarterly
+1766,68,Male,New Mexico,Spring,No,Quarterly
+1767,60,Male,Alaska,Winter,No,Bi-Weekly
+1768,69,Male,Minnesota,Fall,No,Fortnightly
+1769,25,Male,Nebraska,Summer,No,Every 3 Months
+1770,32,Male,Alaska,Winter,No,Monthly
+1771,53,Male,Michigan,Fall,No,Weekly
+1772,46,Male,Indiana,Fall,No,Annually
+1773,58,Male,Hawaii,Summer,No,Annually
+1774,21,Male,West Virginia,Summer,No,Annually
+1775,46,Male,New York,Spring,No,Weekly
+1776,18,Male,Iowa,Spring,No,Bi-Weekly
+1777,56,Male,Arizona,Summer,No,Every 3 Months
+1778,18,Male,Minnesota,Winter,No,Fortnightly
+1779,49,Male,Texas,Winter,No,Bi-Weekly
+1780,29,Male,Virginia,Winter,No,Weekly
+1781,67,Male,North Dakota,Summer,No,Weekly
+1782,31,Male,Iowa,Fall,No,Quarterly
+1783,52,Male,Utah,Fall,No,Fortnightly
+1784,42,Male,Ohio,Winter,No,Monthly
+1785,32,Male,Louisiana,Summer,No,Quarterly
+1786,47,Male,Iowa,Fall,No,Monthly
+1787,45,Male,Maryland,Spring,No,Monthly
+1788,20,Male,Montana,Fall,No,Quarterly
+1789,66,Male,Illinois,Summer,No,Bi-Weekly
+1790,52,Male,Arizona,Spring,No,Quarterly
+1791,50,Male,North Carolina,Summer,No,Bi-Weekly
+1792,62,Male,Montana,Winter,No,Annually
+1793,38,Male,Iowa,Fall,No,Every 3 Months
+1794,65,Male,Iowa,Fall,No,Every 3 Months
+1795,60,Male,Ohio,Spring,No,Fortnightly
+1796,68,Male,Wisconsin,Fall,No,Fortnightly
+1797,62,Male,South Carolina,Spring,No,Weekly
+1798,62,Male,Oregon,Spring,No,Weekly
+1799,40,Male,North Dakota,Winter,No,Weekly
+1800,32,Male,California,Fall,No,Weekly
+1801,22,Male,Mississippi,Winter,No,Weekly
+1802,33,Male,New Jersey,Spring,No,Fortnightly
+1803,57,Male,Rhode Island,Winter,No,Bi-Weekly
+1804,60,Male,New Hampshire,Summer,No,Fortnightly
+1805,30,Male,Louisiana,Winter,No,Weekly
+1806,41,Male,Arizona,Spring,No,Weekly
+1807,58,Male,Rhode Island,Fall,No,Annually
+1808,34,Male,Vermont,Summer,No,Fortnightly
+1809,67,Male,Tennessee,Spring,No,Monthly
+1810,58,Male,Alaska,Fall,No,Fortnightly
+1811,41,Male,Maryland,Fall,No,Bi-Weekly
+1812,42,Male,Wisconsin,Summer,No,Annually
+1813,50,Male,Nevada,Summer,No,Bi-Weekly
+1814,40,Male,Illinois,Spring,No,Weekly
+1815,32,Male,Montana,Summer,No,Quarterly
+1816,51,Male,New Mexico,Winter,No,Every 3 Months
+1817,26,Male,Virginia,Summer,No,Weekly
+1818,32,Male,Delaware,Summer,No,Weekly
+1819,58,Male,North Carolina,Fall,No,Every 3 Months
+1820,51,Male,Nevada,Spring,No,Quarterly
+1821,19,Male,Washington,Fall,No,Monthly
+1822,57,Male,Maine,Spring,No,Quarterly
+1823,66,Male,Connecticut,Summer,No,Annually
+1824,62,Male,Louisiana,Fall,No,Bi-Weekly
+1825,58,Male,Illinois,Winter,No,Monthly
+1826,23,Male,South Dakota,Winter,No,Weekly
+1827,45,Male,Indiana,Winter,No,Annually
+1828,20,Male,Vermont,Spring,No,Weekly
+1829,33,Male,New Hampshire,Spring,No,Every 3 Months
+1830,30,Male,Oregon,Spring,No,Quarterly
+1831,50,Male,Kansas,Winter,No,Annually
+1832,62,Male,Maine,Summer,No,Every 3 Months
+1833,69,Male,Louisiana,Fall,No,Monthly
+1834,34,Male,Louisiana,Spring,No,Fortnightly
+1835,49,Male,Indiana,Summer,No,Fortnightly
+1836,65,Male,Kentucky,Fall,No,Quarterly
+1837,66,Male,South Carolina,Fall,No,Monthly
+1838,41,Male,Montana,Winter,No,Monthly
+1839,37,Male,Vermont,Fall,No,Quarterly
+1840,32,Male,Mississippi,Winter,No,Annually
+1841,42,Male,Wyoming,Winter,No,Every 3 Months
+1842,31,Male,Vermont,Winter,No,Every 3 Months
+1843,61,Male,Alabama,Summer,No,Annually
+1844,36,Male,Kentucky,Fall,No,Monthly
+1845,60,Male,South Dakota,Spring,No,Annually
+1846,51,Male,Delaware,Winter,No,Quarterly
+1847,68,Male,Wisconsin,Summer,No,Quarterly
+1848,46,Male,Arizona,Summer,No,Weekly
+1849,19,Male,Maine,Winter,No,Every 3 Months
+1850,30,Male,New Mexico,Winter,No,Monthly
+1851,51,Male,Wyoming,Winter,No,Weekly
+1852,28,Male,Delaware,Fall,No,Fortnightly
+1853,41,Male,Pennsylvania,Winter,No,Weekly
+1854,29,Male,North Dakota,Spring,No,Fortnightly
+1855,25,Male,Kentucky,Spring,No,Annually
+1856,60,Male,Rhode Island,Spring,No,Annually
+1857,63,Male,Arizona,Summer,No,Bi-Weekly
+1858,51,Male,Colorado,Summer,No,Monthly
+1859,22,Male,Maine,Spring,No,Annually
+1860,54,Male,New Jersey,Summer,No,Fortnightly
+1861,18,Male,Kansas,Summer,No,Monthly
+1862,29,Male,South Dakota,Fall,No,Monthly
+1863,59,Male,New Hampshire,Winter,No,Fortnightly
+1864,25,Male,Connecticut,Spring,No,Monthly
+1865,19,Male,Wyoming,Fall,No,Quarterly
+1866,56,Male,Missouri,Summer,No,Monthly
+1867,31,Male,Alaska,Winter,No,Fortnightly
+1868,45,Male,Delaware,Fall,No,Quarterly
+1869,23,Male,Indiana,Spring,No,Fortnightly
+1870,18,Male,West Virginia,Spring,No,Every 3 Months
+1871,43,Male,Wyoming,Spring,No,Fortnightly
+1872,56,Male,Illinois,Fall,No,Every 3 Months
+1873,43,Male,Alaska,Summer,No,Monthly
+1874,64,Male,Wisconsin,Fall,No,Weekly
+1875,67,Male,Indiana,Fall,No,Weekly
+1876,63,Male,Tennessee,Winter,No,Quarterly
+1877,54,Male,Illinois,Fall,No,Quarterly
+1878,69,Male,Pennsylvania,Fall,No,Annually
+1879,34,Male,Oklahoma,Summer,No,Monthly
+1880,56,Male,Tennessee,Spring,No,Bi-Weekly
+1881,34,Male,New Jersey,Fall,No,Monthly
+1882,58,Male,New Jersey,Winter,No,Bi-Weekly
+1883,44,Male,Tennessee,Winter,No,Quarterly
+1884,25,Male,Georgia,Spring,No,Fortnightly
+1885,27,Male,Arizona,Summer,No,Bi-Weekly
+1886,26,Male,Nevada,Winter,No,Monthly
+1887,18,Male,Arkansas,Spring,No,Bi-Weekly
+1888,64,Male,North Dakota,Fall,No,Monthly
+1889,62,Male,South Dakota,Winter,No,Weekly
+1890,59,Male,North Carolina,Spring,No,Weekly
+1891,36,Male,Hawaii,Spring,No,Weekly
+1892,69,Male,New Hampshire,Summer,No,Quarterly
+1893,39,Male,California,Fall,No,Weekly
+1894,28,Male,Delaware,Summer,No,Fortnightly
+1895,42,Male,Arizona,Fall,No,Bi-Weekly
+1896,31,Male,Washington,Fall,No,Monthly
+1897,57,Male,Nevada,Fall,No,Monthly
+1898,53,Male,Alaska,Winter,No,Fortnightly
+1899,59,Male,Texas,Fall,No,Monthly
+1900,32,Male,New York,Winter,No,Weekly
+1901,65,Male,Iowa,Summer,No,Quarterly
+1902,56,Male,Arizona,Winter,No,Quarterly
+1903,31,Male,New Mexico,Spring,No,Monthly
+1904,59,Male,North Carolina,Summer,No,Weekly
+1905,22,Male,Nevada,Spring,No,Monthly
+1906,47,Male,Idaho,Summer,No,Fortnightly
+1907,23,Male,Vermont,Spring,No,Fortnightly
+1908,69,Male,New Mexico,Fall,No,Every 3 Months
+1909,18,Male,Georgia,Winter,No,Bi-Weekly
+1910,50,Male,Kentucky,Spring,No,Monthly
+1911,29,Male,New York,Fall,No,Quarterly
+1912,65,Male,Arizona,Spring,No,Bi-Weekly
+1913,29,Male,Colorado,Winter,No,Bi-Weekly
+1914,49,Male,Kentucky,Winter,No,Annually
+1915,28,Male,Alaska,Fall,No,Fortnightly
+1916,51,Male,Alabama,Fall,No,Weekly
+1917,26,Male,Connecticut,Winter,No,Bi-Weekly
+1918,38,Male,Hawaii,Winter,No,Bi-Weekly
+1919,35,Male,Idaho,Summer,No,Monthly
+1920,34,Male,Virginia,Summer,No,Bi-Weekly
+1921,51,Male,Connecticut,Spring,No,Every 3 Months
+1922,47,Male,Michigan,Fall,No,Annually
+1923,18,Male,Kentucky,Summer,No,Monthly
+1924,64,Male,Nebraska,Summer,No,Annually
+1925,30,Male,Michigan,Fall,No,Quarterly
+1926,59,Male,Utah,Winter,No,Fortnightly
+1927,66,Male,New Mexico,Spring,No,Annually
+1928,40,Male,Florida,Summer,No,Every 3 Months
+1929,25,Male,Mississippi,Summer,No,Weekly
+1930,59,Male,Hawaii,Fall,No,Quarterly
+1931,66,Male,North Carolina,Spring,No,Weekly
+1932,54,Male,Illinois,Spring,No,Every 3 Months
+1933,42,Male,Maryland,Spring,No,Every 3 Months
+1934,48,Male,Montana,Summer,No,Annually
+1935,34,Male,Michigan,Winter,No,Annually
+1936,19,Male,North Carolina,Spring,No,Fortnightly
+1937,70,Male,Minnesota,Summer,No,Every 3 Months
+1938,43,Male,Delaware,Summer,No,Monthly
+1939,46,Male,Kentucky,Spring,No,Bi-Weekly
+1940,66,Male,Ohio,Winter,No,Every 3 Months
+1941,50,Male,Alaska,Fall,No,Fortnightly
+1942,55,Male,Vermont,Winter,No,Quarterly
+1943,63,Male,Alabama,Fall,No,Monthly
+1944,32,Male,Wisconsin,Summer,No,Annually
+1945,30,Male,Arkansas,Winter,No,Every 3 Months
+1946,35,Male,Georgia,Winter,No,Every 3 Months
+1947,59,Male,Louisiana,Summer,No,Quarterly
+1948,59,Male,New York,Summer,No,Monthly
+1949,54,Male,Connecticut,Winter,No,Bi-Weekly
+1950,63,Male,Nebraska,Winter,No,Quarterly
+1951,43,Male,Arkansas,Summer,No,Every 3 Months
+1952,33,Male,Connecticut,Summer,No,Bi-Weekly
+1953,57,Male,Maryland,Summer,No,Bi-Weekly
+1954,25,Male,Colorado,Spring,No,Fortnightly
+1955,26,Male,Colorado,Winter,No,Quarterly
+1956,50,Male,Maine,Winter,No,Monthly
+1957,70,Male,Oklahoma,Winter,No,Fortnightly
+1958,68,Male,South Carolina,Spring,No,Bi-Weekly
+1959,39,Male,Nevada,Winter,No,Quarterly
+1960,46,Male,Colorado,Fall,No,Every 3 Months
+1961,57,Male,Massachusetts,Summer,No,Annually
+1962,47,Male,Nevada,Summer,No,Quarterly
+1963,40,Male,Iowa,Fall,No,Fortnightly
+1964,52,Male,Michigan,Spring,No,Weekly
+1965,40,Male,West Virginia,Summer,No,Monthly
+1966,67,Male,Indiana,Fall,No,Quarterly
+1967,67,Male,Indiana,Winter,No,Fortnightly
+1968,37,Male,Georgia,Fall,No,Annually
+1969,67,Male,Minnesota,Spring,No,Weekly
+1970,64,Male,Louisiana,Winter,No,Fortnightly
+1971,28,Male,Maryland,Spring,No,Bi-Weekly
+1972,54,Male,Pennsylvania,Spring,No,Monthly
+1973,54,Male,Louisiana,Summer,No,Every 3 Months
+1974,24,Male,Maryland,Fall,No,Every 3 Months
+1975,27,Male,Tennessee,Winter,No,Fortnightly
+1976,53,Male,Illinois,Fall,No,Quarterly
+1977,32,Male,Wyoming,Spring,No,Fortnightly
+1978,24,Male,Florida,Summer,No,Annually
+1979,45,Male,Massachusetts,Spring,No,Quarterly
+1980,49,Male,Tennessee,Spring,No,Fortnightly
+1981,51,Male,Iowa,Winter,No,Fortnightly
+1982,69,Male,Michigan,Summer,No,Quarterly
+1983,41,Male,Kansas,Summer,No,Monthly
+1984,59,Male,Georgia,Summer,No,Quarterly
+1985,26,Male,West Virginia,Summer,No,Fortnightly
+1986,23,Male,Tennessee,Spring,No,Fortnightly
+1987,62,Male,Arkansas,Summer,No,Quarterly
+1988,69,Male,Vermont,Summer,No,Quarterly
+1989,46,Male,Virginia,Winter,No,Weekly
+1990,35,Male,Maryland,Spring,No,Bi-Weekly
+1991,32,Male,Connecticut,Spring,No,Annually
+1992,46,Male,Missouri,Summer,No,Every 3 Months
+1993,33,Male,New Jersey,Winter,No,Monthly
+1994,32,Male,Arkansas,Spring,No,Weekly
+1995,33,Male,Nevada,Fall,No,Weekly
+1996,67,Male,Missouri,Spring,No,Quarterly
+1997,67,Male,South Dakota,Summer,No,Every 3 Months
+1998,42,Male,Connecticut,Fall,No,Bi-Weekly
+1999,20,Male,Vermont,Fall,No,Quarterly
+2000,39,Male,Tennessee,Winter,No,Monthly
+2001,26,Male,California,Winter,No,Bi-Weekly
+2002,51,Male,Wyoming,Winter,No,Fortnightly
+2003,31,Male,New York,Summer,No,Every 3 Months
+2004,68,Male,Maine,Spring,No,Quarterly
+2005,44,Male,Georgia,Fall,No,Bi-Weekly
+2006,18,Male,Tennessee,Winter,No,Fortnightly
+2007,58,Male,New Mexico,Fall,No,Annually
+2008,26,Male,Virginia,Summer,No,Quarterly
+2009,57,Male,Florida,Spring,No,Every 3 Months
+2010,37,Male,Alabama,Summer,No,Bi-Weekly
+2011,24,Male,Texas,Summer,No,Bi-Weekly
+2012,57,Male,West Virginia,Spring,No,Monthly
+2013,48,Male,Nevada,Fall,No,Fortnightly
+2014,39,Male,Virginia,Winter,No,Quarterly
+2015,51,Male,Wisconsin,Summer,No,Bi-Weekly
+2016,57,Male,Virginia,Summer,No,Fortnightly
+2017,53,Male,Maine,Winter,No,Fortnightly
+2018,70,Male,Massachusetts,Winter,No,Every 3 Months
+2019,60,Male,Arkansas,Fall,No,Weekly
+2020,31,Male,Idaho,Winter,No,Fortnightly
+2021,41,Male,Pennsylvania,Winter,No,Quarterly
+2022,62,Male,Maine,Winter,No,Quarterly
+2023,59,Male,Alabama,Winter,No,Bi-Weekly
+2024,46,Male,Idaho,Winter,No,Bi-Weekly
+2025,62,Male,Arkansas,Fall,No,Weekly
+2026,42,Male,Delaware,Summer,No,Fortnightly
+2027,37,Male,Maine,Winter,No,Every 3 Months
+2028,50,Male,Nebraska,Fall,No,Every 3 Months
+2029,29,Male,Ohio,Fall,No,Bi-Weekly
+2030,25,Male,Montana,Spring,No,Quarterly
+2031,66,Male,New Mexico,Summer,No,Monthly
+2032,21,Male,North Carolina,Spring,No,Monthly
+2033,46,Male,South Carolina,Winter,No,Annually
+2034,57,Male,Illinois,Summer,No,Annually
+2035,61,Male,Alabama,Spring,No,Monthly
+2036,53,Male,Oklahoma,Summer,No,Weekly
+2037,37,Male,Minnesota,Winter,No,Weekly
+2038,39,Male,Illinois,Summer,No,Bi-Weekly
+2039,53,Male,Arkansas,Spring,No,Fortnightly
+2040,35,Male,Minnesota,Spring,No,Bi-Weekly
+2041,69,Male,South Carolina,Spring,No,Quarterly
+2042,66,Male,New York,Winter,No,Bi-Weekly
+2043,19,Male,Alabama,Spring,No,Monthly
+2044,47,Male,New York,Summer,No,Weekly
+2045,49,Male,Missouri,Spring,No,Fortnightly
+2046,31,Male,Georgia,Fall,No,Quarterly
+2047,39,Male,Oklahoma,Winter,No,Every 3 Months
+2048,58,Male,Connecticut,Summer,No,Annually
+2049,45,Male,Michigan,Winter,No,Quarterly
+2050,68,Male,Rhode Island,Fall,No,Annually
+2051,35,Male,Mississippi,Summer,No,Annually
+2052,65,Male,Massachusetts,Spring,No,Monthly
+2053,45,Male,New Hampshire,Winter,No,Annually
+2054,19,Male,Wyoming,Spring,No,Fortnightly
+2055,65,Male,New Jersey,Spring,No,Annually
+2056,28,Male,Texas,Fall,No,Weekly
+2057,55,Male,Minnesota,Spring,No,Monthly
+2058,66,Male,South Dakota,Spring,No,Every 3 Months
+2059,29,Male,Washington,Winter,No,Quarterly
+2060,56,Male,California,Spring,No,Weekly
+2061,21,Male,Wisconsin,Fall,No,Quarterly
+2062,32,Male,Michigan,Summer,No,Annually
+2063,54,Male,South Carolina,Fall,No,Quarterly
+2064,61,Male,Indiana,Fall,No,Monthly
+2065,31,Male,Arkansas,Summer,No,Monthly
+2066,27,Male,Oregon,Spring,No,Bi-Weekly
+2067,64,Male,Illinois,Fall,No,Fortnightly
+2068,60,Male,Maryland,Fall,No,Fortnightly
+2069,70,Male,Vermont,Summer,No,Monthly
+2070,36,Male,Texas,Fall,No,Quarterly
+2071,56,Male,Nebraska,Spring,No,Monthly
+2072,69,Male,South Carolina,Fall,No,Quarterly
+2073,39,Male,Massachusetts,Winter,No,Weekly
+2074,38,Male,Texas,Winter,No,Every 3 Months
+2075,36,Male,Florida,Summer,No,Fortnightly
+2076,46,Male,South Carolina,Fall,No,Monthly
+2077,59,Male,Florida,Fall,No,Bi-Weekly
+2078,64,Male,Nebraska,Fall,No,Annually
+2079,49,Male,Hawaii,Spring,No,Weekly
+2080,32,Male,Montana,Summer,No,Quarterly
+2081,29,Male,South Dakota,Fall,No,Bi-Weekly
+2082,24,Male,Alabama,Spring,No,Bi-Weekly
+2083,41,Male,Arkansas,Summer,No,Every 3 Months
+2084,41,Male,Mississippi,Fall,No,Fortnightly
+2085,32,Male,Vermont,Summer,No,Quarterly
+2086,69,Male,New York,Fall,No,Weekly
+2087,65,Male,North Dakota,Summer,No,Every 3 Months
+2088,54,Male,Wisconsin,Summer,No,Weekly
+2089,39,Male,California,Spring,No,Annually
+2090,37,Male,Maryland,Spring,No,Every 3 Months
+2091,51,Male,Massachusetts,Winter,No,Monthly
+2092,26,Male,Washington,Fall,No,Quarterly
+2093,42,Male,Minnesota,Fall,No,Weekly
+2094,21,Male,Washington,Spring,No,Annually
+2095,53,Male,South Carolina,Spring,No,Annually
+2096,36,Male,New Mexico,Fall,No,Fortnightly
+2097,21,Male,North Carolina,Summer,No,Annually
+2098,33,Male,Iowa,Winter,No,Weekly
+2099,49,Male,Louisiana,Summer,No,Quarterly
+2100,31,Male,Oklahoma,Summer,No,Annually
+2101,68,Male,Michigan,Spring,No,Fortnightly
+2102,49,Male,Oregon,Winter,No,Bi-Weekly
+2103,23,Male,Idaho,Spring,No,Monthly
+2104,30,Male,Indiana,Summer,No,Weekly
+2105,53,Male,New Mexico,Spring,No,Weekly
+2106,65,Male,South Carolina,Spring,No,Bi-Weekly
+2107,60,Male,Vermont,Fall,No,Every 3 Months
+2108,46,Male,Delaware,Winter,No,Quarterly
+2109,54,Male,North Dakota,Winter,No,Quarterly
+2110,59,Male,California,Fall,No,Every 3 Months
+2111,52,Male,Montana,Spring,No,Every 3 Months
+2112,41,Male,Missouri,Spring,No,Annually
+2113,43,Male,Tennessee,Fall,No,Fortnightly
+2114,63,Male,Virginia,Spring,No,Every 3 Months
+2115,37,Male,Vermont,Winter,No,Annually
+2116,44,Male,Rhode Island,Winter,No,Bi-Weekly
+2117,67,Male,Kansas,Summer,No,Bi-Weekly
+2118,27,Male,Colorado,Summer,No,Annually
+2119,60,Male,Georgia,Fall,No,Quarterly
+2120,58,Male,Nebraska,Spring,No,Bi-Weekly
+2121,53,Male,Missouri,Fall,No,Quarterly
+2122,43,Male,Alaska,Winter,No,Monthly
+2123,32,Male,Virginia,Fall,No,Weekly
+2124,54,Male,Nebraska,Spring,No,Bi-Weekly
+2125,47,Male,Rhode Island,Fall,No,Quarterly
+2126,57,Male,New Hampshire,Fall,No,Quarterly
+2127,63,Male,Alabama,Winter,No,Monthly
+2128,70,Male,North Carolina,Spring,No,Weekly
+2129,62,Male,New Mexico,Fall,No,Weekly
+2130,40,Male,Minnesota,Fall,No,Every 3 Months
+2131,25,Male,Arizona,Summer,No,Annually
+2132,19,Male,Montana,Fall,No,Fortnightly
+2133,25,Male,Vermont,Fall,No,Weekly
+2134,21,Male,Maine,Summer,No,Annually
+2135,55,Male,Virginia,Winter,No,Fortnightly
+2136,34,Male,California,Winter,No,Every 3 Months
+2137,47,Male,New York,Summer,No,Fortnightly
+2138,27,Male,Indiana,Winter,No,Every 3 Months
+2139,67,Male,Mississippi,Fall,No,Quarterly
+2140,40,Male,New York,Winter,No,Weekly
+2141,53,Male,New Mexico,Fall,No,Fortnightly
+2142,24,Male,Kentucky,Winter,No,Annually
+2143,47,Male,North Dakota,Winter,No,Quarterly
+2144,53,Male,Arkansas,Fall,No,Bi-Weekly
+2145,47,Male,Maryland,Winter,No,Quarterly
+2146,38,Male,Connecticut,Winter,No,Annually
+2147,48,Male,Utah,Summer,No,Every 3 Months
+2148,47,Male,Missouri,Fall,No,Fortnightly
+2149,19,Male,Nebraska,Winter,No,Bi-Weekly
+2150,38,Male,Hawaii,Winter,No,Weekly
+2151,57,Male,Illinois,Spring,No,Weekly
+2152,70,Male,Vermont,Fall,No,Monthly
+2153,38,Male,New Jersey,Summer,No,Bi-Weekly
+2154,35,Male,Kentucky,Fall,No,Annually
+2155,46,Male,Wyoming,Spring,No,Every 3 Months
+2156,32,Male,Hawaii,Fall,No,Monthly
+2157,38,Male,Missouri,Winter,No,Bi-Weekly
+2158,41,Male,Mississippi,Winter,No,Fortnightly
+2159,19,Male,Massachusetts,Spring,No,Fortnightly
+2160,18,Male,Louisiana,Fall,No,Annually
+2161,45,Male,West Virginia,Winter,No,Annually
+2162,23,Male,Washington,Summer,No,Fortnightly
+2163,60,Male,Oregon,Summer,No,Weekly
+2164,52,Male,New York,Spring,No,Monthly
+2165,42,Male,Iowa,Winter,No,Bi-Weekly
+2166,29,Male,Idaho,Summer,No,Every 3 Months
+2167,31,Male,New Jersey,Spring,No,Bi-Weekly
+2168,30,Male,Ohio,Winter,No,Fortnightly
+2169,23,Male,Connecticut,Spring,No,Quarterly
+2170,31,Male,Florida,Fall,No,Bi-Weekly
+2171,40,Male,South Carolina,Fall,No,Every 3 Months
+2172,39,Male,Missouri,Summer,No,Fortnightly
+2173,28,Male,Rhode Island,Fall,No,Fortnightly
+2174,23,Male,Delaware,Summer,No,Quarterly
+2175,42,Male,Colorado,Spring,No,Annually
+2176,68,Male,Nebraska,Spring,No,Fortnightly
+2177,24,Male,Vermont,Winter,No,Quarterly
+2178,24,Male,Montana,Winter,No,Bi-Weekly
+2179,21,Male,Florida,Summer,No,Annually
+2180,49,Male,Delaware,Fall,No,Monthly
+2181,41,Male,Connecticut,Summer,No,Quarterly
+2182,22,Male,Hawaii,Fall,No,Bi-Weekly
+2183,42,Male,New Mexico,Winter,No,Bi-Weekly
+2184,30,Male,Kansas,Spring,No,Monthly
+2185,38,Male,Nevada,Spring,No,Every 3 Months
+2186,40,Male,North Carolina,Winter,No,Every 3 Months
+2187,55,Male,New Mexico,Winter,No,Every 3 Months
+2188,37,Male,Idaho,Spring,No,Annually
+2189,41,Male,California,Winter,No,Weekly
+2190,38,Male,Wisconsin,Fall,No,Bi-Weekly
+2191,42,Male,Alaska,Spring,No,Annually
+2192,26,Male,Pennsylvania,Summer,No,Bi-Weekly
+2193,41,Male,Virginia,Winter,No,Monthly
+2194,27,Male,California,Spring,No,Monthly
+2195,61,Male,Kentucky,Summer,No,Quarterly
+2196,58,Male,New York,Fall,No,Monthly
+2197,25,Male,Vermont,Spring,No,Weekly
+2198,33,Male,Pennsylvania,Summer,No,Monthly
+2199,57,Male,New York,Summer,No,Monthly
+2200,39,Male,North Carolina,Summer,No,Monthly
+2201,60,Male,Wyoming,Summer,No,Every 3 Months
+2202,39,Male,Ohio,Spring,No,Annually
+2203,42,Male,Alabama,Summer,No,Weekly
+2204,53,Male,Rhode Island,Winter,No,Quarterly
+2205,20,Male,Oregon,Winter,No,Monthly
+2206,46,Male,North Dakota,Fall,No,Weekly
+2207,46,Male,Illinois,Spring,No,Fortnightly
+2208,69,Male,New Mexico,Fall,No,Annually
+2209,28,Male,Colorado,Summer,No,Monthly
+2210,42,Male,Utah,Summer,No,Quarterly
+2211,30,Male,Virginia,Summer,No,Fortnightly
+2212,50,Male,Maine,Winter,No,Every 3 Months
+2213,59,Male,Nebraska,Winter,No,Quarterly
+2214,54,Male,Hawaii,Fall,No,Quarterly
+2215,50,Male,Idaho,Fall,No,Weekly
+2216,25,Male,West Virginia,Winter,No,Fortnightly
+2217,41,Male,Vermont,Winter,No,Bi-Weekly
+2218,35,Male,Indiana,Fall,No,Fortnightly
+2219,67,Male,Idaho,Winter,No,Quarterly
+2220,33,Male,Minnesota,Fall,No,Fortnightly
+2221,19,Male,Wyoming,Fall,No,Annually
+2222,25,Male,Kansas,Fall,No,Annually
+2223,32,Male,Georgia,Summer,No,Weekly
+2224,30,Male,Kansas,Fall,No,Quarterly
+2225,18,Male,Nebraska,Winter,No,Quarterly
+2226,38,Male,Washington,Spring,No,Annually
+2227,22,Male,Missouri,Spring,No,Annually
+2228,40,Male,Washington,Summer,No,Fortnightly
+2229,54,Male,Kansas,Fall,No,Weekly
+2230,70,Male,Minnesota,Fall,No,Monthly
+2231,52,Male,Colorado,Spring,No,Fortnightly
+2232,34,Male,Utah,Fall,No,Weekly
+2233,65,Male,North Carolina,Spring,No,Fortnightly
+2234,38,Male,Florida,Summer,No,Monthly
+2235,35,Male,New Hampshire,Winter,No,Weekly
+2236,40,Male,Illinois,Spring,No,Annually
+2237,23,Male,Louisiana,Winter,No,Fortnightly
+2238,45,Male,Alabama,Summer,No,Every 3 Months
+2239,40,Male,Florida,Winter,No,Weekly
+2240,42,Male,Alabama,Summer,No,Every 3 Months
+2241,57,Male,California,Winter,No,Every 3 Months
+2242,18,Male,Maryland,Summer,No,Bi-Weekly
+2243,18,Male,Nevada,Spring,No,Bi-Weekly
+2244,56,Male,Massachusetts,Winter,No,Annually
+2245,35,Male,South Carolina,Summer,No,Annually
+2246,49,Male,Delaware,Fall,No,Fortnightly
+2247,49,Male,Hawaii,Fall,No,Every 3 Months
+2248,34,Male,Florida,Summer,No,Annually
+2249,63,Male,Rhode Island,Winter,No,Fortnightly
+2250,42,Male,Wyoming,Spring,No,Weekly
+2251,41,Male,Colorado,Summer,No,Weekly
+2252,26,Male,Virginia,Fall,No,Monthly
+2253,48,Male,Nebraska,Summer,No,Annually
+2254,62,Male,Oklahoma,Spring,No,Monthly
+2255,24,Male,North Dakota,Winter,No,Every 3 Months
+2256,48,Male,Michigan,Spring,No,Quarterly
+2257,31,Male,California,Fall,No,Quarterly
+2258,41,Male,Tennessee,Fall,No,Annually
+2259,24,Male,Ohio,Winter,No,Every 3 Months
+2260,60,Male,Florida,Spring,No,Annually
+2261,38,Male,Missouri,Fall,No,Quarterly
+2262,58,Male,South Carolina,Spring,No,Fortnightly
+2263,53,Male,Arizona,Winter,No,Monthly
+2264,44,Male,Indiana,Winter,No,Quarterly
+2265,51,Male,North Dakota,Summer,No,Monthly
+2266,36,Male,Montana,Fall,No,Quarterly
+2267,20,Male,Missouri,Fall,No,Weekly
+2268,32,Male,Kentucky,Spring,No,Weekly
+2269,66,Male,Georgia,Spring,No,Monthly
+2270,49,Male,Kentucky,Fall,No,Annually
+2271,27,Male,Georgia,Spring,No,Weekly
+2272,29,Male,Alaska,Summer,No,Quarterly
+2273,29,Male,Maine,Spring,No,Monthly
+2274,55,Male,New Mexico,Winter,No,Bi-Weekly
+2275,57,Male,New York,Spring,No,Fortnightly
+2276,29,Male,Oklahoma,Winter,No,Weekly
+2277,31,Male,Wyoming,Summer,No,Weekly
+2278,25,Male,Alabama,Summer,No,Quarterly
+2279,61,Male,Maryland,Fall,No,Every 3 Months
+2280,53,Male,West Virginia,Spring,No,Quarterly
+2281,22,Male,Kentucky,Summer,No,Fortnightly
+2282,28,Male,Kansas,Summer,No,Annually
+2283,18,Male,Idaho,Fall,No,Annually
+2284,44,Male,Ohio,Winter,No,Fortnightly
+2285,32,Male,Iowa,Fall,No,Annually
+2286,34,Male,Michigan,Summer,No,Every 3 Months
+2287,67,Male,South Dakota,Spring,No,Quarterly
+2288,66,Male,Nebraska,Summer,No,Annually
+2289,28,Male,California,Fall,No,Weekly
+2290,70,Male,Nevada,Fall,No,Weekly
+2291,37,Male,Kansas,Winter,No,Quarterly
+2292,28,Male,Ohio,Spring,No,Quarterly
+2293,43,Male,Vermont,Spring,No,Monthly
+2294,37,Male,Georgia,Fall,No,Every 3 Months
+2295,54,Male,Maryland,Winter,No,Annually
+2296,50,Male,Connecticut,Spring,No,Quarterly
+2297,46,Male,Washington,Fall,No,Every 3 Months
+2298,60,Male,California,Summer,No,Quarterly
+2299,40,Male,Montana,Spring,No,Every 3 Months
+2300,64,Male,Idaho,Summer,No,Every 3 Months
+2301,18,Male,Pennsylvania,Summer,No,Monthly
+2302,37,Male,Maine,Winter,No,Annually
+2303,36,Male,Montana,Summer,No,Monthly
+2304,51,Male,New Jersey,Spring,No,Fortnightly
+2305,26,Male,Louisiana,Winter,No,Fortnightly
+2306,68,Male,Maine,Summer,No,Weekly
+2307,27,Male,Florida,Winter,No,Bi-Weekly
+2308,28,Male,Missouri,Fall,No,Annually
+2309,49,Male,North Dakota,Winter,No,Quarterly
+2310,70,Male,Connecticut,Fall,No,Quarterly
+2311,30,Male,Virginia,Spring,No,Monthly
+2312,27,Male,Montana,Spring,No,Every 3 Months
+2313,19,Male,Vermont,Summer,No,Every 3 Months
+2314,64,Male,Georgia,Summer,No,Fortnightly
+2315,42,Male,Virginia,Winter,No,Every 3 Months
+2316,69,Male,Vermont,Winter,No,Quarterly
+2317,28,Male,Montana,Winter,No,Annually
+2318,47,Male,New Jersey,Summer,No,Monthly
+2319,69,Male,Wyoming,Spring,No,Annually
+2320,56,Male,Maine,Winter,No,Monthly
+2321,28,Male,New Mexico,Spring,No,Every 3 Months
+2322,50,Male,Colorado,Winter,No,Fortnightly
+2323,39,Male,Connecticut,Spring,No,Fortnightly
+2324,35,Male,Maryland,Winter,No,Monthly
+2325,59,Male,Oregon,Winter,No,Annually
+2326,44,Male,New York,Summer,No,Weekly
+2327,66,Male,Oklahoma,Winter,No,Annually
+2328,20,Male,Alabama,Winter,No,Bi-Weekly
+2329,45,Male,North Dakota,Fall,No,Bi-Weekly
+2330,49,Male,Nebraska,Spring,No,Annually
+2331,60,Male,Arizona,Summer,No,Every 3 Months
+2332,61,Male,Illinois,Spring,No,Bi-Weekly
+2333,36,Male,South Carolina,Fall,No,Monthly
+2334,33,Male,Kansas,Spring,No,Every 3 Months
+2335,49,Male,Kansas,Summer,No,Monthly
+2336,31,Male,Idaho,Summer,No,Fortnightly
+2337,19,Male,California,Winter,No,Weekly
+2338,39,Male,North Dakota,Fall,No,Annually
+2339,66,Male,Georgia,Fall,No,Quarterly
+2340,25,Male,Illinois,Spring,No,Quarterly
+2341,63,Male,Delaware,Summer,No,Fortnightly
+2342,56,Male,Connecticut,Summer,No,Every 3 Months
+2343,20,Male,Tennessee,Fall,No,Fortnightly
+2344,58,Male,Maryland,Summer,No,Monthly
+2345,34,Male,Rhode Island,Fall,No,Bi-Weekly
+2346,28,Male,New York,Winter,No,Every 3 Months
+2347,22,Male,New Mexico,Winter,No,Fortnightly
+2348,37,Male,California,Fall,No,Every 3 Months
+2349,54,Male,Maine,Spring,No,Every 3 Months
+2350,65,Male,New York,Fall,No,Every 3 Months
+2351,57,Male,Hawaii,Winter,No,Annually
+2352,38,Male,New Hampshire,Fall,No,Bi-Weekly
+2353,70,Male,Nebraska,Fall,No,Quarterly
+2354,56,Male,Montana,Fall,No,Every 3 Months
+2355,56,Male,Wisconsin,Summer,No,Monthly
+2356,22,Male,Tennessee,Winter,No,Monthly
+2357,57,Male,Montana,Summer,No,Quarterly
+2358,53,Male,Michigan,Fall,No,Bi-Weekly
+2359,53,Male,Texas,Spring,No,Quarterly
+2360,19,Male,Pennsylvania,Spring,No,Every 3 Months
+2361,49,Male,New York,Fall,No,Every 3 Months
+2362,44,Male,Alabama,Spring,No,Every 3 Months
+2363,27,Male,Virginia,Fall,No,Monthly
+2364,60,Male,Pennsylvania,Winter,No,Bi-Weekly
+2365,62,Male,Mississippi,Winter,No,Quarterly
+2366,52,Male,Wyoming,Winter,No,Monthly
+2367,30,Male,New Mexico,Winter,No,Fortnightly
+2368,66,Male,North Dakota,Winter,No,Bi-Weekly
+2369,29,Male,New Jersey,Summer,No,Every 3 Months
+2370,24,Male,Vermont,Winter,No,Monthly
+2371,51,Male,Alaska,Spring,No,Weekly
+2372,67,Male,Indiana,Winter,No,Annually
+2373,50,Male,Alabama,Spring,No,Fortnightly
+2374,37,Male,Michigan,Spring,No,Every 3 Months
+2375,69,Male,Washington,Winter,No,Monthly
+2376,60,Male,Virginia,Fall,No,Quarterly
+2377,21,Male,Tennessee,Spring,No,Weekly
+2378,44,Male,South Dakota,Fall,No,Annually
+2379,26,Male,New Hampshire,Summer,No,Bi-Weekly
+2380,40,Male,South Dakota,Spring,No,Monthly
+2381,41,Male,Pennsylvania,Fall,No,Fortnightly
+2382,62,Male,Wisconsin,Summer,No,Annually
+2383,39,Male,California,Spring,No,Weekly
+2384,53,Male,Rhode Island,Spring,No,Annually
+2385,24,Male,Alabama,Winter,No,Quarterly
+2386,41,Male,Oklahoma,Fall,No,Weekly
+2387,19,Male,Illinois,Summer,No,Monthly
+2388,36,Male,Tennessee,Summer,No,Monthly
+2389,21,Male,Alabama,Fall,No,Annually
+2390,25,Male,Kansas,Spring,No,Every 3 Months
+2391,65,Male,Arizona,Winter,No,Fortnightly
+2392,42,Male,Michigan,Winter,No,Quarterly
+2393,40,Male,Missouri,Spring,No,Annually
+2394,58,Male,Louisiana,Winter,No,Every 3 Months
+2395,40,Male,Connecticut,Fall,No,Fortnightly
+2396,62,Male,Connecticut,Winter,No,Bi-Weekly
+2397,38,Male,Oregon,Spring,No,Weekly
+2398,37,Male,West Virginia,Fall,No,Monthly
+2399,65,Male,Florida,Winter,No,Fortnightly
+2400,55,Male,New Hampshire,Spring,No,Monthly
+2401,43,Male,Oregon,Winter,No,Bi-Weekly
+2402,43,Male,Oregon,Winter,No,Bi-Weekly
+2403,45,Male,Utah,Winter,No,Weekly
+2404,64,Male,Missouri,Fall,No,Weekly
+2405,28,Male,West Virginia,Winter,No,Bi-Weekly
+2406,69,Male,California,Fall,No,Quarterly
+2407,54,Male,California,Winter,No,Weekly
+2408,52,Male,Illinois,Summer,No,Bi-Weekly
+2409,23,Male,Hawaii,Fall,No,Every 3 Months
+2410,26,Male,Washington,Spring,No,Every 3 Months
+2411,48,Male,Wisconsin,Summer,No,Monthly
+2412,49,Male,Virginia,Summer,No,Every 3 Months
+2413,53,Male,Oregon,Winter,No,Bi-Weekly
+2414,69,Male,Pennsylvania,Fall,No,Weekly
+2415,26,Male,Virginia,Summer,No,Bi-Weekly
+2416,21,Male,Hawaii,Fall,No,Weekly
+2417,59,Male,Nebraska,Summer,No,Every 3 Months
+2418,21,Male,Alaska,Fall,No,Fortnightly
+2419,22,Male,Michigan,Fall,No,Every 3 Months
+2420,26,Male,North Carolina,Fall,No,Every 3 Months
+2421,41,Male,North Carolina,Winter,No,Annually
+2422,37,Male,Minnesota,Spring,No,Every 3 Months
+2423,30,Male,Georgia,Winter,No,Weekly
+2424,49,Male,West Virginia,Summer,No,Every 3 Months
+2425,49,Male,Delaware,Winter,No,Bi-Weekly
+2426,58,Male,North Dakota,Summer,No,Quarterly
+2427,70,Male,Florida,Fall,No,Every 3 Months
+2428,27,Male,Oregon,Spring,No,Quarterly
+2429,65,Male,Idaho,Spring,No,Annually
+2430,57,Male,Virginia,Summer,No,Fortnightly
+2431,20,Male,North Dakota,Summer,No,Quarterly
+2432,34,Male,Alabama,Fall,No,Every 3 Months
+2433,59,Male,Hawaii,Winter,No,Monthly
+2434,54,Male,Oregon,Spring,No,Bi-Weekly
+2435,36,Male,Utah,Spring,No,Monthly
+2436,21,Male,Hawaii,Fall,No,Bi-Weekly
+2437,52,Male,Connecticut,Fall,No,Quarterly
+2438,43,Male,Wyoming,Winter,No,Weekly
+2439,32,Male,Delaware,Winter,No,Weekly
+2440,55,Male,Arkansas,Summer,No,Annually
+2441,31,Male,Indiana,Spring,No,Annually
+2442,45,Male,California,Fall,No,Monthly
+2443,53,Male,Wyoming,Winter,No,Bi-Weekly
+2444,24,Male,South Dakota,Spring,No,Bi-Weekly
+2445,47,Male,West Virginia,Fall,No,Bi-Weekly
+2446,63,Male,Tennessee,Summer,No,Weekly
+2447,38,Male,Alaska,Spring,No,Monthly
+2448,59,Male,South Dakota,Fall,No,Fortnightly
+2449,54,Male,Tennessee,Fall,No,Bi-Weekly
+2450,26,Male,Alabama,Fall,No,Fortnightly
+2451,68,Male,North Carolina,Fall,No,Quarterly
+2452,41,Male,Oklahoma,Fall,No,Monthly
+2453,68,Male,New York,Winter,No,Every 3 Months
+2454,21,Male,Iowa,Spring,No,Annually
+2455,32,Male,Alaska,Winter,No,Annually
+2456,20,Male,Alaska,Spring,No,Every 3 Months
+2457,59,Male,Nebraska,Winter,No,Monthly
+2458,53,Male,Delaware,Fall,No,Quarterly
+2459,66,Male,Texas,Fall,No,Weekly
+2460,47,Male,Missouri,Fall,No,Weekly
+2461,58,Male,Maine,Winter,No,Annually
+2462,28,Male,Pennsylvania,Summer,No,Weekly
+2463,68,Male,Missouri,Spring,No,Bi-Weekly
+2464,60,Male,Mississippi,Summer,No,Bi-Weekly
+2465,47,Male,Hawaii,Winter,No,Bi-Weekly
+2466,18,Male,Texas,Spring,No,Weekly
+2467,32,Male,South Dakota,Summer,No,Annually
+2468,27,Male,New Jersey,Spring,No,Annually
+2469,65,Male,Connecticut,Winter,No,Weekly
+2470,68,Male,Maryland,Fall,No,Annually
+2471,55,Male,Arizona,Fall,No,Fortnightly
+2472,30,Male,Oklahoma,Spring,No,Annually
+2473,24,Male,Utah,Summer,No,Annually
+2474,57,Male,Arkansas,Winter,No,Quarterly
+2475,23,Male,North Carolina,Fall,No,Quarterly
+2476,69,Male,California,Summer,No,Monthly
+2477,60,Male,Colorado,Summer,No,Monthly
+2478,25,Male,California,Spring,No,Weekly
+2479,18,Male,Vermont,Winter,No,Every 3 Months
+2480,37,Male,Kansas,Fall,No,Every 3 Months
+2481,61,Male,Ohio,Summer,No,Fortnightly
+2482,41,Male,New Jersey,Fall,No,Weekly
+2483,69,Male,Arizona,Winter,No,Every 3 Months
+2484,32,Male,Arizona,Fall,No,Monthly
+2485,60,Male,New Hampshire,Summer,No,Every 3 Months
+2486,43,Male,Louisiana,Spring,No,Annually
+2487,61,Male,Texas,Spring,No,Fortnightly
+2488,57,Male,Montana,Spring,No,Bi-Weekly
+2489,56,Male,New Hampshire,Summer,No,Monthly
+2490,66,Male,South Dakota,Winter,No,Quarterly
+2491,52,Male,Montana,Spring,No,Every 3 Months
+2492,63,Male,North Carolina,Spring,No,Monthly
+2493,50,Male,South Dakota,Summer,No,Bi-Weekly
+2494,21,Male,Maine,Fall,No,Every 3 Months
+2495,42,Male,Oklahoma,Winter,No,Annually
+2496,40,Male,Nebraska,Spring,No,Every 3 Months
+2497,67,Male,Illinois,Summer,No,Weekly
+2498,35,Male,Colorado,Summer,No,Annually
+2499,18,Male,Massachusetts,Fall,No,Fortnightly
+2500,52,Male,Louisiana,Summer,No,Quarterly
+2501,59,Male,Massachusetts,Fall,No,Bi-Weekly
+2502,49,Male,West Virginia,Fall,No,Bi-Weekly
+2503,46,Male,Idaho,Spring,No,Every 3 Months
+2504,69,Male,Ohio,Summer,No,Bi-Weekly
+2505,56,Male,Rhode Island,Winter,No,Bi-Weekly
+2506,27,Male,Illinois,Summer,No,Quarterly
+2507,57,Male,New York,Spring,No,Annually
+2508,58,Male,Louisiana,Fall,No,Every 3 Months
+2509,23,Male,California,Spring,No,Bi-Weekly
+2510,19,Male,Washington,Spring,No,Quarterly
+2511,40,Male,South Dakota,Winter,No,Weekly
+2512,54,Male,Idaho,Summer,No,Quarterly
+2513,50,Male,North Dakota,Summer,No,Monthly
+2514,69,Male,Washington,Winter,No,Annually
+2515,42,Male,Alaska,Spring,No,Bi-Weekly
+2516,37,Male,Kansas,Summer,No,Monthly
+2517,46,Male,Utah,Spring,No,Quarterly
+2518,64,Male,Wyoming,Spring,No,Annually
+2519,20,Male,Maine,Fall,No,Annually
+2520,40,Male,Michigan,Spring,No,Quarterly
+2521,64,Male,Illinois,Summer,No,Every 3 Months
+2522,29,Male,Minnesota,Fall,No,Every 3 Months
+2523,20,Male,Massachusetts,Winter,No,Weekly
+2524,43,Male,New Jersey,Spring,No,Annually
+2525,60,Male,Kansas,Spring,No,Quarterly
+2526,39,Male,Kentucky,Winter,No,Weekly
+2527,47,Male,Rhode Island,Spring,No,Bi-Weekly
+2528,19,Male,Illinois,Fall,No,Every 3 Months
+2529,52,Male,Alabama,Fall,No,Monthly
+2530,34,Male,Tennessee,Spring,No,Monthly
+2531,25,Male,Massachusetts,Spring,No,Weekly
+2532,43,Male,Texas,Summer,No,Every 3 Months
+2533,55,Male,Nebraska,Summer,No,Weekly
+2534,66,Male,Pennsylvania,Summer,No,Bi-Weekly
+2535,41,Male,Virginia,Fall,No,Weekly
+2536,47,Male,Vermont,Winter,No,Fortnightly
+2537,51,Male,Oklahoma,Spring,No,Every 3 Months
+2538,44,Male,Maine,Summer,No,Fortnightly
+2539,18,Male,New Jersey,Summer,No,Bi-Weekly
+2540,33,Male,Massachusetts,Fall,No,Bi-Weekly
+2541,24,Male,New Jersey,Summer,No,Quarterly
+2542,33,Male,Washington,Spring,No,Every 3 Months
+2543,61,Male,Arkansas,Winter,No,Annually
+2544,27,Male,West Virginia,Spring,No,Bi-Weekly
+2545,46,Male,Delaware,Spring,No,Quarterly
+2546,38,Male,Texas,Spring,No,Annually
+2547,63,Male,Texas,Summer,No,Quarterly
+2548,47,Male,Mississippi,Summer,No,Weekly
+2549,42,Male,Texas,Winter,No,Monthly
+2550,41,Male,Virginia,Fall,No,Every 3 Months
+2551,53,Male,New Hampshire,Fall,No,Fortnightly
+2552,29,Male,Minnesota,Winter,No,Annually
+2553,61,Male,Maryland,Spring,No,Annually
+2554,69,Male,Vermont,Summer,No,Every 3 Months
+2555,51,Male,Kansas,Summer,No,Bi-Weekly
+2556,24,Male,Idaho,Fall,No,Weekly
+2557,24,Male,Montana,Fall,No,Quarterly
+2558,70,Male,Oklahoma,Spring,No,Fortnightly
+2559,49,Male,California,Fall,No,Fortnightly
+2560,48,Male,Mississippi,Winter,No,Every 3 Months
+2561,58,Male,California,Spring,No,Bi-Weekly
+2562,32,Male,New York,Spring,No,Quarterly
+2563,57,Male,Arizona,Spring,No,Fortnightly
+2564,69,Male,Massachusetts,Winter,No,Every 3 Months
+2565,42,Male,Kentucky,Winter,No,Weekly
+2566,30,Male,Vermont,Fall,No,Quarterly
+2567,35,Male,Missouri,Fall,No,Quarterly
+2568,19,Male,Michigan,Spring,No,Fortnightly
+2569,52,Male,Texas,Winter,No,Fortnightly
+2570,42,Male,New York,Spring,No,Bi-Weekly
+2571,36,Male,New Mexico,Spring,No,Fortnightly
+2572,45,Male,Mississippi,Winter,No,Fortnightly
+2573,54,Male,Washington,Fall,No,Quarterly
+2574,54,Male,New Mexico,Summer,No,Annually
+2575,27,Male,Florida,Summer,No,Fortnightly
+2576,53,Male,Minnesota,Fall,No,Annually
+2577,20,Male,New Hampshire,Winter,No,Quarterly
+2578,52,Male,Minnesota,Fall,No,Monthly
+2579,54,Male,Vermont,Fall,No,Quarterly
+2580,65,Male,Minnesota,Summer,No,Weekly
+2581,43,Male,Massachusetts,Summer,No,Quarterly
+2582,57,Male,Wyoming,Winter,No,Monthly
+2583,19,Male,South Dakota,Fall,No,Every 3 Months
+2584,69,Male,Oklahoma,Fall,No,Weekly
+2585,26,Male,Florida,Summer,No,Bi-Weekly
+2586,57,Male,Wisconsin,Fall,No,Weekly
+2587,20,Male,Maine,Winter,No,Every 3 Months
+2588,55,Male,Connecticut,Winter,No,Every 3 Months
+2589,44,Male,Delaware,Summer,No,Bi-Weekly
+2590,52,Male,North Dakota,Winter,No,Annually
+2591,57,Male,California,Summer,No,Annually
+2592,40,Male,New Mexico,Spring,No,Quarterly
+2593,23,Male,Iowa,Summer,No,Quarterly
+2594,36,Male,Colorado,Fall,No,Every 3 Months
+2595,59,Male,Montana,Fall,No,Every 3 Months
+2596,29,Male,Iowa,Summer,No,Bi-Weekly
+2597,63,Male,Louisiana,Spring,No,Monthly
+2598,60,Male,Alabama,Summer,No,Bi-Weekly
+2599,64,Male,Nevada,Fall,No,Annually
+2600,63,Male,Vermont,Winter,No,Monthly
+2601,21,Male,New York,Fall,No,Bi-Weekly
+2602,61,Male,Mississippi,Winter,No,Monthly
+2603,65,Male,South Carolina,Fall,No,Quarterly
+2604,69,Male,Washington,Spring,No,Annually
+2605,47,Male,Colorado,Spring,No,Weekly
+2606,41,Male,Nevada,Spring,No,Fortnightly
+2607,68,Male,Nevada,Spring,No,Bi-Weekly
+2608,41,Male,Oklahoma,Spring,No,Every 3 Months
+2609,42,Male,Mississippi,Fall,No,Fortnightly
+2610,66,Male,Arkansas,Summer,No,Bi-Weekly
+2611,66,Male,West Virginia,Spring,No,Quarterly
+2612,33,Male,Michigan,Fall,No,Fortnightly
+2613,55,Male,Louisiana,Winter,No,Quarterly
+2614,58,Male,South Dakota,Fall,No,Monthly
+2615,18,Male,North Dakota,Spring,No,Fortnightly
+2616,49,Male,Arizona,Fall,No,Quarterly
+2617,61,Male,Georgia,Spring,No,Annually
+2618,31,Male,Idaho,Spring,No,Annually
+2619,70,Male,Louisiana,Fall,No,Monthly
+2620,68,Male,Connecticut,Winter,No,Weekly
+2621,27,Male,Ohio,Winter,No,Annually
+2622,48,Male,Maine,Winter,No,Annually
+2623,63,Male,New Hampshire,Spring,No,Annually
+2624,49,Male,Massachusetts,Fall,No,Annually
+2625,19,Male,South Dakota,Summer,No,Annually
+2626,30,Male,Colorado,Summer,No,Weekly
+2627,50,Male,Rhode Island,Fall,No,Every 3 Months
+2628,66,Male,Missouri,Fall,No,Quarterly
+2629,25,Male,Wyoming,Summer,No,Bi-Weekly
+2630,61,Male,New Hampshire,Winter,No,Annually
+2631,29,Male,Maine,Spring,No,Quarterly
+2632,53,Male,Connecticut,Summer,No,Weekly
+2633,24,Male,Alaska,Fall,No,Annually
+2634,51,Male,Alaska,Fall,No,Fortnightly
+2635,26,Male,North Carolina,Summer,No,Every 3 Months
+2636,59,Male,Colorado,Spring,No,Fortnightly
+2637,41,Male,Utah,Winter,No,Annually
+2638,20,Male,Alabama,Spring,No,Annually
+2639,22,Male,Hawaii,Spring,No,Annually
+2640,18,Male,New Hampshire,Winter,No,Quarterly
+2641,30,Male,Indiana,Summer,No,Bi-Weekly
+2642,25,Male,Vermont,Winter,No,Every 3 Months
+2643,39,Male,Iowa,Summer,No,Annually
+2644,49,Male,Maryland,Spring,No,Monthly
+2645,25,Male,New Mexico,Spring,No,Every 3 Months
+2646,23,Male,Louisiana,Spring,No,Bi-Weekly
+2647,33,Male,New Mexico,Summer,No,Every 3 Months
+2648,60,Male,South Carolina,Summer,No,Annually
+2649,51,Male,Illinois,Spring,No,Bi-Weekly
+2650,23,Male,Minnesota,Fall,No,Fortnightly
+2651,20,Male,Oregon,Summer,No,Every 3 Months
+2652,51,Male,Tennessee,Summer,No,Quarterly
+2653,23,Female,Maryland,Summer,No,Monthly
+2654,67,Female,Wisconsin,Fall,No,Every 3 Months
+2655,23,Female,Idaho,Fall,No,Annually
+2656,26,Female,Wyoming,Summer,No,Fortnightly
+2657,52,Female,Indiana,Winter,No,Fortnightly
+2658,52,Female,Texas,Summer,No,Fortnightly
+2659,52,Female,Ohio,Summer,No,Monthly
+2660,35,Female,Kansas,Summer,No,Fortnightly
+2661,24,Female,South Carolina,Spring,No,Annually
+2662,43,Female,Michigan,Fall,No,Annually
+2663,25,Female,Nebraska,Summer,No,Fortnightly
+2664,46,Female,Wisconsin,Fall,No,Annually
+2665,22,Female,Illinois,Winter,No,Weekly
+2666,70,Female,Louisiana,Winter,No,Weekly
+2667,49,Female,Ohio,Winter,No,Fortnightly
+2668,48,Female,Maryland,Summer,No,Fortnightly
+2669,59,Female,Texas,Summer,No,Quarterly
+2670,39,Female,Illinois,Spring,No,Weekly
+2671,30,Female,Pennsylvania,Fall,No,Bi-Weekly
+2672,37,Female,Alabama,Winter,No,Every 3 Months
+2673,56,Female,West Virginia,Spring,No,Annually
+2674,67,Female,Nevada,Summer,No,Monthly
+2675,40,Female,Florida,Fall,No,Every 3 Months
+2676,24,Female,Virginia,Winter,No,Bi-Weekly
+2677,43,Female,Kentucky,Spring,No,Fortnightly
+2678,45,Female,Connecticut,Spring,No,Every 3 Months
+2679,33,Female,Montana,Spring,No,Bi-Weekly
+2680,53,Female,Montana,Spring,No,Quarterly
+2681,44,Female,Nebraska,Fall,No,Annually
+2682,23,Female,Massachusetts,Summer,No,Monthly
+2683,59,Female,North Carolina,Winter,No,Every 3 Months
+2684,68,Female,Montana,Summer,No,Fortnightly
+2685,46,Female,Washington,Summer,No,Bi-Weekly
+2686,56,Female,Virginia,Winter,No,Quarterly
+2687,40,Female,Georgia,Winter,No,Fortnightly
+2688,61,Female,Delaware,Fall,No,Bi-Weekly
+2689,53,Female,West Virginia,Spring,No,Every 3 Months
+2690,29,Female,Wyoming,Fall,No,Quarterly
+2691,44,Female,New Mexico,Summer,No,Weekly
+2692,43,Female,Nebraska,Winter,No,Monthly
+2693,40,Female,Washington,Spring,No,Every 3 Months
+2694,55,Female,Hawaii,Summer,No,Quarterly
+2695,66,Female,Louisiana,Spring,No,Every 3 Months
+2696,50,Female,Tennessee,Fall,No,Bi-Weekly
+2697,57,Female,South Dakota,Spring,No,Monthly
+2698,42,Female,Delaware,Winter,No,Quarterly
+2699,55,Female,Virginia,Summer,No,Quarterly
+2700,25,Female,Utah,Fall,No,Annually
+2701,22,Female,California,Winter,No,Weekly
+2702,49,Female,Idaho,Summer,No,Fortnightly
+2703,70,Female,Texas,Fall,No,Fortnightly
+2704,56,Female,Tennessee,Winter,No,Weekly
+2705,52,Female,Tennessee,Spring,No,Weekly
+2706,65,Female,Washington,Spring,No,Bi-Weekly
+2707,24,Female,Alabama,Spring,No,Quarterly
+2708,32,Female,Nebraska,Fall,No,Weekly
+2709,57,Female,Alabama,Summer,No,Weekly
+2710,35,Female,Illinois,Winter,No,Bi-Weekly
+2711,69,Female,Wisconsin,Summer,No,Fortnightly
+2712,30,Female,Nebraska,Spring,No,Monthly
+2713,37,Female,North Dakota,Fall,No,Quarterly
+2714,19,Female,Mississippi,Fall,No,Annually
+2715,53,Female,Iowa,Winter,No,Bi-Weekly
+2716,25,Female,Mississippi,Winter,No,Fortnightly
+2717,47,Female,Colorado,Spring,No,Weekly
+2718,18,Female,Nebraska,Winter,No,Every 3 Months
+2719,22,Female,Virginia,Winter,No,Bi-Weekly
+2720,69,Female,Louisiana,Fall,No,Monthly
+2721,55,Female,Maryland,Spring,No,Quarterly
+2722,19,Female,Minnesota,Spring,No,Fortnightly
+2723,23,Female,Maine,Spring,No,Fortnightly
+2724,54,Female,Texas,Summer,No,Every 3 Months
+2725,52,Female,Missouri,Spring,No,Fortnightly
+2726,64,Female,Mississippi,Summer,No,Annually
+2727,33,Female,Michigan,Winter,No,Bi-Weekly
+2728,40,Female,Colorado,Winter,No,Fortnightly
+2729,26,Female,Florida,Winter,No,Weekly
+2730,31,Female,Montana,Summer,No,Monthly
+2731,23,Female,Wisconsin,Winter,No,Annually
+2732,52,Female,Wisconsin,Summer,No,Quarterly
+2733,21,Female,Delaware,Winter,No,Every 3 Months
+2734,31,Female,North Carolina,Summer,No,Annually
+2735,63,Female,New York,Summer,No,Bi-Weekly
+2736,46,Female,California,Spring,No,Bi-Weekly
+2737,44,Female,Montana,Spring,No,Annually
+2738,57,Female,North Carolina,Spring,No,Every 3 Months
+2739,50,Female,Ohio,Summer,No,Every 3 Months
+2740,33,Female,Alaska,Winter,No,Every 3 Months
+2741,19,Female,Pennsylvania,Summer,No,Fortnightly
+2742,68,Female,Maine,Fall,No,Monthly
+2743,27,Female,Texas,Spring,No,Annually
+2744,61,Female,New Jersey,Fall,No,Quarterly
+2745,38,Female,Wyoming,Winter,No,Monthly
+2746,28,Female,Michigan,Summer,No,Bi-Weekly
+2747,39,Female,Ohio,Fall,No,Every 3 Months
+2748,18,Female,West Virginia,Winter,No,Every 3 Months
+2749,24,Female,Virginia,Spring,No,Annually
+2750,64,Female,Vermont,Spring,No,Annually
+2751,51,Female,Alaska,Spring,No,Every 3 Months
+2752,27,Female,Minnesota,Fall,No,Monthly
+2753,48,Female,Colorado,Winter,No,Bi-Weekly
+2754,69,Female,Rhode Island,Spring,No,Quarterly
+2755,59,Female,New Jersey,Summer,No,Bi-Weekly
+2756,59,Female,Nevada,Winter,No,Annually
+2757,42,Female,Minnesota,Winter,No,Monthly
+2758,39,Female,Delaware,Fall,No,Monthly
+2759,32,Female,Illinois,Summer,No,Bi-Weekly
+2760,68,Female,Washington,Summer,No,Every 3 Months
+2761,41,Female,Alaska,Fall,No,Bi-Weekly
+2762,31,Female,Michigan,Fall,No,Every 3 Months
+2763,58,Female,Georgia,Fall,No,Every 3 Months
+2764,28,Female,West Virginia,Fall,No,Quarterly
+2765,63,Female,Arizona,Spring,No,Weekly
+2766,64,Female,Colorado,Summer,No,Quarterly
+2767,66,Female,Tennessee,Winter,No,Monthly
+2768,31,Female,Iowa,Spring,No,Monthly
+2769,55,Female,Kansas,Spring,No,Bi-Weekly
+2770,32,Female,Oklahoma,Fall,No,Weekly
+2771,50,Female,Nebraska,Fall,No,Quarterly
+2772,58,Female,Maryland,Summer,No,Fortnightly
+2773,18,Female,Pennsylvania,Spring,No,Every 3 Months
+2774,39,Female,Arizona,Spring,No,Quarterly
+2775,56,Female,Oklahoma,Fall,No,Quarterly
+2776,37,Female,Montana,Fall,No,Weekly
+2777,46,Female,Wyoming,Fall,No,Annually
+2778,52,Female,Idaho,Fall,No,Every 3 Months
+2779,70,Female,Pennsylvania,Spring,No,Bi-Weekly
+2780,61,Female,Montana,Winter,No,Fortnightly
+2781,33,Female,Ohio,Winter,No,Fortnightly
+2782,65,Female,Mississippi,Spring,No,Weekly
+2783,41,Female,Idaho,Spring,No,Annually
+2784,19,Female,Virginia,Spring,No,Quarterly
+2785,33,Female,Idaho,Winter,No,Every 3 Months
+2786,53,Female,Louisiana,Summer,No,Monthly
+2787,54,Female,Colorado,Spring,No,Every 3 Months
+2788,36,Female,West Virginia,Spring,No,Fortnightly
+2789,56,Female,Rhode Island,Summer,No,Annually
+2790,28,Female,North Carolina,Fall,No,Bi-Weekly
+2791,34,Female,Maine,Spring,No,Annually
+2792,43,Female,Iowa,Fall,No,Fortnightly
+2793,54,Female,Kentucky,Winter,No,Weekly
+2794,37,Female,Massachusetts,Spring,No,Bi-Weekly
+2795,33,Female,New York,Fall,No,Fortnightly
+2796,33,Female,Nebraska,Winter,No,Annually
+2797,55,Female,Oklahoma,Winter,No,Annually
+2798,63,Female,Oklahoma,Winter,No,Every 3 Months
+2799,52,Female,Rhode Island,Winter,No,Weekly
+2800,23,Female,Maine,Spring,No,Every 3 Months
+2801,70,Female,Arkansas,Fall,No,Bi-Weekly
+2802,64,Female,New Mexico,Winter,No,Annually
+2803,22,Female,Hawaii,Fall,No,Fortnightly
+2804,46,Female,Idaho,Winter,No,Monthly
+2805,65,Female,South Carolina,Spring,No,Every 3 Months
+2806,18,Female,Nevada,Fall,No,Quarterly
+2807,45,Female,South Carolina,Spring,No,Annually
+2808,56,Female,Maryland,Spring,No,Fortnightly
+2809,49,Female,Tennessee,Spring,No,Every 3 Months
+2810,66,Female,Arkansas,Summer,No,Quarterly
+2811,27,Female,Arizona,Summer,No,Fortnightly
+2812,69,Female,Ohio,Fall,No,Quarterly
+2813,66,Female,North Dakota,Fall,No,Every 3 Months
+2814,45,Female,Vermont,Summer,No,Quarterly
+2815,31,Female,Minnesota,Winter,No,Monthly
+2816,33,Female,Idaho,Fall,No,Every 3 Months
+2817,43,Female,Maryland,Spring,No,Weekly
+2818,25,Female,South Carolina,Winter,No,Weekly
+2819,46,Female,California,Fall,No,Annually
+2820,67,Female,Georgia,Spring,No,Monthly
+2821,26,Female,Vermont,Summer,No,Bi-Weekly
+2822,35,Female,Georgia,Summer,No,Monthly
+2823,61,Female,New Jersey,Fall,No,Quarterly
+2824,26,Female,Utah,Summer,No,Bi-Weekly
+2825,39,Female,Utah,Fall,No,Quarterly
+2826,69,Female,North Carolina,Winter,No,Annually
+2827,32,Female,Florida,Fall,No,Annually
+2828,20,Female,Wisconsin,Fall,No,Bi-Weekly
+2829,25,Female,Tennessee,Fall,No,Quarterly
+2830,56,Female,Arizona,Fall,No,Weekly
+2831,63,Female,Oregon,Spring,No,Every 3 Months
+2832,34,Female,Virginia,Winter,No,Weekly
+2833,29,Female,Maryland,Summer,No,Quarterly
+2834,43,Female,Arkansas,Fall,No,Monthly
+2835,39,Female,Texas,Fall,No,Weekly
+2836,33,Female,Vermont,Winter,No,Annually
+2837,51,Female,Wyoming,Winter,No,Bi-Weekly
+2838,65,Female,Alabama,Summer,No,Weekly
+2839,51,Female,Maine,Fall,No,Weekly
+2840,70,Female,South Dakota,Summer,No,Monthly
+2841,40,Female,West Virginia,Spring,No,Annually
+2842,19,Female,Ohio,Winter,No,Weekly
+2843,28,Female,Arizona,Fall,No,Quarterly
+2844,51,Female,Ohio,Summer,No,Weekly
+2845,32,Female,New Mexico,Summer,No,Annually
+2846,26,Female,South Dakota,Summer,No,Every 3 Months
+2847,50,Female,Oklahoma,Fall,No,Bi-Weekly
+2848,68,Female,Connecticut,Winter,No,Every 3 Months
+2849,33,Female,Wisconsin,Fall,No,Quarterly
+2850,56,Female,New Hampshire,Spring,No,Bi-Weekly
+2851,57,Female,Nebraska,Spring,No,Annually
+2852,58,Female,Nevada,Summer,No,Monthly
+2853,40,Female,New York,Spring,No,Weekly
+2854,37,Female,Pennsylvania,Winter,No,Weekly
+2855,36,Female,Delaware,Fall,No,Monthly
+2856,29,Female,Mississippi,Winter,No,Quarterly
+2857,65,Female,Iowa,Winter,No,Monthly
+2858,44,Female,Utah,Spring,No,Monthly
+2859,34,Female,Maryland,Summer,No,Monthly
+2860,31,Female,Utah,Fall,No,Annually
+2861,28,Female,Rhode Island,Spring,No,Weekly
+2862,66,Female,Maryland,Fall,No,Monthly
+2863,68,Female,Hawaii,Summer,No,Every 3 Months
+2864,37,Female,Connecticut,Fall,No,Monthly
+2865,58,Female,Illinois,Fall,No,Weekly
+2866,28,Female,California,Fall,No,Fortnightly
+2867,54,Female,Connecticut,Summer,No,Annually
+2868,21,Female,Colorado,Summer,No,Fortnightly
+2869,45,Female,Colorado,Winter,No,Every 3 Months
+2870,57,Female,Georgia,Summer,No,Weekly
+2871,47,Female,North Dakota,Winter,No,Every 3 Months
+2872,46,Female,Idaho,Summer,No,Bi-Weekly
+2873,63,Female,Connecticut,Fall,No,Annually
+2874,44,Female,Montana,Spring,No,Monthly
+2875,36,Female,Colorado,Summer,No,Annually
+2876,24,Female,Kentucky,Fall,No,Weekly
+2877,65,Female,New Mexico,Spring,No,Fortnightly
+2878,32,Female,New Jersey,Summer,No,Monthly
+2879,63,Female,California,Summer,No,Annually
+2880,62,Female,North Dakota,Winter,No,Annually
+2881,19,Female,Florida,Winter,No,Quarterly
+2882,38,Female,Texas,Winter,No,Annually
+2883,59,Female,Oklahoma,Winter,No,Bi-Weekly
+2884,22,Female,Rhode Island,Spring,No,Weekly
+2885,55,Female,Arkansas,Summer,No,Every 3 Months
+2886,29,Female,Nevada,Summer,No,Bi-Weekly
+2887,42,Female,Utah,Spring,No,Weekly
+2888,23,Female,Kentucky,Winter,No,Bi-Weekly
+2889,70,Female,Wisconsin,Spring,No,Quarterly
+2890,64,Female,Minnesota,Fall,No,Annually
+2891,39,Female,North Dakota,Winter,No,Monthly
+2892,47,Female,Ohio,Winter,No,Monthly
+2893,22,Female,Nevada,Spring,No,Monthly
+2894,69,Female,Kentucky,Spring,No,Every 3 Months
+2895,35,Female,Kentucky,Spring,No,Annually
+2896,56,Female,Montana,Summer,No,Monthly
+2897,30,Female,Delaware,Summer,No,Every 3 Months
+2898,43,Female,Montana,Fall,No,Fortnightly
+2899,23,Female,New Jersey,Summer,No,Annually
+2900,50,Female,Nebraska,Spring,No,Fortnightly
+2901,41,Female,Maryland,Winter,No,Bi-Weekly
+2902,41,Female,Alabama,Winter,No,Quarterly
+2903,27,Female,North Carolina,Spring,No,Bi-Weekly
+2904,38,Female,Delaware,Spring,No,Every 3 Months
+2905,41,Female,Iowa,Spring,No,Monthly
+2906,58,Female,New York,Winter,No,Fortnightly
+2907,58,Female,Virginia,Spring,No,Annually
+2908,19,Female,Maryland,Summer,No,Bi-Weekly
+2909,43,Female,Texas,Winter,No,Every 3 Months
+2910,27,Female,Louisiana,Winter,No,Every 3 Months
+2911,32,Female,Mississippi,Summer,No,Monthly
+2912,28,Female,Ohio,Fall,No,Quarterly
+2913,48,Female,Oregon,Winter,No,Bi-Weekly
+2914,43,Female,Wyoming,Winter,No,Every 3 Months
+2915,45,Female,Pennsylvania,Fall,No,Bi-Weekly
+2916,26,Female,Oregon,Fall,No,Bi-Weekly
+2917,62,Female,Oklahoma,Winter,No,Bi-Weekly
+2918,58,Female,Colorado,Winter,No,Annually
+2919,19,Female,New York,Fall,No,Weekly
+2920,64,Female,Minnesota,Winter,No,Monthly
+2921,33,Female,Texas,Spring,No,Bi-Weekly
+2922,20,Female,Wisconsin,Fall,No,Fortnightly
+2923,45,Female,Kentucky,Winter,No,Quarterly
+2924,28,Female,Pennsylvania,Spring,No,Quarterly
+2925,47,Female,Rhode Island,Winter,No,Every 3 Months
+2926,54,Female,Illinois,Spring,No,Every 3 Months
+2927,64,Female,Maryland,Winter,No,Weekly
+2928,45,Female,Missouri,Summer,No,Bi-Weekly
+2929,40,Female,Alabama,Spring,No,Weekly
+2930,31,Female,Maine,Winter,No,Fortnightly
+2931,38,Female,Mississippi,Spring,No,Monthly
+2932,36,Female,Alabama,Fall,No,Bi-Weekly
+2933,65,Female,Alaska,Spring,No,Quarterly
+2934,27,Female,Illinois,Summer,No,Monthly
+2935,38,Female,Idaho,Fall,No,Quarterly
+2936,58,Female,North Carolina,Spring,No,Weekly
+2937,31,Female,Washington,Spring,No,Weekly
+2938,28,Female,West Virginia,Spring,No,Weekly
+2939,28,Female,Maine,Fall,No,Monthly
+2940,32,Female,Kentucky,Winter,No,Weekly
+2941,61,Female,Massachusetts,Summer,No,Monthly
+2942,38,Female,Pennsylvania,Spring,No,Monthly
+2943,54,Female,Hawaii,Summer,No,Weekly
+2944,29,Female,Virginia,Spring,No,Monthly
+2945,50,Female,New York,Summer,No,Every 3 Months
+2946,32,Female,Delaware,Summer,No,Every 3 Months
+2947,38,Female,Hawaii,Spring,No,Quarterly
+2948,52,Female,Nebraska,Spring,No,Annually
+2949,61,Female,Vermont,Winter,No,Bi-Weekly
+2950,25,Female,Iowa,Spring,No,Annually
+2951,22,Female,Iowa,Winter,No,Every 3 Months
+2952,47,Female,Arkansas,Fall,No,Weekly
+2953,50,Female,Alabama,Spring,No,Monthly
+2954,45,Female,Maryland,Summer,No,Annually
+2955,33,Female,South Dakota,Winter,No,Annually
+2956,42,Female,Vermont,Winter,No,Annually
+2957,52,Female,Montana,Fall,No,Monthly
+2958,69,Female,South Dakota,Fall,No,Annually
+2959,55,Female,Ohio,Summer,No,Monthly
+2960,38,Female,Texas,Summer,No,Quarterly
+2961,57,Female,Indiana,Spring,No,Weekly
+2962,33,Female,New Hampshire,Fall,No,Bi-Weekly
+2963,57,Female,California,Fall,No,Every 3 Months
+2964,52,Female,Maine,Spring,No,Weekly
+2965,44,Female,Ohio,Fall,No,Fortnightly
+2966,48,Female,Delaware,Summer,No,Fortnightly
+2967,52,Female,Oklahoma,Fall,No,Every 3 Months
+2968,34,Female,Indiana,Summer,No,Annually
+2969,26,Female,South Carolina,Fall,No,Every 3 Months
+2970,36,Female,Vermont,Fall,No,Every 3 Months
+2971,24,Female,Kansas,Winter,No,Bi-Weekly
+2972,30,Female,Utah,Fall,No,Every 3 Months
+2973,31,Female,New York,Fall,No,Every 3 Months
+2974,25,Female,Indiana,Summer,No,Fortnightly
+2975,57,Female,Tennessee,Summer,No,Weekly
+2976,61,Female,Georgia,Winter,No,Every 3 Months
+2977,30,Female,Nebraska,Summer,No,Fortnightly
+2978,38,Female,Washington,Winter,No,Annually
+2979,53,Female,Idaho,Spring,No,Fortnightly
+2980,31,Female,Louisiana,Fall,No,Weekly
+2981,70,Female,New Jersey,Fall,No,Monthly
+2982,21,Female,Delaware,Winter,No,Annually
+2983,33,Female,Wisconsin,Summer,No,Weekly
+2984,60,Female,West Virginia,Winter,No,Quarterly
+2985,45,Female,Texas,Spring,No,Bi-Weekly
+2986,46,Female,Hawaii,Summer,No,Bi-Weekly
+2987,62,Female,Arizona,Summer,No,Monthly
+2988,63,Female,Louisiana,Winter,No,Monthly
+2989,69,Female,Nevada,Spring,No,Monthly
+2990,46,Female,Rhode Island,Summer,No,Weekly
+2991,69,Female,Illinois,Fall,No,Monthly
+2992,66,Female,Utah,Summer,No,Bi-Weekly
+2993,41,Female,North Dakota,Spring,No,Weekly
+2994,32,Female,Kansas,Spring,No,Bi-Weekly
+2995,69,Female,Nevada,Winter,No,Quarterly
+2996,29,Female,Virginia,Summer,No,Bi-Weekly
+2997,70,Female,Utah,Spring,No,Every 3 Months
+2998,41,Female,Idaho,Spring,No,Every 3 Months
+2999,31,Female,Alaska,Summer,No,Quarterly
+3000,31,Female,New Hampshire,Winter,No,Monthly
+3001,57,Female,Ohio,Winter,No,Weekly
+3002,29,Female,Montana,Summer,No,Quarterly
+3003,70,Female,Louisiana,Fall,No,Quarterly
+3004,51,Female,Oregon,Fall,No,Every 3 Months
+3005,45,Female,Arizona,Winter,No,Fortnightly
+3006,18,Female,Alaska,Spring,No,Weekly
+3007,37,Female,Utah,Summer,No,Bi-Weekly
+3008,23,Female,New York,Winter,No,Weekly
+3009,39,Female,New Mexico,Winter,No,Weekly
+3010,62,Female,Louisiana,Winter,No,Fortnightly
+3011,70,Female,Ohio,Winter,No,Annually
+3012,20,Female,Nevada,Summer,No,Every 3 Months
+3013,42,Female,Idaho,Fall,No,Annually
+3014,41,Female,Arizona,Summer,No,Monthly
+3015,24,Female,Utah,Spring,No,Every 3 Months
+3016,37,Female,Wyoming,Spring,No,Bi-Weekly
+3017,30,Female,Indiana,Summer,No,Quarterly
+3018,58,Female,Wisconsin,Summer,No,Bi-Weekly
+3019,43,Female,Texas,Summer,No,Bi-Weekly
+3020,19,Female,Utah,Winter,No,Annually
+3021,23,Female,Arkansas,Fall,No,Every 3 Months
+3022,65,Female,Pennsylvania,Summer,No,Quarterly
+3023,58,Female,Georgia,Fall,No,Weekly
+3024,50,Female,Indiana,Summer,No,Quarterly
+3025,67,Female,Idaho,Spring,No,Every 3 Months
+3026,40,Female,Montana,Summer,No,Monthly
+3027,55,Female,Tennessee,Fall,No,Annually
+3028,52,Female,West Virginia,Winter,No,Quarterly
+3029,62,Female,California,Summer,No,Every 3 Months
+3030,64,Female,Georgia,Summer,No,Quarterly
+3031,43,Female,Maryland,Spring,No,Weekly
+3032,61,Female,Idaho,Summer,No,Monthly
+3033,26,Female,California,Summer,No,Quarterly
+3034,22,Female,Alabama,Spring,No,Weekly
+3035,51,Female,Utah,Spring,No,Quarterly
+3036,69,Female,Kentucky,Spring,No,Bi-Weekly
+3037,50,Female,Vermont,Spring,No,Fortnightly
+3038,51,Female,Iowa,Summer,No,Annually
+3039,56,Female,Georgia,Summer,No,Annually
+3040,59,Female,Alabama,Spring,No,Bi-Weekly
+3041,18,Female,Nebraska,Fall,No,Fortnightly
+3042,48,Female,Rhode Island,Winter,No,Monthly
+3043,53,Female,South Dakota,Winter,No,Every 3 Months
+3044,45,Female,Illinois,Fall,No,Monthly
+3045,21,Female,North Carolina,Winter,No,Quarterly
+3046,42,Female,Florida,Winter,No,Bi-Weekly
+3047,60,Female,Pennsylvania,Spring,No,Every 3 Months
+3048,21,Female,Vermont,Fall,No,Bi-Weekly
+3049,69,Female,Colorado,Summer,No,Fortnightly
+3050,40,Female,Utah,Summer,No,Bi-Weekly
+3051,31,Female,Kentucky,Spring,No,Every 3 Months
+3052,44,Female,Wyoming,Summer,No,Every 3 Months
+3053,48,Female,Maine,Spring,No,Fortnightly
+3054,32,Female,Maine,Winter,No,Monthly
+3055,42,Female,New Hampshire,Summer,No,Monthly
+3056,27,Female,Kansas,Fall,No,Bi-Weekly
+3057,69,Female,New Jersey,Spring,No,Bi-Weekly
+3058,67,Female,North Carolina,Spring,No,Weekly
+3059,41,Female,West Virginia,Winter,No,Fortnightly
+3060,46,Female,Kentucky,Spring,No,Quarterly
+3061,47,Female,California,Summer,No,Monthly
+3062,33,Female,South Dakota,Fall,No,Every 3 Months
+3063,51,Female,California,Fall,No,Monthly
+3064,26,Female,Connecticut,Winter,No,Fortnightly
+3065,22,Female,Idaho,Winter,No,Quarterly
+3066,49,Female,North Dakota,Fall,No,Bi-Weekly
+3067,58,Female,Michigan,Summer,No,Every 3 Months
+3068,70,Female,Missouri,Spring,No,Weekly
+3069,32,Female,California,Winter,No,Weekly
+3070,62,Female,Delaware,Spring,No,Quarterly
+3071,52,Female,Alabama,Fall,No,Bi-Weekly
+3072,23,Female,New Hampshire,Spring,No,Monthly
+3073,26,Female,New York,Spring,No,Quarterly
+3074,58,Female,Oregon,Winter,No,Bi-Weekly
+3075,26,Female,Massachusetts,Winter,No,Fortnightly
+3076,54,Female,Utah,Winter,No,Every 3 Months
+3077,66,Female,New Hampshire,Summer,No,Bi-Weekly
+3078,60,Female,Illinois,Spring,No,Bi-Weekly
+3079,32,Female,Alaska,Spring,No,Bi-Weekly
+3080,48,Female,Wyoming,Fall,No,Annually
+3081,69,Female,Colorado,Spring,No,Bi-Weekly
+3082,64,Female,Vermont,Winter,No,Weekly
+3083,56,Female,Utah,Spring,No,Annually
+3084,22,Female,Illinois,Summer,No,Quarterly
+3085,46,Female,Idaho,Spring,No,Monthly
+3086,24,Female,Nevada,Winter,No,Every 3 Months
+3087,47,Female,Utah,Summer,No,Every 3 Months
+3088,62,Female,North Carolina,Spring,No,Monthly
+3089,34,Female,Arkansas,Spring,No,Quarterly
+3090,50,Female,North Carolina,Fall,No,Bi-Weekly
+3091,29,Female,Texas,Summer,No,Quarterly
+3092,68,Female,Nevada,Winter,No,Annually
+3093,52,Female,Utah,Fall,No,Bi-Weekly
+3094,29,Female,Pennsylvania,Summer,No,Every 3 Months
+3095,22,Female,Georgia,Summer,No,Weekly
+3096,62,Female,Minnesota,Fall,No,Fortnightly
+3097,69,Female,Kansas,Winter,No,Monthly
+3098,48,Female,Delaware,Fall,No,Quarterly
+3099,66,Female,New Mexico,Summer,No,Quarterly
+3100,42,Female,Michigan,Fall,No,Bi-Weekly
+3101,50,Female,Vermont,Winter,No,Weekly
+3102,32,Female,Idaho,Summer,No,Fortnightly
+3103,51,Female,South Dakota,Summer,No,Bi-Weekly
+3104,27,Female,Illinois,Winter,No,Weekly
+3105,43,Female,Georgia,Summer,No,Fortnightly
+3106,48,Female,Oregon,Fall,No,Monthly
+3107,62,Female,Alabama,Winter,No,Annually
+3108,65,Female,Hawaii,Winter,No,Bi-Weekly
+3109,50,Female,Oregon,Fall,No,Monthly
+3110,60,Female,Illinois,Winter,No,Fortnightly
+3111,19,Female,Texas,Fall,No,Bi-Weekly
+3112,21,Female,Kansas,Spring,No,Quarterly
+3113,19,Female,Texas,Fall,No,Annually
+3114,46,Female,Nebraska,Summer,No,Weekly
+3115,21,Female,Arkansas,Spring,No,Bi-Weekly
+3116,26,Female,South Dakota,Fall,No,Bi-Weekly
+3117,50,Female,Montana,Spring,No,Weekly
+3118,43,Female,Florida,Fall,No,Bi-Weekly
+3119,61,Female,Virginia,Summer,No,Quarterly
+3120,63,Female,Louisiana,Winter,No,Every 3 Months
+3121,46,Female,Louisiana,Fall,No,Fortnightly
+3122,63,Female,Louisiana,Fall,No,Weekly
+3123,23,Female,Georgia,Fall,No,Fortnightly
+3124,57,Female,Iowa,Fall,No,Bi-Weekly
+3125,57,Female,California,Summer,No,Every 3 Months
+3126,33,Female,Oregon,Spring,No,Quarterly
+3127,57,Female,Maine,Winter,No,Bi-Weekly
+3128,55,Female,Louisiana,Winter,No,Every 3 Months
+3129,65,Female,Arkansas,Fall,No,Annually
+3130,60,Female,Maryland,Summer,No,Every 3 Months
+3131,52,Female,Vermont,Summer,No,Every 3 Months
+3132,34,Female,North Dakota,Fall,No,Every 3 Months
+3133,33,Female,Michigan,Summer,No,Quarterly
+3134,58,Female,Arkansas,Spring,No,Bi-Weekly
+3135,35,Female,Kentucky,Spring,No,Weekly
+3136,68,Female,Indiana,Spring,No,Fortnightly
+3137,58,Female,Minnesota,Fall,No,Bi-Weekly
+3138,34,Female,Louisiana,Spring,No,Monthly
+3139,47,Female,Kentucky,Fall,No,Every 3 Months
+3140,35,Female,Georgia,Winter,No,Weekly
+3141,34,Female,Alaska,Summer,No,Weekly
+3142,36,Female,Mississippi,Winter,No,Bi-Weekly
+3143,23,Female,Kansas,Winter,No,Quarterly
+3144,68,Female,Arizona,Summer,No,Quarterly
+3145,23,Female,Maine,Spring,No,Quarterly
+3146,57,Female,Texas,Spring,No,Fortnightly
+3147,21,Female,Virginia,Winter,No,Annually
+3148,45,Female,North Dakota,Winter,No,Weekly
+3149,37,Female,West Virginia,Fall,No,Weekly
+3150,18,Female,North Carolina,Winter,No,Annually
+3151,55,Female,Georgia,Spring,No,Bi-Weekly
+3152,52,Female,New Mexico,Fall,No,Quarterly
+3153,49,Female,North Carolina,Fall,No,Monthly
+3154,56,Female,Alabama,Fall,No,Fortnightly
+3155,27,Female,Connecticut,Winter,No,Quarterly
+3156,22,Female,Montana,Fall,No,Annually
+3157,18,Female,Montana,Winter,No,Monthly
+3158,21,Female,Maine,Fall,No,Fortnightly
+3159,30,Female,Mississippi,Winter,No,Monthly
+3160,62,Female,Louisiana,Winter,No,Quarterly
+3161,28,Female,Nebraska,Fall,No,Fortnightly
+3162,66,Female,Massachusetts,Winter,No,Monthly
+3163,66,Female,Wisconsin,Winter,No,Quarterly
+3164,49,Female,Nebraska,Summer,No,Monthly
+3165,40,Female,Arizona,Winter,No,Annually
+3166,49,Female,Hawaii,Spring,No,Every 3 Months
+3167,19,Female,Georgia,Winter,No,Fortnightly
+3168,24,Female,Oregon,Fall,No,Bi-Weekly
+3169,31,Female,Montana,Spring,No,Fortnightly
+3170,35,Female,Georgia,Fall,No,Weekly
+3171,65,Female,Rhode Island,Spring,No,Fortnightly
+3172,68,Female,Tennessee,Spring,No,Bi-Weekly
+3173,57,Female,Missouri,Fall,No,Bi-Weekly
+3174,69,Female,Washington,Summer,No,Fortnightly
+3175,45,Female,Oklahoma,Winter,No,Monthly
+3176,35,Female,Connecticut,Fall,No,Every 3 Months
+3177,36,Female,Arkansas,Spring,No,Monthly
+3178,55,Female,Missouri,Fall,No,Monthly
+3179,66,Female,Washington,Spring,No,Annually
+3180,57,Female,Idaho,Spring,No,Bi-Weekly
+3181,18,Female,Montana,Fall,No,Weekly
+3182,31,Female,Montana,Summer,No,Every 3 Months
+3183,50,Female,Georgia,Fall,No,Annually
+3184,50,Female,Mississippi,Winter,No,Every 3 Months
+3185,61,Female,Hawaii,Spring,No,Quarterly
+3186,52,Female,Ohio,Fall,No,Annually
+3187,38,Female,Virginia,Winter,No,Annually
+3188,67,Female,Texas,Winter,No,Weekly
+3189,42,Female,Vermont,Winter,No,Monthly
+3190,25,Female,Kansas,Summer,No,Bi-Weekly
+3191,41,Female,California,Fall,No,Fortnightly
+3192,62,Female,Mississippi,Winter,No,Every 3 Months
+3193,19,Female,Iowa,Fall,No,Fortnightly
+3194,63,Female,Virginia,Winter,No,Fortnightly
+3195,43,Female,Maryland,Summer,No,Bi-Weekly
+3196,68,Female,Missouri,Spring,No,Quarterly
+3197,24,Female,Wisconsin,Winter,No,Fortnightly
+3198,27,Female,Maine,Spring,No,Every 3 Months
+3199,61,Female,Pennsylvania,Winter,No,Weekly
+3200,59,Female,Maine,Winter,No,Monthly
+3201,67,Female,Missouri,Spring,No,Monthly
+3202,46,Female,Vermont,Fall,No,Monthly
+3203,65,Female,Wisconsin,Fall,No,Annually
+3204,63,Female,New Jersey,Spring,No,Annually
+3205,57,Female,New Mexico,Fall,No,Bi-Weekly
+3206,40,Female,Colorado,Fall,No,Every 3 Months
+3207,36,Female,California,Winter,No,Monthly
+3208,67,Female,Arizona,Summer,No,Annually
+3209,61,Female,Indiana,Winter,No,Weekly
+3210,64,Female,Arkansas,Fall,No,Annually
+3211,30,Female,Nevada,Summer,No,Bi-Weekly
+3212,53,Female,Rhode Island,Winter,No,Monthly
+3213,27,Female,Wyoming,Winter,No,Weekly
+3214,27,Female,Texas,Winter,No,Monthly
+3215,53,Female,Washington,Spring,No,Annually
+3216,34,Female,Rhode Island,Summer,No,Every 3 Months
+3217,39,Female,Illinois,Winter,No,Weekly
+3218,44,Female,Oregon,Fall,No,Weekly
+3219,37,Female,Florida,Fall,No,Monthly
+3220,57,Female,Kansas,Summer,No,Weekly
+3221,38,Female,North Dakota,Fall,No,Monthly
+3222,21,Female,New Hampshire,Winter,No,Annually
+3223,45,Female,Texas,Fall,No,Quarterly
+3224,68,Female,Montana,Spring,No,Bi-Weekly
+3225,37,Female,Delaware,Winter,No,Monthly
+3226,53,Female,New Hampshire,Fall,No,Weekly
+3227,57,Female,Minnesota,Spring,No,Fortnightly
+3228,28,Female,Alaska,Fall,No,Quarterly
+3229,37,Female,Connecticut,Spring,No,Annually
+3230,54,Female,Connecticut,Fall,No,Monthly
+3231,49,Female,Kansas,Summer,No,Annually
+3232,62,Female,Nevada,Winter,No,Annually
+3233,45,Female,Massachusetts,Spring,No,Monthly
+3234,45,Female,Indiana,Fall,No,Bi-Weekly
+3235,49,Female,Washington,Winter,No,Quarterly
+3236,27,Female,Kansas,Summer,No,Monthly
+3237,63,Female,South Carolina,Fall,No,Monthly
+3238,61,Female,Vermont,Summer,No,Weekly
+3239,25,Female,Wyoming,Fall,No,Quarterly
+3240,33,Female,Colorado,Fall,No,Monthly
+3241,56,Female,West Virginia,Fall,No,Monthly
+3242,50,Female,Connecticut,Summer,No,Quarterly
+3243,45,Female,Oregon,Fall,No,Weekly
+3244,45,Female,Idaho,Summer,No,Every 3 Months
+3245,65,Female,Arkansas,Fall,No,Annually
+3246,63,Female,Kansas,Fall,No,Weekly
+3247,70,Female,Michigan,Summer,No,Monthly
+3248,53,Female,Arkansas,Summer,No,Fortnightly
+3249,22,Female,Pennsylvania,Summer,No,Quarterly
+3250,26,Female,Virginia,Summer,No,Quarterly
+3251,23,Female,Minnesota,Spring,No,Weekly
+3252,25,Female,Nevada,Winter,No,Quarterly
+3253,69,Female,Montana,Spring,No,Fortnightly
+3254,36,Female,Nebraska,Fall,No,Fortnightly
+3255,21,Female,Indiana,Winter,No,Every 3 Months
+3256,57,Female,New Jersey,Fall,No,Monthly
+3257,60,Female,Wisconsin,Winter,No,Every 3 Months
+3258,44,Female,Minnesota,Fall,No,Every 3 Months
+3259,31,Female,New Jersey,Spring,No,Bi-Weekly
+3260,57,Female,Oklahoma,Fall,No,Every 3 Months
+3261,39,Female,Wisconsin,Summer,No,Annually
+3262,48,Female,Rhode Island,Winter,No,Weekly
+3263,42,Female,Indiana,Spring,No,Every 3 Months
+3264,56,Female,Vermont,Fall,No,Fortnightly
+3265,28,Female,Maine,Winter,No,Bi-Weekly
+3266,40,Female,Alabama,Winter,No,Fortnightly
+3267,49,Female,Alabama,Winter,No,Weekly
+3268,37,Female,Idaho,Winter,No,Quarterly
+3269,22,Female,Arkansas,Fall,No,Every 3 Months
+3270,27,Female,Ohio,Winter,No,Monthly
+3271,59,Female,Illinois,Winter,No,Annually
+3272,35,Female,Nevada,Spring,No,Weekly
+3273,58,Female,Texas,Winter,No,Quarterly
+3274,58,Female,Nevada,Summer,No,Every 3 Months
+3275,46,Female,Oklahoma,Spring,No,Fortnightly
+3276,43,Female,Alabama,Summer,No,Weekly
+3277,39,Female,South Dakota,Summer,No,Every 3 Months
+3278,59,Female,Texas,Spring,No,Monthly
+3279,59,Female,Montana,Summer,No,Weekly
+3280,59,Female,Wyoming,Fall,No,Fortnightly
+3281,45,Female,New York,Winter,No,Monthly
+3282,27,Female,Oregon,Winter,No,Annually
+3283,24,Female,California,Fall,No,Monthly
+3284,47,Female,North Carolina,Spring,No,Every 3 Months
+3285,70,Female,Kentucky,Spring,No,Annually
+3286,58,Female,Hawaii,Fall,No,Weekly
+3287,45,Female,Illinois,Winter,No,Fortnightly
+3288,24,Female,West Virginia,Spring,No,Weekly
+3289,67,Female,South Carolina,Spring,No,Bi-Weekly
+3290,31,Female,Montana,Summer,No,Every 3 Months
+3291,52,Female,North Dakota,Spring,No,Monthly
+3292,29,Female,New Mexico,Fall,No,Monthly
+3293,62,Female,Missouri,Spring,No,Fortnightly
+3294,19,Female,West Virginia,Spring,No,Fortnightly
+3295,62,Female,South Carolina,Spring,No,Bi-Weekly
+3296,70,Female,West Virginia,Summer,No,Weekly
+3297,20,Female,Alaska,Spring,No,Quarterly
+3298,67,Female,West Virginia,Fall,No,Monthly
+3299,65,Female,New Mexico,Fall,No,Every 3 Months
+3300,45,Female,South Dakota,Spring,No,Monthly
+3301,26,Female,Oklahoma,Spring,No,Bi-Weekly
+3302,36,Female,Oklahoma,Summer,No,Fortnightly
+3303,36,Female,Alabama,Winter,No,Bi-Weekly
+3304,20,Female,Mississippi,Summer,No,Fortnightly
+3305,30,Female,Mississippi,Fall,No,Every 3 Months
+3306,34,Female,Nebraska,Summer,No,Bi-Weekly
+3307,63,Female,Colorado,Summer,No,Fortnightly
+3308,18,Female,Pennsylvania,Winter,No,Monthly
+3309,55,Female,Utah,Fall,No,Monthly
+3310,48,Female,Massachusetts,Summer,No,Monthly
+3311,45,Female,Iowa,Winter,No,Fortnightly
+3312,29,Female,Florida,Summer,No,Annually
+3313,55,Female,Louisiana,Summer,No,Quarterly
+3314,55,Female,Kansas,Fall,No,Monthly
+3315,55,Female,Kansas,Spring,No,Quarterly
+3316,48,Female,Kentucky,Summer,No,Every 3 Months
+3317,42,Female,New Mexico,Summer,No,Fortnightly
+3318,21,Female,North Carolina,Summer,No,Quarterly
+3319,45,Female,North Dakota,Summer,No,Monthly
+3320,23,Female,North Dakota,Summer,No,Every 3 Months
+3321,66,Female,Illinois,Fall,No,Every 3 Months
+3322,32,Female,Maine,Winter,No,Annually
+3323,52,Female,Indiana,Winter,No,Weekly
+3324,54,Female,North Dakota,Winter,No,Monthly
+3325,37,Female,Missouri,Fall,No,Weekly
+3326,29,Female,Alaska,Fall,No,Monthly
+3327,47,Female,North Dakota,Summer,No,Annually
+3328,47,Female,Connecticut,Spring,No,Quarterly
+3329,42,Female,Wisconsin,Spring,No,Bi-Weekly
+3330,34,Female,New Jersey,Winter,No,Bi-Weekly
+3331,38,Female,Missouri,Spring,No,Quarterly
+3332,55,Female,California,Summer,No,Quarterly
+3333,27,Female,Washington,Summer,No,Bi-Weekly
+3334,55,Female,Minnesota,Spring,No,Monthly
+3335,66,Female,California,Summer,No,Annually
+3336,44,Female,Texas,Winter,No,Quarterly
+3337,39,Female,Montana,Fall,No,Annually
+3338,23,Female,Arizona,Winter,No,Bi-Weekly
+3339,29,Female,Minnesota,Winter,No,Monthly
+3340,20,Female,Nebraska,Fall,No,Fortnightly
+3341,42,Female,Virginia,Fall,No,Fortnightly
+3342,55,Female,Connecticut,Summer,No,Monthly
+3343,66,Female,New Jersey,Spring,No,Weekly
+3344,24,Female,Kentucky,Winter,No,Bi-Weekly
+3345,62,Female,Washington,Fall,No,Annually
+3346,28,Female,Florida,Summer,No,Bi-Weekly
+3347,30,Female,Oklahoma,Summer,No,Quarterly
+3348,22,Female,Iowa,Summer,No,Bi-Weekly
+3349,28,Female,New Hampshire,Winter,No,Every 3 Months
+3350,35,Female,Georgia,Fall,No,Quarterly
+3351,45,Female,Mississippi,Fall,No,Bi-Weekly
+3352,43,Female,New Hampshire,Spring,No,Fortnightly
+3353,55,Female,Washington,Summer,No,Bi-Weekly
+3354,31,Female,Ohio,Fall,No,Every 3 Months
+3355,42,Female,Maryland,Fall,No,Weekly
+3356,40,Female,Delaware,Spring,No,Bi-Weekly
+3357,39,Female,Tennessee,Summer,No,Bi-Weekly
+3358,41,Female,Arkansas,Winter,No,Monthly
+3359,56,Female,Tennessee,Fall,No,Annually
+3360,43,Female,New Hampshire,Fall,No,Monthly
+3361,22,Female,Minnesota,Spring,No,Every 3 Months
+3362,47,Female,Florida,Spring,No,Bi-Weekly
+3363,50,Female,Tennessee,Summer,No,Fortnightly
+3364,58,Female,California,Winter,No,Bi-Weekly
+3365,50,Female,Oregon,Fall,No,Monthly
+3366,43,Female,Tennessee,Fall,No,Every 3 Months
+3367,38,Female,North Carolina,Spring,No,Quarterly
+3368,44,Female,Tennessee,Summer,No,Fortnightly
+3369,30,Female,Nebraska,Spring,No,Every 3 Months
+3370,47,Female,Maine,Winter,No,Monthly
+3371,30,Female,Illinois,Summer,No,Fortnightly
+3372,49,Female,Colorado,Winter,No,Annually
+3373,56,Female,Pennsylvania,Winter,No,Every 3 Months
+3374,70,Female,Minnesota,Spring,No,Every 3 Months
+3375,22,Female,Nevada,Spring,No,Annually
+3376,51,Female,Connecticut,Fall,No,Annually
+3377,22,Female,Ohio,Winter,No,Quarterly
+3378,37,Female,Kentucky,Winter,No,Fortnightly
+3379,49,Female,Minnesota,Fall,No,Quarterly
+3380,61,Female,Tennessee,Summer,No,Weekly
+3381,41,Female,North Dakota,Summer,No,Every 3 Months
+3382,57,Female,Minnesota,Winter,No,Quarterly
+3383,34,Female,Nebraska,Spring,No,Weekly
+3384,27,Female,Delaware,Fall,No,Bi-Weekly
+3385,39,Female,Minnesota,Summer,No,Quarterly
+3386,62,Female,Rhode Island,Winter,No,Every 3 Months
+3387,34,Female,Michigan,Fall,No,Quarterly
+3388,53,Female,New Jersey,Spring,No,Bi-Weekly
+3389,35,Female,South Dakota,Spring,No,Weekly
+3390,38,Female,North Carolina,Fall,No,Annually
+3391,32,Female,Oregon,Summer,No,Annually
+3392,47,Female,Montana,Fall,No,Every 3 Months
+3393,53,Female,New Jersey,Winter,No,Bi-Weekly
+3394,60,Female,Arizona,Fall,No,Monthly
+3395,31,Female,Vermont,Spring,No,Annually
+3396,44,Female,Colorado,Winter,No,Every 3 Months
+3397,29,Female,Tennessee,Winter,No,Quarterly
+3398,19,Female,New Jersey,Summer,No,Bi-Weekly
+3399,54,Female,Montana,Winter,No,Fortnightly
+3400,40,Female,Montana,Winter,No,Annually
+3401,39,Female,Nevada,Fall,No,Fortnightly
+3402,44,Female,Nevada,Winter,No,Weekly
+3403,22,Female,Louisiana,Spring,No,Every 3 Months
+3404,30,Female,Illinois,Summer,No,Bi-Weekly
+3405,69,Female,South Carolina,Fall,No,Annually
+3406,28,Female,Washington,Summer,No,Bi-Weekly
+3407,57,Female,Nebraska,Spring,No,Quarterly
+3408,46,Female,Alabama,Spring,No,Quarterly
+3409,48,Female,Montana,Summer,No,Annually
+3410,24,Female,Minnesota,Summer,No,Every 3 Months
+3411,50,Female,Ohio,Summer,No,Bi-Weekly
+3412,29,Female,New York,Winter,No,Weekly
+3413,61,Female,Indiana,Fall,No,Quarterly
+3414,34,Female,Delaware,Winter,No,Bi-Weekly
+3415,27,Female,Connecticut,Spring,No,Quarterly
+3416,38,Female,New York,Fall,No,Annually
+3417,25,Female,Alabama,Spring,No,Every 3 Months
+3418,54,Female,Massachusetts,Summer,No,Fortnightly
+3419,53,Female,South Carolina,Summer,No,Annually
+3420,23,Female,West Virginia,Winter,No,Bi-Weekly
+3421,19,Female,Kentucky,Winter,No,Bi-Weekly
+3422,57,Female,New Jersey,Summer,No,Weekly
+3423,19,Female,New York,Winter,No,Monthly
+3424,33,Female,Massachusetts,Spring,No,Bi-Weekly
+3425,33,Female,Florida,Summer,No,Monthly
+3426,38,Female,Michigan,Summer,No,Bi-Weekly
+3427,47,Female,Oregon,Fall,No,Annually
+3428,39,Female,Michigan,Winter,No,Annually
+3429,32,Female,Washington,Fall,No,Monthly
+3430,27,Female,Alaska,Winter,No,Weekly
+3431,67,Female,Montana,Winter,No,Every 3 Months
+3432,46,Female,New Mexico,Summer,No,Annually
+3433,36,Female,Connecticut,Summer,No,Every 3 Months
+3434,62,Female,Alaska,Spring,No,Annually
+3435,31,Female,Ohio,Summer,No,Fortnightly
+3436,68,Female,Montana,Summer,No,Bi-Weekly
+3437,57,Female,Nebraska,Winter,No,Monthly
+3438,22,Female,Oklahoma,Winter,No,Annually
+3439,26,Female,Kentucky,Fall,No,Monthly
+3440,43,Female,Idaho,Summer,No,Quarterly
+3441,45,Female,Maryland,Fall,No,Weekly
+3442,64,Female,Tennessee,Fall,No,Annually
+3443,28,Female,Michigan,Spring,No,Weekly
+3444,47,Female,Tennessee,Summer,No,Bi-Weekly
+3445,53,Female,Rhode Island,Summer,No,Bi-Weekly
+3446,42,Female,Florida,Fall,No,Annually
+3447,51,Female,Louisiana,Spring,No,Weekly
+3448,62,Female,Arkansas,Fall,No,Bi-Weekly
+3449,18,Female,Kentucky,Winter,No,Fortnightly
+3450,48,Female,Kansas,Spring,No,Monthly
+3451,20,Female,Vermont,Spring,No,Monthly
+3452,32,Female,Nevada,Fall,No,Annually
+3453,26,Female,Oklahoma,Spring,No,Fortnightly
+3454,31,Female,Alabama,Winter,No,Bi-Weekly
+3455,55,Female,Louisiana,Fall,No,Bi-Weekly
+3456,49,Female,Ohio,Fall,No,Annually
+3457,42,Female,Texas,Fall,No,Monthly
+3458,64,Female,Maryland,Summer,No,Fortnightly
+3459,68,Female,West Virginia,Spring,No,Quarterly
+3460,68,Female,Ohio,Fall,No,Annually
+3461,41,Female,Indiana,Spring,No,Bi-Weekly
+3462,51,Female,Wyoming,Spring,No,Quarterly
+3463,44,Female,Michigan,Spring,No,Every 3 Months
+3464,27,Female,Maine,Fall,No,Fortnightly
+3465,36,Female,Utah,Winter,No,Annually
+3466,19,Female,Iowa,Spring,No,Weekly
+3467,49,Female,Maryland,Summer,No,Annually
+3468,18,Female,Texas,Fall,No,Annually
+3469,36,Female,Ohio,Winter,No,Quarterly
+3470,36,Female,North Dakota,Fall,No,Annually
+3471,19,Female,West Virginia,Summer,No,Bi-Weekly
+3472,43,Female,North Carolina,Spring,No,Bi-Weekly
+3473,31,Female,Georgia,Summer,No,Weekly
+3474,63,Female,Kansas,Spring,No,Weekly
+3475,41,Female,Maine,Winter,No,Monthly
+3476,48,Female,South Carolina,Spring,No,Quarterly
+3477,68,Female,South Carolina,Summer,No,Weekly
+3478,53,Female,Kentucky,Spring,No,Bi-Weekly
+3479,36,Female,Arizona,Fall,No,Quarterly
+3480,46,Female,New York,Summer,No,Monthly
+3481,21,Female,New Hampshire,Winter,No,Monthly
+3482,52,Female,Ohio,Summer,No,Bi-Weekly
+3483,66,Female,Hawaii,Winter,No,Weekly
+3484,19,Female,Texas,Winter,No,Every 3 Months
+3485,44,Female,Illinois,Fall,No,Bi-Weekly
+3486,50,Female,Massachusetts,Winter,No,Fortnightly
+3487,51,Female,North Carolina,Winter,No,Weekly
+3488,25,Female,West Virginia,Fall,No,Annually
+3489,62,Female,Delaware,Spring,No,Quarterly
+3490,48,Female,Idaho,Summer,No,Every 3 Months
+3491,62,Female,Oregon,Spring,No,Quarterly
+3492,22,Female,Maine,Winter,No,Monthly
+3493,48,Female,South Dakota,Fall,No,Annually
+3494,48,Female,New Mexico,Winter,No,Weekly
+3495,62,Female,Washington,Winter,No,Quarterly
+3496,24,Female,Georgia,Spring,No,Weekly
+3497,39,Female,Idaho,Summer,No,Monthly
+3498,35,Female,Colorado,Spring,No,Every 3 Months
+3499,47,Female,Kentucky,Summer,No,Bi-Weekly
+3500,22,Female,New Jersey,Fall,No,Every 3 Months
+3501,38,Female,Oregon,Fall,No,Fortnightly
+3502,53,Female,Nebraska,Fall,No,Weekly
+3503,31,Female,Massachusetts,Fall,No,Quarterly
+3504,31,Female,Nebraska,Spring,No,Weekly
+3505,65,Female,Hawaii,Fall,No,Monthly
+3506,48,Female,Indiana,Winter,No,Every 3 Months
+3507,18,Female,Illinois,Winter,No,Fortnightly
+3508,46,Female,Colorado,Spring,No,Every 3 Months
+3509,52,Female,Pennsylvania,Fall,No,Weekly
+3510,50,Female,Ohio,Winter,No,Bi-Weekly
+3511,49,Female,Pennsylvania,Fall,No,Monthly
+3512,69,Female,Mississippi,Summer,No,Every 3 Months
+3513,36,Female,Kentucky,Fall,No,Quarterly
+3514,30,Female,Alaska,Spring,No,Fortnightly
+3515,25,Female,Georgia,Winter,No,Monthly
+3516,19,Female,South Dakota,Winter,No,Bi-Weekly
+3517,34,Female,South Carolina,Summer,No,Bi-Weekly
+3518,29,Female,Tennessee,Winter,No,Every 3 Months
+3519,50,Female,Colorado,Spring,No,Quarterly
+3520,31,Female,Wisconsin,Winter,No,Fortnightly
+3521,41,Female,Georgia,Spring,No,Monthly
+3522,52,Female,Maryland,Winter,No,Weekly
+3523,27,Female,New Jersey,Spring,No,Quarterly
+3524,49,Female,Nevada,Summer,No,Fortnightly
+3525,69,Female,Michigan,Summer,No,Monthly
+3526,45,Female,Wyoming,Winter,No,Annually
+3527,20,Female,Massachusetts,Spring,No,Every 3 Months
+3528,25,Female,Washington,Spring,No,Weekly
+3529,38,Female,Maine,Summer,No,Annually
+3530,55,Female,Montana,Winter,No,Weekly
+3531,62,Female,Oklahoma,Spring,No,Weekly
+3532,54,Female,North Dakota,Winter,No,Quarterly
+3533,61,Female,Connecticut,Fall,No,Annually
+3534,50,Female,Texas,Fall,No,Fortnightly
+3535,65,Female,Delaware,Fall,No,Weekly
+3536,68,Female,Mississippi,Summer,No,Monthly
+3537,55,Female,Minnesota,Spring,No,Monthly
+3538,57,Female,Georgia,Spring,No,Every 3 Months
+3539,56,Female,Iowa,Spring,No,Monthly
+3540,29,Female,New York,Spring,No,Bi-Weekly
+3541,24,Female,Nevada,Spring,No,Weekly
+3542,59,Female,Virginia,Winter,No,Annually
+3543,62,Female,Idaho,Spring,No,Weekly
+3544,58,Female,Colorado,Winter,No,Every 3 Months
+3545,64,Female,Wisconsin,Fall,No,Every 3 Months
+3546,48,Female,Connecticut,Spring,No,Annually
+3547,60,Female,Kansas,Summer,No,Bi-Weekly
+3548,52,Female,Pennsylvania,Summer,No,Annually
+3549,63,Female,Utah,Fall,No,Fortnightly
+3550,44,Female,Oregon,Summer,No,Fortnightly
+3551,63,Female,West Virginia,Winter,No,Weekly
+3552,66,Female,Montana,Spring,No,Weekly
+3553,22,Female,Kentucky,Winter,No,Quarterly
+3554,62,Female,Minnesota,Spring,No,Weekly
+3555,39,Female,Louisiana,Spring,No,Fortnightly
+3556,25,Female,Delaware,Spring,No,Quarterly
+3557,70,Female,Arizona,Fall,No,Bi-Weekly
+3558,52,Female,Nevada,Summer,No,Every 3 Months
+3559,68,Female,Alaska,Summer,No,Quarterly
+3560,18,Female,Utah,Fall,No,Every 3 Months
+3561,18,Female,Kansas,Fall,No,Annually
+3562,63,Female,North Carolina,Spring,No,Fortnightly
+3563,47,Female,Maryland,Winter,No,Weekly
+3564,43,Female,Maine,Summer,No,Every 3 Months
+3565,60,Female,Illinois,Summer,No,Annually
+3566,49,Female,Pennsylvania,Spring,No,Monthly
+3567,28,Female,Alaska,Spring,No,Monthly
+3568,32,Female,New Mexico,Summer,No,Monthly
+3569,29,Female,Arkansas,Spring,No,Quarterly
+3570,35,Female,Alaska,Fall,No,Fortnightly
+3571,23,Female,Louisiana,Winter,No,Annually
+3572,70,Female,North Dakota,Summer,No,Every 3 Months
+3573,23,Female,Rhode Island,Spring,No,Monthly
+3574,43,Female,Connecticut,Fall,No,Monthly
+3575,29,Female,New York,Fall,No,Quarterly
+3576,61,Female,Kentucky,Fall,No,Bi-Weekly
+3577,29,Female,Maine,Spring,No,Bi-Weekly
+3578,66,Female,Missouri,Winter,No,Weekly
+3579,46,Female,Georgia,Winter,No,Quarterly
+3580,34,Female,Arizona,Fall,No,Every 3 Months
+3581,51,Female,New Hampshire,Summer,No,Bi-Weekly
+3582,26,Female,Georgia,Fall,No,Weekly
+3583,23,Female,California,Summer,No,Annually
+3584,52,Female,Arizona,Summer,No,Every 3 Months
+3585,39,Female,Florida,Fall,No,Monthly
+3586,39,Female,New York,Winter,No,Bi-Weekly
+3587,33,Female,Idaho,Winter,No,Bi-Weekly
+3588,33,Female,Virginia,Summer,No,Annually
+3589,23,Female,Michigan,Spring,No,Annually
+3590,31,Female,New Hampshire,Spring,No,Every 3 Months
+3591,27,Female,South Dakota,Fall,No,Every 3 Months
+3592,48,Female,South Dakota,Winter,No,Quarterly
+3593,61,Female,New Jersey,Spring,No,Fortnightly
+3594,63,Female,Wyoming,Spring,No,Monthly
+3595,19,Female,Alabama,Summer,No,Quarterly
+3596,21,Female,South Dakota,Spring,No,Annually
+3597,28,Female,South Carolina,Spring,No,Fortnightly
+3598,29,Female,New Mexico,Summer,No,Quarterly
+3599,23,Female,Connecticut,Spring,No,Bi-Weekly
+3600,37,Female,Kansas,Spring,No,Weekly
+3601,67,Female,South Carolina,Spring,No,Bi-Weekly
+3602,34,Female,North Carolina,Summer,No,Monthly
+3603,58,Female,Wyoming,Summer,No,Quarterly
+3604,45,Female,Louisiana,Spring,No,Weekly
+3605,63,Female,Louisiana,Fall,No,Annually
+3606,68,Female,Alabama,Fall,No,Every 3 Months
+3607,41,Female,Minnesota,Fall,No,Annually
+3608,50,Female,New Mexico,Fall,No,Bi-Weekly
+3609,24,Female,Tennessee,Fall,No,Every 3 Months
+3610,21,Female,New Mexico,Summer,No,Monthly
+3611,18,Female,Texas,Fall,No,Fortnightly
+3612,63,Female,Washington,Spring,No,Annually
+3613,47,Female,Michigan,Summer,No,Every 3 Months
+3614,58,Female,Minnesota,Fall,No,Annually
+3615,46,Female,Delaware,Spring,No,Annually
+3616,35,Female,California,Winter,No,Monthly
+3617,42,Female,Wisconsin,Winter,No,Fortnightly
+3618,48,Female,Kentucky,Fall,No,Monthly
+3619,28,Female,Nevada,Fall,No,Bi-Weekly
+3620,44,Female,North Carolina,Winter,No,Weekly
+3621,60,Female,Louisiana,Summer,No,Fortnightly
+3622,38,Female,New Jersey,Summer,No,Fortnightly
+3623,46,Female,Wisconsin,Fall,No,Annually
+3624,39,Female,Arkansas,Winter,No,Weekly
+3625,22,Female,Texas,Fall,No,Bi-Weekly
+3626,44,Female,Illinois,Winter,No,Weekly
+3627,69,Female,Mississippi,Fall,No,Quarterly
+3628,39,Female,Delaware,Winter,No,Every 3 Months
+3629,53,Female,Georgia,Summer,No,Monthly
+3630,52,Female,Kansas,Summer,No,Fortnightly
+3631,65,Female,Oklahoma,Winter,No,Weekly
+3632,48,Female,New Jersey,Fall,No,Monthly
+3633,27,Female,Utah,Spring,No,Quarterly
+3634,39,Female,Montana,Spring,No,Bi-Weekly
+3635,59,Female,Ohio,Winter,No,Annually
+3636,52,Female,Colorado,Fall,No,Fortnightly
+3637,50,Female,California,Summer,No,Weekly
+3638,32,Female,Utah,Winter,No,Fortnightly
+3639,40,Female,Kansas,Spring,No,Bi-Weekly
+3640,26,Female,Illinois,Summer,No,Annually
+3641,47,Female,Minnesota,Spring,No,Monthly
+3642,51,Female,New York,Fall,No,Every 3 Months
+3643,47,Female,Arizona,Summer,No,Annually
+3644,53,Female,Tennessee,Fall,No,Annually
+3645,35,Female,Arkansas,Winter,No,Weekly
+3646,38,Female,Colorado,Summer,No,Every 3 Months
+3647,69,Female,Nevada,Spring,No,Fortnightly
+3648,47,Female,Kansas,Winter,No,Weekly
+3649,31,Female,New York,Winter,No,Bi-Weekly
+3650,68,Female,Minnesota,Fall,No,Fortnightly
+3651,51,Female,Ohio,Summer,No,Annually
+3652,20,Female,Arizona,Spring,No,Every 3 Months
+3653,27,Female,Kentucky,Fall,No,Monthly
+3654,67,Female,Minnesota,Spring,No,Fortnightly
+3655,21,Female,Arkansas,Winter,No,Annually
+3656,20,Female,Wyoming,Fall,No,Bi-Weekly
+3657,35,Female,North Dakota,Spring,No,Monthly
+3658,58,Female,Alabama,Winter,No,Every 3 Months
+3659,28,Female,Mississippi,Fall,No,Fortnightly
+3660,27,Female,Illinois,Fall,No,Annually
+3661,19,Female,Arkansas,Winter,No,Fortnightly
+3662,63,Female,Kansas,Winter,No,Fortnightly
+3663,69,Female,Rhode Island,Spring,No,Weekly
+3664,65,Female,Florida,Summer,No,Weekly
+3665,63,Female,Missouri,Fall,No,Fortnightly
+3666,28,Female,North Carolina,Fall,No,Quarterly
+3667,67,Female,Alabama,Winter,No,Every 3 Months
+3668,51,Female,Washington,Fall,No,Monthly
+3669,59,Female,Michigan,Summer,No,Annually
+3670,25,Female,Washington,Fall,No,Quarterly
+3671,31,Female,Vermont,Winter,No,Every 3 Months
+3672,62,Female,Illinois,Summer,No,Quarterly
+3673,51,Female,New York,Fall,No,Monthly
+3674,32,Female,Rhode Island,Summer,No,Fortnightly
+3675,35,Female,Washington,Winter,No,Fortnightly
+3676,70,Female,Virginia,Winter,No,Monthly
+3677,19,Female,Wisconsin,Spring,No,Monthly
+3678,32,Female,Michigan,Fall,No,Annually
+3679,56,Female,Texas,Fall,No,Fortnightly
+3680,53,Female,Idaho,Summer,No,Bi-Weekly
+3681,22,Female,Iowa,Winter,No,Quarterly
+3682,26,Female,Connecticut,Fall,No,Monthly
+3683,42,Female,Wyoming,Fall,No,Bi-Weekly
+3684,30,Female,Mississippi,Winter,No,Fortnightly
+3685,29,Female,Pennsylvania,Spring,No,Bi-Weekly
+3686,47,Female,Tennessee,Summer,No,Bi-Weekly
+3687,59,Female,Louisiana,Spring,No,Bi-Weekly
+3688,34,Female,Arkansas,Summer,No,Every 3 Months
+3689,52,Female,West Virginia,Spring,No,Monthly
+3690,47,Female,South Carolina,Fall,No,Quarterly
+3691,24,Female,Kansas,Fall,No,Bi-Weekly
+3692,63,Female,Michigan,Summer,No,Weekly
+3693,59,Female,Alabama,Spring,No,Fortnightly
+3694,66,Female,South Dakota,Summer,No,Weekly
+3695,45,Female,Rhode Island,Winter,No,Bi-Weekly
+3696,38,Female,Florida,Fall,No,Fortnightly
+3697,63,Female,Connecticut,Fall,No,Annually
+3698,55,Female,Pennsylvania,Winter,No,Weekly
+3699,25,Female,California,Spring,No,Annually
+3700,51,Female,Oklahoma,Fall,No,Weekly
+3701,28,Female,North Dakota,Summer,No,Every 3 Months
+3702,46,Female,New Mexico,Spring,No,Annually
+3703,58,Female,South Carolina,Spring,No,Weekly
+3704,30,Female,Michigan,Fall,No,Every 3 Months
+3705,68,Female,Missouri,Winter,No,Quarterly
+3706,28,Female,Colorado,Summer,No,Annually
+3707,26,Female,Kansas,Spring,No,Bi-Weekly
+3708,35,Female,Illinois,Fall,No,Weekly
+3709,40,Female,South Carolina,Fall,No,Monthly
+3710,31,Female,Utah,Fall,No,Quarterly
+3711,60,Female,Hawaii,Summer,No,Fortnightly
+3712,69,Female,Texas,Fall,No,Annually
+3713,51,Female,Oregon,Spring,No,Quarterly
+3714,49,Female,Arizona,Spring,No,Every 3 Months
+3715,18,Female,New York,Winter,No,Weekly
+3716,63,Female,Nebraska,Fall,No,Monthly
+3717,57,Female,Vermont,Fall,No,Every 3 Months
+3718,45,Female,Maryland,Summer,No,Every 3 Months
+3719,36,Female,Tennessee,Fall,No,Bi-Weekly
+3720,20,Female,Pennsylvania,Summer,No,Every 3 Months
+3721,21,Female,South Carolina,Fall,No,Quarterly
+3722,62,Female,Connecticut,Fall,No,Annually
+3723,23,Female,Kentucky,Fall,No,Fortnightly
+3724,26,Female,Rhode Island,Spring,No,Monthly
+3725,30,Female,Colorado,Winter,No,Annually
+3726,18,Female,Oklahoma,Winter,No,Annually
+3727,47,Female,Idaho,Fall,No,Every 3 Months
+3728,41,Female,Maine,Summer,No,Bi-Weekly
+3729,62,Female,Vermont,Winter,No,Annually
+3730,28,Female,Rhode Island,Spring,No,Quarterly
+3731,46,Female,Florida,Summer,No,Bi-Weekly
+3732,54,Female,West Virginia,Spring,No,Quarterly
+3733,36,Female,Indiana,Spring,No,Annually
+3734,25,Female,Illinois,Fall,No,Every 3 Months
+3735,38,Female,California,Spring,No,Every 3 Months
+3736,38,Female,Massachusetts,Spring,No,Annually
+3737,42,Female,Idaho,Spring,No,Every 3 Months
+3738,19,Female,Kentucky,Winter,No,Bi-Weekly
+3739,34,Female,Delaware,Spring,No,Fortnightly
+3740,38,Female,Idaho,Fall,No,Weekly
+3741,42,Female,Virginia,Summer,No,Bi-Weekly
+3742,58,Female,Arizona,Spring,No,Bi-Weekly
+3743,56,Female,Maryland,Fall,No,Bi-Weekly
+3744,62,Female,Idaho,Fall,No,Quarterly
+3745,24,Female,New Jersey,Summer,No,Fortnightly
+3746,60,Female,Washington,Spring,No,Monthly
+3747,53,Female,Idaho,Summer,No,Monthly
+3748,26,Female,Rhode Island,Spring,No,Bi-Weekly
+3749,34,Female,Delaware,Fall,No,Annually
+3750,24,Female,Alaska,Winter,No,Every 3 Months
+3751,42,Female,Arizona,Fall,No,Monthly
+3752,36,Female,Alabama,Fall,No,Every 3 Months
+3753,24,Female,Washington,Winter,No,Weekly
+3754,39,Female,Louisiana,Winter,No,Fortnightly
+3755,46,Female,Nebraska,Summer,No,Every 3 Months
+3756,64,Female,Pennsylvania,Fall,No,Monthly
+3757,64,Female,South Carolina,Spring,No,Bi-Weekly
+3758,61,Female,California,Fall,No,Weekly
+3759,61,Female,Indiana,Spring,No,Quarterly
+3760,44,Female,Missouri,Spring,No,Quarterly
+3761,65,Female,Connecticut,Fall,No,Weekly
+3762,60,Female,Nevada,Summer,No,Every 3 Months
+3763,65,Female,New York,Fall,No,Annually
+3764,27,Female,Oklahoma,Winter,No,Every 3 Months
+3765,36,Female,South Dakota,Fall,No,Monthly
+3766,22,Female,Missouri,Summer,No,Bi-Weekly
+3767,62,Female,Texas,Fall,No,Annually
+3768,59,Female,New York,Summer,No,Fortnightly
+3769,50,Female,Vermont,Winter,No,Quarterly
+3770,51,Female,Arizona,Summer,No,Annually
+3771,23,Female,Montana,Summer,No,Weekly
+3772,21,Female,Oklahoma,Winter,No,Bi-Weekly
+3773,44,Female,New Hampshire,Fall,No,Annually
+3774,25,Female,Wisconsin,Summer,No,Quarterly
+3775,57,Female,Alaska,Winter,No,Fortnightly
+3776,41,Female,South Dakota,Spring,No,Quarterly
+3777,19,Female,Alaska,Spring,No,Fortnightly
+3778,43,Female,Utah,Fall,No,Weekly
+3779,25,Female,South Dakota,Fall,No,Annually
+3780,60,Female,California,Spring,No,Annually
+3781,54,Female,Mississippi,Fall,No,Quarterly
+3782,52,Female,Tennessee,Winter,No,Fortnightly
+3783,40,Female,Alabama,Spring,No,Fortnightly
+3784,39,Female,Maine,Summer,No,Fortnightly
+3785,54,Female,Virginia,Winter,No,Annually
+3786,64,Female,New Hampshire,Winter,No,Monthly
+3787,31,Female,Tennessee,Fall,No,Weekly
+3788,37,Female,New York,Fall,No,Every 3 Months
+3789,43,Female,Kansas,Spring,No,Monthly
+3790,56,Female,North Dakota,Summer,No,Every 3 Months
+3791,27,Female,Alaska,Summer,No,Weekly
+3792,40,Female,Texas,Spring,No,Weekly
+3793,43,Female,Massachusetts,Summer,No,Fortnightly
+3794,62,Female,Delaware,Fall,No,Annually
+3795,44,Female,South Dakota,Summer,No,Weekly
+3796,45,Female,Arkansas,Spring,No,Weekly
+3797,40,Female,Utah,Fall,No,Quarterly
+3798,68,Female,California,Summer,No,Quarterly
+3799,63,Female,Rhode Island,Winter,No,Annually
+3800,60,Female,Oklahoma,Winter,No,Monthly
+3801,19,Female,Vermont,Fall,No,Bi-Weekly
+3802,26,Female,Kentucky,Spring,No,Fortnightly
+3803,70,Female,Illinois,Spring,No,Monthly
+3804,48,Female,Connecticut,Spring,No,Weekly
+3805,37,Female,Florida,Fall,No,Annually
+3806,48,Female,New Jersey,Fall,No,Quarterly
+3807,18,Female,Missouri,Spring,No,Weekly
+3808,38,Female,Michigan,Spring,No,Annually
+3809,33,Female,Washington,Winter,No,Bi-Weekly
+3810,57,Female,New York,Winter,No,Annually
+3811,46,Female,Wisconsin,Fall,No,Monthly
+3812,46,Female,Idaho,Winter,No,Monthly
+3813,50,Female,Michigan,Spring,No,Every 3 Months
+3814,61,Female,Georgia,Summer,No,Bi-Weekly
+3815,45,Female,Michigan,Winter,No,Every 3 Months
+3816,32,Female,Maine,Fall,No,Fortnightly
+3817,29,Female,Maryland,Summer,No,Fortnightly
+3818,66,Female,Missouri,Fall,No,Annually
+3819,70,Female,Oregon,Winter,No,Monthly
+3820,36,Female,Arkansas,Spring,No,Quarterly
+3821,34,Female,New Hampshire,Winter,No,Quarterly
+3822,20,Female,Oregon,Summer,No,Every 3 Months
+3823,70,Female,Kansas,Spring,No,Every 3 Months
+3824,50,Female,California,Summer,No,Weekly
+3825,54,Female,Georgia,Summer,No,Quarterly
+3826,49,Female,Hawaii,Fall,No,Fortnightly
+3827,50,Female,Montana,Summer,No,Annually
+3828,62,Female,Montana,Summer,No,Fortnightly
+3829,42,Female,Mississippi,Spring,No,Weekly
+3830,69,Female,Washington,Spring,No,Fortnightly
+3831,22,Female,Pennsylvania,Summer,No,Every 3 Months
+3832,36,Female,Nevada,Spring,No,Every 3 Months
+3833,64,Female,Kansas,Winter,No,Weekly
+3834,44,Female,Arizona,Summer,No,Every 3 Months
+3835,43,Female,Tennessee,Winter,No,Quarterly
+3836,58,Female,Pennsylvania,Winter,No,Bi-Weekly
+3837,62,Female,Alaska,Spring,No,Fortnightly
+3838,45,Female,New Mexico,Spring,No,Fortnightly
+3839,47,Female,Rhode Island,Summer,No,Every 3 Months
+3840,66,Female,Connecticut,Spring,No,Quarterly
+3841,30,Female,Idaho,Spring,No,Fortnightly
+3842,68,Female,Mississippi,Fall,No,Monthly
+3843,35,Female,Colorado,Winter,No,Monthly
+3844,64,Female,Georgia,Winter,No,Every 3 Months
+3845,30,Female,Montana,Fall,No,Quarterly
+3846,58,Female,California,Winter,No,Annually
+3847,57,Female,Pennsylvania,Summer,No,Every 3 Months
+3848,60,Female,Delaware,Fall,No,Fortnightly
+3849,22,Female,New Hampshire,Winter,No,Every 3 Months
+3850,46,Female,Florida,Winter,No,Fortnightly
+3851,27,Female,Mississippi,Summer,No,Every 3 Months
+3852,50,Female,Montana,Summer,No,Annually
+3853,65,Female,Mississippi,Fall,No,Weekly
+3854,61,Female,Tennessee,Fall,No,Bi-Weekly
+3855,57,Female,Florida,Spring,No,Annually
+3856,40,Female,Illinois,Summer,No,Quarterly
+3857,39,Female,Virginia,Summer,No,Quarterly
+3858,42,Female,Texas,Summer,No,Every 3 Months
+3859,30,Female,Missouri,Winter,No,Quarterly
+3860,65,Female,Mississippi,Fall,No,Bi-Weekly
+3861,57,Female,Pennsylvania,Summer,No,Annually
+3862,64,Female,Wyoming,Spring,No,Monthly
+3863,56,Female,Idaho,Winter,No,Monthly
+3864,40,Female,New Hampshire,Summer,No,Fortnightly
+3865,55,Female,Wyoming,Winter,No,Fortnightly
+3866,25,Female,Nebraska,Spring,No,Every 3 Months
+3867,58,Female,Alaska,Winter,No,Fortnightly
+3868,46,Female,Maryland,Summer,No,Monthly
+3869,18,Female,Maryland,Winter,No,Annually
+3870,26,Female,Arizona,Spring,No,Annually
+3871,61,Female,Ohio,Fall,No,Every 3 Months
+3872,55,Female,Minnesota,Fall,No,Every 3 Months
+3873,41,Female,New Hampshire,Spring,No,Monthly
+3874,42,Female,Louisiana,Summer,No,Weekly
+3875,70,Female,Nevada,Summer,No,Bi-Weekly
+3876,63,Female,New Hampshire,Winter,No,Annually
+3877,60,Female,Wisconsin,Fall,No,Annually
+3878,28,Female,Nevada,Spring,No,Monthly
+3879,60,Female,South Carolina,Summer,No,Annually
+3880,26,Female,Florida,Winter,No,Quarterly
+3881,42,Female,Massachusetts,Winter,No,Monthly
+3882,56,Female,Georgia,Spring,No,Weekly
+3883,35,Female,North Dakota,Fall,No,Fortnightly
+3884,34,Female,North Dakota,Fall,No,Fortnightly
+3885,47,Female,Maryland,Fall,No,Weekly
+3886,49,Female,New Mexico,Winter,No,Quarterly
+3887,37,Female,Iowa,Summer,No,Quarterly
+3888,40,Female,Kansas,Spring,No,Quarterly
+3889,45,Female,Virginia,Spring,No,Bi-Weekly
+3890,57,Female,Alaska,Spring,No,Annually
+3891,35,Female,Nebraska,Winter,No,Annually
+3892,36,Female,Colorado,Winter,No,Quarterly
+3893,35,Female,Michigan,Summer,No,Fortnightly
+3894,21,Female,Massachusetts,Fall,No,Bi-Weekly
+3895,66,Female,Connecticut,Spring,No,Every 3 Months
+3896,40,Female,Virginia,Summer,No,Weekly
+3897,52,Female,Iowa,Spring,No,Bi-Weekly
+3898,46,Female,New Jersey,Spring,No,Quarterly
+3899,44,Female,Minnesota,Summer,No,Weekly
+3900,52,Female,California,Spring,No,Quarterly
