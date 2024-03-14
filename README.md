@@ -2,7 +2,7 @@
 Data Analysis on Customer Shopping Trends
 
 ## Project Overview
-This project explores Customer Shopping trends to understand consumer behavior and purchasing patterns. The aim is to study sales strategies and how we can improve and optimize customer experience and boost sale revenues for stores 
+This project explores Customer Shopping trends to understand consumer behavior and purchasing patterns. The aim is to study sales strategies, so we can improve and optimize customer experience and boost sales revenues for retail and shopping experience
 
 ## Data Source
 Dataset: This dataset was taken from the [Customer Shopping Trends Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset?select=shopping_trends_updated.csv) on Kaggle
@@ -38,4 +38,5 @@ I divided the dataset into two CSV files, demographics and products to show my s
 
 ## Tools Used
 
-SQL
+- MySQL
+  - Aggregations, Joins, CTES, Temp Tables
