@@ -154,3 +154,43 @@ ORDER BY TotalRevenue DESC;
 
 -- What are Female/Male preferences on Categories and Product?
 
+-- Male Most Popular Products
+SELECT p.item_purchased item_purchased, COUNT(p.item_purchased) AS count_items_purchased
+FROM demographics d
+JOIN products p
+ON d.customer_id = p.customer_id
+WHERE gender = 'Male'
+GROUP BY item_purchased
+ORDER BY count_items_purchased DESC;
+
+-- Male Most Popular Categories
+SELECT p.category category, COUNT(p.category) AS count_category
+FROM demographics d
+JOIN products p
+ON d.customer_id = p.customer_id
+WHERE gender = 'Male'
+GROUP BY category
+ORDER BY count_category DESC;
+
+
+
+
+
+-- Female Most Popular Products
+SELECT p.item_purchased item_purchased, COUNT(p.item_purchased) AS count_items_purchased
+FROM demographics d
+JOIN products p
+ON d.customer_id = p.customer_id
+WHERE gender = 'Female'
+GROUP BY item_purchased
+ORDER BY count_items_purchased DESC;
+
+-- Female Most Popular Categories
+SELECT p.category category, COUNT(p.category) AS count_category
+FROM demographics d
+JOIN products p
+ON d.customer_id = p.customer_id
+WHERE gender = 'Female'
+GROUP BY category
+ORDER BY count_category DESC;
+
