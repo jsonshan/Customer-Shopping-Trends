@@ -194,3 +194,39 @@ WHERE gender = 'Female'
 GROUP BY category
 ORDER BY count_category DESC;
 
+
+
+-- What age range generates the most revenue?
+SELECT CASE
+			WHEN d.age >= 18 AND d.age <= 24 THEN '18 - 24'
+            WHEN d.age >= 25 AND d.age <= 34 THEN '25 - 34 '
+            WHEN d.age >= 35 AND d.age <= 49 THEN '35 - 49'
+            WHEN d.age >= 50 AND d.age <= 64 THEN '50 - 64'
+            ELSE 'Over 65'
+		END AS AgeRange,
+        SUM(p.purchase_amount) AS TotalRevenue,
+        COUNT(*) CustomerCount,
+		SUM(p.purchase_amount) / COUNT(*) AS AverageCustomerSpent 
+FROM demographics d
+JOIN products p
+ON d.customer_id = p.customer_id
+GROUP BY AgeRange
+ORDER BY CustomerCount DESC;
+
+
+-- Which season is the most profitable every year?
+SELECT 
+d.season, SUM(p.purchase_amount) AS TotalRevenue
+FROM demographics d
+JOIN products p
+ON d.customer_id = p.customer_id
+-- WHERE d.location = 'New York'			-- Checking New York's revenue
+GROUP BY season
+ORDER BY TotalRevenue DESC;
+
+
+--
+SELECT shipping_type, COUNT(*) ShippingCount
+FROM products
+GROUP BY shipping_type
+ORDER BY ShippingCount
