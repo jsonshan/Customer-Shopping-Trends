@@ -299,7 +299,7 @@ WITH Revenue_Boost AS (
     GROUP BY category, color
 )
 SELECT category, color, TotalRevenue
-FROM Revenue_Boost_CTE
+FROM Revenue_Boost
 WHERE rank_ = 1
 
 
