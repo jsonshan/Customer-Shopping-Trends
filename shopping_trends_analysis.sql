@@ -290,9 +290,8 @@ ORDER BY TotalRevenue DESC;
 
 
 -- Which color shirts/accessories should I include to boost revenue?
--- CTE
 
-WITH Revenue_Boost_CTE AS (
+WITH Revenue_Boost AS (
     SELECT category, color, SUM(purchase_amount) AS TotalRevenue,
         ROW_NUMBER() OVER (PARTITION BY category ORDER BY SUM(purchase_amount) DESC) rank_
     FROM products
