@@ -38,8 +38,7 @@ I divided the dataset into two CSV files, demographics and products to show my s
 
 ## Tools Used
 
-- MySQL
-  - Aggregations, Joins, CTES, Temp Tables
+- MySQL - Aggregations, Joins, CTES, Temp Tables
  
 ## Exploratory Data Analysis
 
