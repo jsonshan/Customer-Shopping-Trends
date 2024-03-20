@@ -44,9 +44,9 @@ I divided the dataset into two CSV files, demographics and products to show my s
 
 ### What is the unique count of customer IDs in demographics and products tables?
 
-|UniqueDemographicsIDS||UniqueProductIDS|
-|-||-|
-|3900||3900|
+|UniqueDemographicsIDS|UniqueProductIDS|
+|-|-|
+|3900|3900|
 
 ----------------------------------------------------------------------------------
 
