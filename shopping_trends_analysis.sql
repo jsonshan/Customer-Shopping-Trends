@@ -139,60 +139,68 @@ GROUP BY discount_applied, promo_code_used
 ORDER BY TotalSales DESC;
 
 -- Which state generates the highest revenue?
-SELECT d.location location, SUM(p.purchase_amount) as TotalRevenue
-FROM demographics d
-JOIN products p
-ON d.customer_id = p.customer_id
-GROUP BY location
-ORDER BY TotalRevenue DESC;
+CREATE TEMPORARY TABLE Revenue_By_Location AS
+SELECT *
+FROM (
+    SELECT d.location AS location, SUM(p.purchase_amount) AS TotalRevenue
+    FROM demographics d
+    JOIN products p ON d.customer_id = p.customer_id
+    GROUP BY location
+) AS subquery;
+
+SELECT * FROM Revenue_By_Location;
+
 
 -- Do males or females contribute more revenue?
-SELECT d.gender gender, SUM(p.purchase_amount) as TotalRevenue, COUNT(*) AS TotalCustomers
-FROM demographics d
-JOIN products p
-ON d.customer_id = p.customer_id
-GROUP BY gender
-ORDER BY TotalRevenue DESC;
+CREATE TEMPORARY TABLE Revenue_By_Gender AS
+SELECT *
+FROM (
+    SELECT d.gender AS gender, SUM(p.purchase_amount) AS TotalRevenue, COUNT(*) AS TotalCustomers
+    FROM demographics d
+    JOIN products p ON d.customer_id = p.customer_id
+    GROUP BY gender
+) AS subquery;
+
+SELECT * FROM Revenue_By_Gender;
+
 
 -- What are the preferences of males and females in terms of categories and products?
 
--- Most Popular Male Products
-SELECT p.item_purchased item_purchased, COUNT(p.item_purchased) AS count_items_purchased
-FROM demographics d
-JOIN products p
-ON d.customer_id = p.customer_id
-WHERE gender = 'Male'
-GROUP BY item_purchased
-ORDER BY count_items_purchased DESC;
+WITH Male_Products AS (
+    SELECT p.item_purchased AS item_purchased, COUNT(p.item_purchased) AS count_items_purchased
+    FROM demographics d
+    JOIN products p ON d.customer_id = p.customer_id
+    WHERE gender = 'Male'
+    GROUP BY item_purchased
+)
+SELECT * FROM Male_Products;
 
--- Most Popular Male Categories
-SELECT p.category category, COUNT(p.category) AS count_category
-FROM demographics d
-JOIN products p
-ON d.customer_id = p.customer_id
-WHERE gender = 'Male'
-GROUP BY category
-ORDER BY count_category DESC;
+WITH Male_Categories AS (
+    SELECT p.category AS category, COUNT(p.category) AS count_category
+    FROM demographics d
+    JOIN products p ON d.customer_id = p.customer_id
+    WHERE gender = 'Male'
+    GROUP BY category
+)
+SELECT * FROM Male_Categories;
 
+WITH Female_Products AS (
+    SELECT p.item_purchased AS item_purchased, COUNT(p.item_purchased) AS count_items_purchased
+    FROM demographics d
+    JOIN products p ON d.customer_id = p.customer_id
+    WHERE gender = 'Female'
+    GROUP BY item_purchased
+)
+SELECT * FROM Female_Products;
 
-
--- Most Popular Female Products
-SELECT p.item_purchased item_purchased, COUNT(p.item_purchased) AS count_items_purchased
-FROM demographics d
-JOIN products p
-ON d.customer_id = p.customer_id
-WHERE gender = 'Female'
-GROUP BY item_purchased
-ORDER BY count_items_purchased DESC;
-
--- Most Popular Female Categories
-SELECT p.category category, COUNT(p.category) AS count_category
-FROM demographics d
-JOIN products p
-ON d.customer_id = p.customer_id
-WHERE gender = 'Female'
-GROUP BY category
-ORDER BY count_category DESC;
+WITH Female_Categories AS (
+    SELECT p.category AS category, COUNT(p.category) AS count_category
+    FROM demographics d
+    JOIN products p ON d.customer_id = p.customer_id
+    WHERE gender = 'Female'
+    GROUP BY category
+)
+SELECT * FROM Female_Categories;
 
 
 
@@ -221,7 +229,7 @@ WHERE row_num = 1;
 
 
 
--- What are the most popular products in the clothing category for male and female?
+-- What are the most popular products in the clothing category for males and females?
 SELECT gender, item_purchased, TotalCount
 FROM (
 	SELECT d.gender gender, p.item_purchased item_purchased, COUNT(item_purchased) AS TotalCount,
@@ -255,8 +263,7 @@ ORDER BY CustomerCount DESC;
 
 
 -- Which season is the most profitable every year?
-SELECT 
-d.season, SUM(p.purchase_amount) AS TotalRevenue
+SELECT d.season, SUM(p.purchase_amount) AS TotalRevenue
 FROM demographics d
 JOIN products p
 ON d.customer_id = p.customer_id
@@ -283,27 +290,18 @@ ORDER BY TotalRevenue DESC;
 
 
 -- Which color shirts/accessories should I include to boost revenue?
-SELECT 
-    category,
-    color,
-    TotalRevenue
-FROM (
-    SELECT
-        category,
-        color,
-        SUM(purchase_amount) AS TotalRevenue,
-        ROW_NUMBER() OVER (PARTITION BY category ORDER BY SUM(purchase_amount) DESC) rank_
-    FROM
-        products
-    WHERE
-        category IN ('Clothing', 'Accessories')
-    GROUP BY
-        category,
-        color
-) AS ranked_colors
-WHERE
-    rank_ = 1;
+-- CTE
 
+WITH Revenue_Boost_CTE AS (
+    SELECT category, color, SUM(purchase_amount) AS TotalRevenue,
+        ROW_NUMBER() OVER (PARTITION BY category ORDER BY SUM(purchase_amount) DESC) rank_
+    FROM products
+    WHERE category IN ('Clothing', 'Accessories')
+    GROUP BY category, color
+)
+SELECT category, color, TotalRevenue
+FROM Revenue_Boost_CTE
+WHERE rank_ = 1
 
 
 
