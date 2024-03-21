@@ -14,7 +14,11 @@ Data Analysis on Customer Shopping Trends
 - [Limitations](#limitations)
 
 ## Project Overview
-This project explores Customer Shopping trends to understand consumer behavior and purchasing patterns. The aim is to study sales strategies, so we can improve and optimize customer experience and boost sales revenues for retail and shopping experience
+This project explores Customer Shopping trends to understand consumer behavior and purchasing patterns. The aim is to study sales strategies to improve and optimize customer experience and boost sales revenues for retail and shopping experiences.
+We can gain insights into strategic business decisions by examining customer demographics and product transactions, which will save money and generate more sales.
+
+By performing data analytics techniques in MySQL such as aggregations, joins, common table expressions (CTEs), and temporary tables, this analysis seeks to find customer trends, preferences, and correlations that will ultimately boost customer
+retention and influence greater purchases for increased shopping revenue. 
 
 ## Results/Business Recommendations
 
