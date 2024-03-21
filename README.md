@@ -3,11 +3,11 @@ Data Analysis on Customer Shopping Trends
 
 ## Table of Contents
 - [Project Overview](#project-overview)
+- [Business Recommendations](#results-business-recommendations)
 - [Data Source](#data-source)
   - [Demographics Table](#demographics-table)
   - [Products Table](#products-table)
 - [Tools Used](#tools-used)
-- [Business Recommendations](#business-recommendations)
 - [Results to Data Questions Asked](#results-to-data-questions-asked)
   - [Exploratory Data Analysis](#exploratory-data-analysis)
   - [Data Analysis](#data-analysis)
@@ -15,6 +15,25 @@ Data Analysis on Customer Shopping Trends
 
 ## Project Overview
 This project explores Customer Shopping trends to understand consumer behavior and purchasing patterns. The aim is to study sales strategies, so we can improve and optimize customer experience and boost sales revenues for retail and shopping experience
+
+## Results/Business Recommendations
+
+1. **Promotional Strategies** - Implement targeted discount and promo code campaigns to drive sales, especially during peak seasons.
+
+2. **Geographic Targeting** - Focus marketing efforts on states like Vermont, Louisiana, and Virginia to capitalize on high revenue potential.
+
+3. **Gender-Specific Marketing** - Tailor marketing strategies to cater to the preferences of each gender, emphasizing clothing for males and accessories for females.
+
+4. **Seasonal Stock Planning** - Stock up on inventory for fall-related products and capitalize on the increased demand during this season.
+
+5. **Customer Retention** - Develop loyalty programs to encourage repeat purchases and enhance customer lifetime value.
+
+6. **Product Assortment Optimization** - Expand product offerings in popular categories like clothing and accessories, focusing on items like pants and blouses.
+
+7. **Size and Color Considerations** - Ensure adequate stock of medium-sized items and red-colored products to meet customer demand effectively.
+
+8. **Payment Method Convenience** - Continue supporting payment methods like PayPal, Credit Card, and Cash to provide convenient options for customers.
+
 
 ## Data Source
 Dataset: This dataset was taken from the [Customer Shopping Trends Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset?select=shopping_trends_updated.csv) on Kaggle
@@ -51,26 +70,6 @@ I divided the dataset into two CSV files, demographics and products to show my s
 ## Tools Used
 
 - MySQL - Aggregations, Joins, CTES, Temp Tables
-
-
-## Business Recommendations
-
-1. **Promotional Strategies** - Implement targeted discount and promo code campaigns to drive sales, especially during peak seasons.
-
-2. **Geographic Targeting** - Focus marketing efforts on states like Vermont, Louisiana, and Virginia to capitalize on high revenue potential.
-
-3. **Gender-Specific Marketing** - Tailor marketing strategies to cater to the preferences of each gender, emphasizing clothing for males and accessories for females.
-
-4. **Seasonal Stock Planning** - Stock up on inventory for fall-related products and capitalize on the increased demand during this season.
-
-5. **Customer Retention** - Develop loyalty programs to encourage repeat purchases and enhance customer lifetime value.
-
-6. **Product Assortment Optimization** - Expand product offerings in popular categories like clothing and accessories, focusing on items like pants and blouses.
-
-7. **Size and Color Considerations** - Ensure adequate stock of medium-sized items and red-colored products to meet customer demand effectively.
-
-8. **Payment Method Convenience** - Continue supporting payment methods like PayPal, Credit Card, and Cash to provide convenient options for customers.
-
 
 # Results to data questions asked
  
