@@ -1,6 +1,36 @@
 # Customer-Shopping-Trends
 Data Analysis on Customer Shopping Trends
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+  - [Demographics Table](#demographics-table)
+  - [Products Table](#products-table)
+- [Tools Used](#tools-used)
+- [Business Recommendations](#business-recommendations)
+- [Results to Data Questions Asked](#results-to-data-questions-asked)
+  - [Exploratory Data Analysis](#exploratory-data-analysis)
+    - [Unique Customer IDs](#what-is-the-unique-count-of-customer-ids-in-demographics-and-products-tables)
+    - [Missing Values](#check-for-any-missing-values-in-key-fields-from-each-table)
+    - [Most Purchased Categories and Items](#what-are-the-most-purchased-categories-and-items)
+    - [Overview of Customer Ratings](#what-is-the-overview-of-customer-ratings)
+    - [Distribution of Data Across Different Seasons and Subscription Statuses](#what-is-the-distribution-of-data-across-different-seasons-and-subscription-statuses)
+    - [Subscription Status](#checking-subscription-status)
+    - [Popular Sizes, Colors, and Payment Methods](#what-are-the-most-popular-sizes-colors-and-payment-methods)
+  - [Data Analysis](#data-analysis)
+    - [Effect of Discounts/Promo Codes on Sales](#do-discountspromo-codes-lead-to-increased-sales-or-revenue)
+    - [Highest Revenue-Generating State](#which-state-generates-the-highest-revenue)
+    - [Contribution of Genders to Revenue](#do-males-or-females-contribute-more-revenue)
+    - [Preferences of Males and Females](#what-are-the-preferences-of-males-and-females-in-terms-of-categories-and-products)
+    - [Average Rating of Each Category](#what-is-the-average-rating-of-each-category)
+    - [Most Popular Categories for Both Genders](#what-are-the-most-popular-categories-for-both-genders)
+    - [Most Popular Products in the Clothing Category](#what-are-the-most-popular-products-in-the-clothing-category-for-males-and-females)
+    - [Age Range Impact on Revenue](#what-age-range-generates-the-most-revenue)
+    - [Most Profitable Season](#which-season-is-the-most-profitable-every-year)
+    - [Impact of Previous Purchases/Returning Customers on Revenue](#do-greater-previous-purchases-or-returning-customers-generate-more-revenue)
+    - [Color Recommendations for Revenue Boost](#which-color-shirtsaccessories-should-i-include-to-boost-revenue)
+- [Limitations](#limitations)
+
 ## Project Overview
 This project explores Customer Shopping trends to understand consumer behavior and purchasing patterns. The aim is to study sales strategies, so we can improve and optimize customer experience and boost sales revenues for retail and shopping experience
 
@@ -39,6 +69,28 @@ I divided the dataset into two CSV files, demographics and products to show my s
 ## Tools Used
 
 - MySQL - Aggregations, Joins, CTES, Temp Tables
+
+
+## Business Recommendations
+
+1. **Promotional Strategies** - Implement targeted discount and promo code campaigns to drive sales, especially during peak seasons.
+
+2. **Geographic Targeting** - Focus marketing efforts on states like Vermont, Louisiana, and Virginia to capitalize on high revenue potential.
+
+3. **Gender-Specific Marketing** - Tailor marketing strategies to cater to the preferences of each gender, emphasizing clothing for males and accessories for females.
+
+4. **Seasonal Stock Planning** - Stock up on inventory for fall-related products and capitalize on the increased demand during this season.
+
+5. **Customer Retention** - Develop loyalty programs to encourage repeat purchases and enhance customer lifetime value.
+
+6. **Product Assortment Optimization** - Expand product offerings in popular categories like clothing and accessories, focusing on items like pants and blouses.
+
+7. **Size and Color Considerations** - Ensure adequate stock of medium-sized items and red-colored products to meet customer demand effectively.
+
+8. **Payment Method Convenience** - Continue supporting payment methods like PayPal, Credit Card, and Cash to provide convenient options for customers.
+
+
+# Results to data questions asked
  
 ## Exploratory Data Analysis
 
@@ -277,3 +329,8 @@ Category
 
 ----------------------------------------------------------------------------------
 
+## Limitations
+
+1. There are no dates so we cannot see trends and relationships between products and customers over time. 
+2. Sampling bias could occur as there was a majority of 68% of males being surveyed
+   
