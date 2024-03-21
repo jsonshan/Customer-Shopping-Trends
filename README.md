@@ -3,7 +3,7 @@ Data Analysis on Customer Shopping Trends
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Business Recommendations](#results-business-recommendations)
+- [Results/Business Recommendations](#resultsbusiness-recommendations)
 - [Data Source](#data-source)
   - [Demographics Table](#demographics-table)
   - [Products Table](#products-table)
