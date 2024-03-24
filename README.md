@@ -1,6 +1,8 @@
 # Customer-Shopping-Trends
 Data Analysis on Customer Shopping Trends
 
+## Check out my [Tableau Dashboard](https://public.tableau.com/app/profile/jasonshan/viz/ShoppingTrends_17109009955280/Map?publish=yes)! 
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Results/Business Recommendations](#resultsbusiness-recommendations)
@@ -74,6 +76,7 @@ I divided the dataset into two CSV files, demographics and products to show my s
 ## Tools Used
 
 - MySQL - Aggregations, Joins, CTES, Temp Tables
+- Tableau - Visualizations
 
 # Results to data questions asked
  
