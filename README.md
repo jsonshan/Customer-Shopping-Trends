@@ -1,7 +1,7 @@
 # Customer-Shopping-Trends
 Data Analysis on Customer Shopping Trends
 
-## Check out my [Tableau Dashboard](https://public.tableau.com/app/profile/jasonshan/viz/ShoppingTrends_17109009955280/Map?publish=yes)! 
+## Check out my [Tableau Dashboard](https://public.tableau.com/app/profile/jasonshan/viz/ShoppingTrends_17109009955280/Dashboard1)!
 
 ## Table of Contents
 - [Project Overview](#project-overview)
